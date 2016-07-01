@@ -1,0 +1,8 @@
+enum declaration
+enumDecl
+	^ { 
+		(#LIBUSB_CAP_HAS_CAPABILITY -> 16r0000). 
+		(#LIBUSB_CAP_HAS_HOTPLUG -> 16r0001).
+		(#LIBUSB_CAP_HAS_HID_ACCESS -> 16r0100).
+		(#LIBUSB_CAP_SUPPORTS_DETACH_KERNEL_DRIVER -> 16r0101)
+	} asDictionary

@@ -1,0 +1,17 @@
+{
+	"category" : "LibUsb-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LIBUSB_CAP_HAS_CAPABILITY",
+		"LIBUSB_CAP_HAS_HID_ACCESS",
+		"LIBUSB_CAP_HAS_HOTPLUG",
+		"LIBUSB_CAP_SUPPORTS_DETACH_KERNEL_DRIVER" ],
+	"commentStamp" : "JulienDelplanque 7/1/2016 14:07",
+	"instvars" : [
+		 ],
+	"name" : "LUCapabilityEnumeration",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalEnumeration",
+	"type" : "normal" }

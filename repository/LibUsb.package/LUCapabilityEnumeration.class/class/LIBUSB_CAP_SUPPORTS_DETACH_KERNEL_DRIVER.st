@@ -1,0 +1,4 @@
+accessing enum
+LIBUSB_CAP_SUPPORTS_DETACH_KERNEL_DRIVER
+	"This method was automatically generated"
+	^ LIBUSB_CAP_SUPPORTS_DETACH_KERNEL_DRIVER
