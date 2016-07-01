@@ -1,0 +1,8 @@
+enum declaration
+enumDecl
+	^ { 
+		(#LIBUSB_LOW_SPEED_OPERATION -> 1).
+		(#LIBUSB_FULL_SPEED_OPERATION -> 2).
+		(#LIBUSB_HIGH_SPEED_OPERATION -> 4).
+		(#LIBUSB_SUPER_SPEED_OPERATION -> 8)
+	} asDictionary

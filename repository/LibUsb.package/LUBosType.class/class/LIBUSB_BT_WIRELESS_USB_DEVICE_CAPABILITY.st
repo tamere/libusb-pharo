@@ -1,0 +1,4 @@
+accessing enum
+LIBUSB_BT_WIRELESS_USB_DEVICE_CAPABILITY
+	"This method was automatically generated"
+	^ LIBUSB_BT_WIRELESS_USB_DEVICE_CAPABILITY

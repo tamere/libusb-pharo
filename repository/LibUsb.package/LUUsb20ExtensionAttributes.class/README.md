@@ -1,0 +1,1 @@
+I represent the libusb_usb_2_0_extension_attributes enum.

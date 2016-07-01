@@ -1,0 +1,1 @@
+I represent the libusb_ss_usb_device_capability_attributes enum.

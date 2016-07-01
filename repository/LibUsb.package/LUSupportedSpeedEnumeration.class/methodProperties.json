@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"LIBUSB_FULL_SPEED_OPERATION" : "JulienDelplanque 7/1/2016 16:26",
+		"LIBUSB_HIGH_SPEED_OPERATION" : "JulienDelplanque 7/1/2016 16:26",
+		"LIBUSB_LOW_SPEED_OPERATION" : "JulienDelplanque 7/1/2016 16:26",
+		"LIBUSB_SUPER_SPEED_OPERATION" : "JulienDelplanque 7/1/2016 16:26",
+		"enumDecl" : "JulienDelplanque 7/1/2016 16:25" },
+	"instance" : {
+		 } }
