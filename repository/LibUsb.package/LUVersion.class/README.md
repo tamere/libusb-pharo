@@ -1,0 +1,1 @@
+I represent the libusb_version C structure in Pharo.

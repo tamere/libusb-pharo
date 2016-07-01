@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 7/1/2016 13:34",
+	"commentStamp" : "JulienDelplanque 7/1/2016 13:35",
 	"instvars" : [
 		 ],
-	"name" : "LUVersion",
+	"name" : "LUDevice",
 	"pools" : [
 		 ],
-	"super" : "FFIExternalStructure",
+	"super" : "FFIOpaqueObject",
 	"type" : "normal" }
