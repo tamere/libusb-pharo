@@ -1,0 +1,14 @@
+{
+	"category" : "LibUsb-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/1/2016 09:25",
+	"instvars" : [
+		 ],
+	"name" : "LUContext",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalObject",
+	"type" : "normal" }

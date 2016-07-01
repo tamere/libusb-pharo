@@ -1,0 +1,1 @@
+I am the pharo representation of a libusb_context structure.

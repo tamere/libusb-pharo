@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"LIBUSB_LOG_LEVEL_DEBUG" : "JulienDelplanque 7/1/2016 09:46",
+		"LIBUSB_LOG_LEVEL_ERROR" : "JulienDelplanque 7/1/2016 09:45",
+		"LIBUSB_LOG_LEVEL_INFO" : "JulienDelplanque 7/1/2016 09:46",
+		"LIBUSB_LOG_LEVEL_NONE" : "JulienDelplanque 7/1/2016 09:45",
+		"LIBUSB_LOG_LEVEL_WARNING" : "JulienDelplanque 7/1/2016 09:46" },
+	"instance" : {
+		"libusbExitContext:" : "JulienDelplanque 7/1/2016 09:48",
+		"libusbInitContext:" : "JulienDelplanque 7/1/2016 09:43",
+		"libusbSetDebugContext:level:" : "JulienDelplanque 7/1/2016 09:27",
+		"unixModuleName" : "JulienDelplanque 7/1/2016 09:31" } }
