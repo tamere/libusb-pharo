@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfLibUsb",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfLibUsb",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
