@@ -9,6 +9,7 @@
 		"libusbExitContext:" : "JulienDelplanque 7/1/2016 09:48",
 		"libusbFreeDeviceList:unrefDevices:" : "JulienDelplanque 7/1/2016 14:27",
 		"libusbGetBusNumber:" : "JulienDelplanque 7/1/2016 14:36",
+		"libusbGetDevice:" : "JulienDelplanque 7/4/2016 17:35",
 		"libusbGetDeviceAddress:" : "JulienDelplanque 7/1/2016 14:47",
 		"libusbGetDeviceListContext:devices:" : "JulienDelplanque 7/4/2016 14:13",
 		"libusbGetDeviceSpeed:" : "JulienDelplanque 7/1/2016 14:41",
