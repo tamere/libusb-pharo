@@ -1,0 +1,1 @@
+I represent the libusb_request_type enum.

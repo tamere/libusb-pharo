@@ -1,0 +1,17 @@
+{
+	"category" : "LibUsb-Enumerations",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LIBUSB_REQUEST_TYPE_CLASS",
+		"LIBUSB_REQUEST_TYPE_RESERVED",
+		"LIBUSB_REQUEST_TYPE_STANDARD",
+		"LIBUSB_REQUEST_TYPE_VENDOR" ],
+	"commentStamp" : "JulienDelplanque 7/4/2016 11:38",
+	"instvars" : [
+		 ],
+	"name" : "LURequestTypeEnumeration",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalEnumeration",
+	"type" : "normal" }
