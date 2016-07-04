@@ -12,6 +12,7 @@
 		"libusbGetDeviceListContext:devices:" : "JulienDelplanque 7/4/2016 14:13",
 		"libusbGetDeviceSpeed:" : "JulienDelplanque 7/1/2016 14:41",
 		"libusbGetPortNumber:" : "JulienDelplanque 7/4/2016 14:34",
+		"libusbGetPortNumbersForDevice:portNumbersArray:length:" : "JulienDelplanque 7/4/2016 16:33",
 		"libusbGetVersion" : "JulienDelplanque 7/1/2016 12:21",
 		"libusbHasCapability:" : "JulienDelplanque 7/4/2016 11:44",
 		"libusbInitContext:" : "JulienDelplanque 7/1/2016 09:43",
