@@ -4,7 +4,7 @@
 		"initialize" : "JulienDelplanque 7/1/2016 10:25",
 		"initializeTypeMap" : "JulienDelplanque 7/1/2016 14:30" },
 	"instance" : {
-		"libusbErrorNameForCode:" : "JulienDelplanque 7/1/2016 11:32",
+		"libusbErrorNameForCode:" : "JulienDelplanque 7/4/2016 13:32",
 		"libusbExitContext:" : "JulienDelplanque 7/1/2016 09:48",
 		"libusbFreeDeviceList:unrefDevices:" : "JulienDelplanque 7/1/2016 14:27",
 		"libusbGetBusNumber:" : "JulienDelplanque 7/1/2016 14:36",
@@ -16,5 +16,5 @@
 		"libusbInitContext:" : "JulienDelplanque 7/1/2016 09:43",
 		"libusbSetDebugContext:level:" : "JulienDelplanque 7/4/2016 10:14",
 		"libusbSetLocal:" : "JulienDelplanque 7/1/2016 11:34",
-		"libusbStrerrorForCode:" : "JulienDelplanque 7/1/2016 11:36",
+		"libusbStrerrorForCode:" : "JulienDelplanque 7/4/2016 11:58",
 		"unixModuleName" : "JulienDelplanque 7/1/2016 09:31" } }
