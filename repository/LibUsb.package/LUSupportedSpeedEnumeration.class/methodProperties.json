@@ -1,9 +1,9 @@
 {
 	"class" : {
-		"LIBUSB_FULL_SPEED_OPERATION" : "JulienDelplanque 7/1/2016 16:26",
-		"LIBUSB_HIGH_SPEED_OPERATION" : "JulienDelplanque 7/1/2016 16:26",
-		"LIBUSB_LOW_SPEED_OPERATION" : "JulienDelplanque 7/1/2016 16:26",
-		"LIBUSB_SUPER_SPEED_OPERATION" : "JulienDelplanque 7/1/2016 16:26",
+		"LIBUSB_FULL_SPEED_OPERATION" : "JulienDelplanque 7/4/2016 10:11",
+		"LIBUSB_HIGH_SPEED_OPERATION" : "JulienDelplanque 7/4/2016 10:11",
+		"LIBUSB_LOW_SPEED_OPERATION" : "JulienDelplanque 7/4/2016 10:11",
+		"LIBUSB_SUPER_SPEED_OPERATION" : "JulienDelplanque 7/4/2016 10:11",
 		"enumDecl" : "JulienDelplanque 7/1/2016 16:25" },
 	"instance" : {
 		 } }

@@ -1,4 +1,4 @@
-as yet unclassified
+enum declaration
 enumDecl
 	^ { 
 	#LIBUSB_BM_LPM_SUPPORT -> 2 

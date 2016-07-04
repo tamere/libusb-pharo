@@ -3,7 +3,7 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"LIBUSB_BM_LPM_SUPPORT" ],
 	"commentStamp" : "JulienDelplanque 7/1/2016 16:27",
 	"instvars" : [
 		 ],

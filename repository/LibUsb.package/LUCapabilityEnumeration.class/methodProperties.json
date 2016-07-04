@@ -1,9 +1,9 @@
 {
 	"class" : {
-		"LIBUSB_CAP_HAS_CAPABILITY" : "JulienDelplanque 7/1/2016 14:16",
-		"LIBUSB_CAP_HAS_HID_ACCESS" : "JulienDelplanque 7/1/2016 14:16",
-		"LIBUSB_CAP_HAS_HOTPLUG" : "JulienDelplanque 7/1/2016 14:16",
-		"LIBUSB_CAP_SUPPORTS_DETACH_KERNEL_DRIVER" : "JulienDelplanque 7/1/2016 14:16",
+		"LIBUSB_CAP_HAS_CAPABILITY" : "JulienDelplanque 7/4/2016 10:11",
+		"LIBUSB_CAP_HAS_HID_ACCESS" : "JulienDelplanque 7/4/2016 10:11",
+		"LIBUSB_CAP_HAS_HOTPLUG" : "JulienDelplanque 7/4/2016 10:11",
+		"LIBUSB_CAP_SUPPORTS_DETACH_KERNEL_DRIVER" : "JulienDelplanque 7/4/2016 10:11",
 		"enumDecl" : "JulienDelplanque 7/1/2016 14:11" },
 	"instance" : {
 		 } }

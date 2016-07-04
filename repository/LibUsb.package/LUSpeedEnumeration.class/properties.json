@@ -3,7 +3,11 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"LIBUSB_SPEED_FULL",
+		"LIBUSB_SPEED_HIGH",
+		"LIBUSB_SPEED_LOW",
+		"LIBUSB_SPEED_SUPER",
+		"LIBUSB_SPEED_UNKNOWN" ],
 	"commentStamp" : "JulienDelplanque 7/1/2016 16:17",
 	"instvars" : [
 		 ],

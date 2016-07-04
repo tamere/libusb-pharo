@@ -1,10 +1,10 @@
 {
 	"class" : {
-		"LIBUSB_LOG_LEVEL_DEBUG" : "JulienDelplanque 7/1/2016 16:14",
-		"LIBUSB_LOG_LEVEL_ERROR" : "JulienDelplanque 7/1/2016 16:14",
-		"LIBUSB_LOG_LEVEL_INFO" : "JulienDelplanque 7/1/2016 16:14",
-		"LIBUSB_LOG_LEVEL_NONE" : "JulienDelplanque 7/1/2016 16:14",
-		"LIBUSB_LOG_LEVEL_WARNING" : "JulienDelplanque 7/1/2016 16:14",
+		"LIBUSB_LOG_LEVEL_DEBUG" : "JulienDelplanque 7/4/2016 10:11",
+		"LIBUSB_LOG_LEVEL_ERROR" : "JulienDelplanque 7/4/2016 10:11",
+		"LIBUSB_LOG_LEVEL_INFO" : "JulienDelplanque 7/4/2016 10:11",
+		"LIBUSB_LOG_LEVEL_NONE" : "JulienDelplanque 7/4/2016 10:11",
+		"LIBUSB_LOG_LEVEL_WARNING" : "JulienDelplanque 7/4/2016 10:11",
 		"enumDecl" : "JulienDelplanque 7/1/2016 16:23" },
 	"instance" : {
 		 } }

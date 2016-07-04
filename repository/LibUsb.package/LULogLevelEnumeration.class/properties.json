@@ -3,7 +3,11 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"LIBUSB_LOG_LEVEL_DEBUG",
+		"LIBUSB_LOG_LEVEL_ERROR",
+		"LIBUSB_LOG_LEVEL_INFO",
+		"LIBUSB_LOG_LEVEL_NONE",
+		"LIBUSB_LOG_LEVEL_WARNING" ],
 	"commentStamp" : "JulienDelplanque 7/1/2016 16:14",
 	"instvars" : [
 		 ],
