@@ -1,0 +1,27 @@
+{
+	"category" : "LibUsb-Enumerations",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LIBUSB_ERROR_ACCESS",
+		"LIBUSB_ERROR_BUSY",
+		"LIBUSB_ERROR_INTERRUPTED",
+		"LIBUSB_ERROR_INVALID_PARAM",
+		"LIBUSB_ERROR_IO",
+		"LIBUSB_ERROR_NOT_FOUND",
+		"LIBUSB_ERROR_NOT_SUPPORTED",
+		"LIBUSB_ERROR_NO_DEVICE",
+		"LIBUSB_ERROR_NO_MEM",
+		"LIBUSB_ERROR_OTHER",
+		"LIBUSB_ERROR_OVERFLOW",
+		"LIBUSB_ERROR_PIPE",
+		"LIBUSB_ERROR_TIMEOUT",
+		"LIBUSB_SUCCESS" ],
+	"commentStamp" : "JulienDelplanque 7/4/2016 11:42",
+	"instvars" : [
+		 ],
+	"name" : "LUErrorEnumeration",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalEnumeration",
+	"type" : "normal" }
