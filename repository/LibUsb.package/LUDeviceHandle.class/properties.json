@@ -1,0 +1,14 @@
+{
+	"category" : "LibUsb-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/4/2016 16:54",
+	"instvars" : [
+		 ],
+	"name" : "LUDeviceHandle",
+	"pools" : [
+		 ],
+	"super" : "FFIOpaqueObject",
+	"type" : "normal" }
