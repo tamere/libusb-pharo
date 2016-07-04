@@ -1,0 +1,26 @@
+{
+	"category" : "LibUsb-Enumerations",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LIBUSB_REQUEST_CLEAR_FEATURE",
+		"LIBUSB_REQUEST_GET_CONFIGURATION",
+		"LIBUSB_REQUEST_GET_DESCRIPTOR",
+		"LIBUSB_REQUEST_GET_INTERFACE",
+		"LIBUSB_REQUEST_GET_STATUS",
+		"LIBUSB_REQUEST_SET_ADDRESS",
+		"LIBUSB_REQUEST_SET_CONFIGURATION",
+		"LIBUSB_REQUEST_SET_DESCRIPTOR",
+		"LIBUSB_REQUEST_SET_FEATURE",
+		"LIBUSB_REQUEST_SET_INTERFACE",
+		"LIBUSB_REQUEST_SET_SEL",
+		"LIBUSB_REQUEST_SYNCH_FRAME",
+		"LIBUSB_SET_ISOCH_DELAY" ],
+	"commentStamp" : "JulienDelplanque 7/4/2016 11:33",
+	"instvars" : [
+		 ],
+	"name" : "LUStandardRequestEnumeration",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalEnumeration",
+	"type" : "normal" }

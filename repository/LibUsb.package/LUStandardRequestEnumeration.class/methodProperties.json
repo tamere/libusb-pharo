@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"LIBUSB_REQUEST_CLEAR_FEATURE" : "JulienDelplanque 7/4/2016 11:32",
+		"LIBUSB_REQUEST_GET_CONFIGURATION" : "JulienDelplanque 7/4/2016 11:32",
+		"LIBUSB_REQUEST_GET_DESCRIPTOR" : "JulienDelplanque 7/4/2016 11:32",
+		"LIBUSB_REQUEST_GET_INTERFACE" : "JulienDelplanque 7/4/2016 11:32",
+		"LIBUSB_REQUEST_GET_STATUS" : "JulienDelplanque 7/4/2016 11:32",
+		"LIBUSB_REQUEST_SET_ADDRESS" : "JulienDelplanque 7/4/2016 11:32",
+		"LIBUSB_REQUEST_SET_CONFIGURATION" : "JulienDelplanque 7/4/2016 11:32",
+		"LIBUSB_REQUEST_SET_DESCRIPTOR" : "JulienDelplanque 7/4/2016 11:32",
+		"LIBUSB_REQUEST_SET_FEATURE" : "JulienDelplanque 7/4/2016 11:32",
+		"LIBUSB_REQUEST_SET_INTERFACE" : "JulienDelplanque 7/4/2016 11:32",
+		"LIBUSB_REQUEST_SET_SEL" : "JulienDelplanque 7/4/2016 11:32",
+		"LIBUSB_REQUEST_SYNCH_FRAME" : "JulienDelplanque 7/4/2016 11:32",
+		"LIBUSB_SET_ISOCH_DELAY" : "JulienDelplanque 7/4/2016 11:32",
+		"enumDecl" : "JulienDelplanque 7/4/2016 11:32" },
+	"instance" : {
+		 } }

@@ -1,3 +1,3 @@
 initialization-deinitialization
-libusbSetDebugContext: aLUContext level: anInteger
-	^ self ffiCall: #(void libusb_set_debug (LUContext aLUContext, int anInteger))
+libusbSetDebugContext: aLUContext level: enumValue
+	^ self ffiCall: #(void libusb_set_debug (LUContext aLUContext, LULogLevelEnumeration enumValue))
