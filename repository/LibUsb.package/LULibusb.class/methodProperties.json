@@ -12,7 +12,7 @@
 		"libusbGetDeviceListContext:devices:" : "JulienDelplanque 7/1/2016 15:29",
 		"libusbGetDeviceSpeed:" : "JulienDelplanque 7/1/2016 14:41",
 		"libusbGetVersion" : "JulienDelplanque 7/1/2016 12:21",
-		"libusbHasCapability:" : "JulienDelplanque 7/1/2016 14:00",
+		"libusbHasCapability:" : "JulienDelplanque 7/4/2016 11:44",
 		"libusbInitContext:" : "JulienDelplanque 7/1/2016 09:43",
 		"libusbSetDebugContext:level:" : "JulienDelplanque 7/4/2016 10:14",
 		"libusbSetLocal:" : "JulienDelplanque 7/1/2016 11:34",
