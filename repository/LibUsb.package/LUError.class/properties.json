@@ -2,6 +2,7 @@
 	"category" : "LibUsb-Errors",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "LULibusbUser classTrait",
 	"classvars" : [
 		 ],
 	"commentStamp" : "JulienDelplanque 7/5/2016 09:56",
@@ -11,4 +12,5 @@
 	"pools" : [
 		 ],
 	"super" : "Error",
+	"traitcomposition" : "LULibusbUser",
 	"type" : "normal" }
