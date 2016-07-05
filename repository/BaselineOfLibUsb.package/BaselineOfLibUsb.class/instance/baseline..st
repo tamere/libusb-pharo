@@ -11,7 +11,7 @@ baseline: spec
 					with: [ 
 						spec
 							requires: 'UFFI-dev';
-							requires: 'Libusb' ].
+							requires: 'LibUsb' ].
 			spec
 				project: 'UFFI-dev' with: [ "Switch back to stable when the changes have been merged."
 					spec
