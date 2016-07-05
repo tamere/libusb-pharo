@@ -20,6 +20,9 @@ Metacello new
 ```
 context := LUContext new.
 devices := LUDevice allDevicesForContext: context.
+"Play with devices..."
+devices freeAndUnrefDevices.
+context exit.
 ```
 
 ### Get more info about about a specific device
