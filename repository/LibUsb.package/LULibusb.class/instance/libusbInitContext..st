@@ -1,3 +1,3 @@
 initialization-deinitialization
 libusbInitContext: aLUContext
-	^ self ffiCall: #(int libusb_init (LUContext *aLUContext))
+	^ self ffiCall: #(LUErrorEnumeration libusb_init (LUContext *aLUContext))

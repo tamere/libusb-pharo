@@ -1,0 +1,1 @@
+I represent a libusb error caused by a function called that returned an error code.

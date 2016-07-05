@@ -14,6 +14,7 @@
 		"LIBUSB_ERROR_PIPE" : "JulienDelplanque 7/4/2016 13:31",
 		"LIBUSB_ERROR_TIMEOUT" : "JulienDelplanque 7/4/2016 13:31",
 		"LIBUSB_SUCCESS" : "JulienDelplanque 7/4/2016 13:31",
-		"enumDecl" : "JulienDelplanque 7/4/2016 11:42" },
+		"enumDecl" : "JulienDelplanque 7/4/2016 11:42",
+		"initialize" : "JulienDelplanque 7/5/2016 10:08" },
 	"instance" : {
 		 } }

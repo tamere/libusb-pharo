@@ -1,0 +1,3 @@
+logging
+logLevelError
+	self logLevel: LULogLevelEnumeration LIBUSB_LOG_LEVEL_ERROR

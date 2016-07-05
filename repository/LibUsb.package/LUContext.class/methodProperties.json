@@ -1,5 +1,11 @@
 {
 	"class" : {
-		 },
+		"new" : "JulienDelplanque 7/5/2016 10:00" },
 	"instance" : {
-		 } }
+		"exit" : "JulienDelplanque 7/5/2016 10:18",
+		"logLevel:" : "JulienDelplanque 7/5/2016 10:13",
+		"logLevelDebug" : "JulienDelplanque 7/5/2016 10:14",
+		"logLevelError" : "JulienDelplanque 7/5/2016 10:15",
+		"logLevelInfo" : "JulienDelplanque 7/5/2016 10:15",
+		"logLevelNone" : "JulienDelplanque 7/5/2016 10:15",
+		"logLevelWarning" : "JulienDelplanque 7/5/2016 10:15" } }

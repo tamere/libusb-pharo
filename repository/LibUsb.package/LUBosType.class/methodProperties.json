@@ -4,6 +4,7 @@
 		"LIBUSB_BT_SS_USB_DEVICE_CAPABILITY" : "JulienDelplanque 7/4/2016 10:11",
 		"LIBUSB_BT_USB_2_0_EXTENSION" : "JulienDelplanque 7/4/2016 10:11",
 		"LIBUSB_BT_WIRELESS_USB_DEVICE_CAPABILITY" : "JulienDelplanque 7/4/2016 10:11",
-		"enumDecl" : "JulienDelplanque 7/1/2016 16:31" },
+		"enumDecl" : "JulienDelplanque 7/1/2016 16:31",
+		"initialize" : "JulienDelplanque 7/5/2016 10:08" },
 	"instance" : {
 		 } }

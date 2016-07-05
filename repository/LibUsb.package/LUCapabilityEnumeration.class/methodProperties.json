@@ -4,6 +4,7 @@
 		"LIBUSB_CAP_HAS_HID_ACCESS" : "JulienDelplanque 7/4/2016 10:11",
 		"LIBUSB_CAP_HAS_HOTPLUG" : "JulienDelplanque 7/4/2016 10:11",
 		"LIBUSB_CAP_SUPPORTS_DETACH_KERNEL_DRIVER" : "JulienDelplanque 7/4/2016 10:11",
-		"enumDecl" : "JulienDelplanque 7/1/2016 14:11" },
+		"enumDecl" : "JulienDelplanque 7/1/2016 14:11",
+		"initialize" : "JulienDelplanque 7/5/2016 10:08" },
 	"instance" : {
 		 } }

@@ -1,0 +1,3 @@
+logging
+logLevelNone
+	self logLevel: LULogLevelEnumeration LIBUSB_LOG_LEVEL_NONE

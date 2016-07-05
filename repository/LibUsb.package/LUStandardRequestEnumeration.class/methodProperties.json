@@ -13,6 +13,7 @@
 		"LIBUSB_REQUEST_SET_SEL" : "JulienDelplanque 7/4/2016 11:32",
 		"LIBUSB_REQUEST_SYNCH_FRAME" : "JulienDelplanque 7/4/2016 11:32",
 		"LIBUSB_SET_ISOCH_DELAY" : "JulienDelplanque 7/4/2016 11:32",
-		"enumDecl" : "JulienDelplanque 7/4/2016 11:32" },
+		"enumDecl" : "JulienDelplanque 7/4/2016 11:32",
+		"initialize" : "JulienDelplanque 7/5/2016 10:08" },
 	"instance" : {
 		 } }
