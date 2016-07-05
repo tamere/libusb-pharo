@@ -1,0 +1,1 @@
+I am the trait that object using libusb binding should use to access the LULibusb unique instance easily.
