@@ -1,6 +1,6 @@
 accessing - libusb
 portNumbers
-	| arrayPorts result |
+	| arrayPorts result ports |
 	arrayPorts := (FFIExternalArray externalNewType: 'uint8' size: 7)
 							autoRelease. 
 	result := self libusb
@@ -11,6 +11,8 @@ portNumbers
 	result = LUErrorEnumeration LIBUSB_ERROR_OVERFLOW
 		ifTrue: [ self libusbErrorCode: result ].
 	
-	self flag: #TODO. "Trim the array according to the number of element filled."
+	ports := OrderedCollection new.
+	1 to: result do: [ :i |
+		ports add: (arrayPorts at: i) ].
 	
-	^ arrayPorts
+	^ ports
