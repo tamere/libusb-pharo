@@ -11,6 +11,7 @@
 		"libusbGetBusNumber:" : "JulienDelplanque 7/1/2016 14:36",
 		"libusbGetConfiguration:for:" : "JulienDelplanque 7/5/2016 11:43",
 		"libusbGetDevice:" : "JulienDelplanque 7/4/2016 17:35",
+		"libusbGetDevice:descriptor:" : "JulienDelplanque 7/5/2016 14:00",
 		"libusbGetDeviceAddress:" : "JulienDelplanque 7/1/2016 14:47",
 		"libusbGetDeviceListContext:devices:" : "JulienDelplanque 7/4/2016 14:13",
 		"libusbGetDeviceSpeed:" : "JulienDelplanque 7/5/2016 10:30",
