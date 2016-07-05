@@ -1,5 +1,5 @@
 *LibUsb-GT
-gtInspectorVersionIn: composite
+gtInspectorInfoIn: composite
 	<gtInspectorPresentationOrder: 1>
 	^ (composite table)
 			title: 'Info';
