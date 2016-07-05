@@ -2,7 +2,7 @@
 	"category" : "LibUsb-Kernel",
 	"classinstvars" : [
 		 ],
-	"classtraitcomposition" : "LULibusbUser classTrait",
+	"classtraitcomposition" : "LULibusbUser classTrait + LUErrorUser classTrait",
 	"classvars" : [
 		 ],
 	"commentStamp" : "JulienDelplanque 7/1/2016 13:35",
@@ -12,5 +12,5 @@
 	"pools" : [
 		 ],
 	"super" : "FFIOpaqueObject",
-	"traitcomposition" : "LULibusbUser",
+	"traitcomposition" : "LULibusbUser + LUErrorUser",
 	"type" : "normal" }
