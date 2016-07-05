@@ -5,12 +5,12 @@
 	"classtraitcomposition" : "LULibusbUser classTrait",
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 7/1/2016 13:35",
+	"commentStamp" : "JulienDelplanque 7/5/2016 09:35",
 	"instvars" : [
 		 ],
-	"name" : "LUDevice",
+	"name" : "LUDevicesExternalArray",
 	"pools" : [
 		 ],
-	"super" : "FFIOpaqueObject",
+	"super" : "FFIExternalArray",
 	"traitcomposition" : "LULibusbUser",
 	"type" : "normal" }

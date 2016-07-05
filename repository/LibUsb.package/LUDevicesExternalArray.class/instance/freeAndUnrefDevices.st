@@ -1,0 +1,3 @@
+finalization
+freeAndUnrefDevices
+	self freeAndUnrefDevices: true

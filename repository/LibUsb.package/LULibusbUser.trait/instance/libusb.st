@@ -1,3 +1,3 @@
 accessing
-libsub
+libusb
 	^ self class libusb
