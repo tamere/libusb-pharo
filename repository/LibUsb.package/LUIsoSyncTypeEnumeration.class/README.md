@@ -1,0 +1,1 @@
+I represent the libusb_iso_sync_type enum.

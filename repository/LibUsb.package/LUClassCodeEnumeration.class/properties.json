@@ -1,0 +1,32 @@
+{
+	"category" : "LibUsb-Enumerations",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LIBUSB_CLASS_APPLICATION",
+		"LIBUSB_CLASS_AUDIO",
+		"LIBUSB_CLASS_COMM",
+		"LIBUSB_CLASS_CONTENT_SECURITY",
+		"LIBUSB_CLASS_DATA",
+		"LIBUSB_CLASS_DIAGNOSTIC_DEVICE",
+		"LIBUSB_CLASS_HID",
+		"LIBUSB_CLASS_HUB",
+		"LIBUSB_CLASS_IMAGE",
+		"LIBUSB_CLASS_MASS_STORAGE",
+		"LIBUSB_CLASS_PERSONAL_HEALTHCARE",
+		"LIBUSB_CLASS_PER_INTERFACE",
+		"LIBUSB_CLASS_PHYSICAL",
+		"LIBUSB_CLASS_PRINTER",
+		"LIBUSB_CLASS_PTP",
+		"LIBUSB_CLASS_SMART_CARD",
+		"LIBUSB_CLASS_VENDOR_SPEC",
+		"LIBUSB_CLASS_VIDEO",
+		"LIBUSB_CLASS_WIRELESS" ],
+	"commentStamp" : "JulienDelplanque 7/5/2016 14:53",
+	"instvars" : [
+		 ],
+	"name" : "LUClassCodeEnumeration",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalEnumeration",
+	"type" : "normal" }

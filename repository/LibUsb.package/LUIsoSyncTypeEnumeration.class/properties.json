@@ -1,0 +1,17 @@
+{
+	"category" : "LibUsb-Enumerations",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LIBUSB_ISO_SYNC_TYPE_ADAPTIVE",
+		"LIBUSB_ISO_SYNC_TYPE_ASYNC",
+		"LIBUSB_ISO_SYNC_TYPE_NONE",
+		"LIBUSB_ISO_SYNC_TYPE_SYNC" ],
+	"commentStamp" : "JulienDelplanque 7/5/2016 15:16",
+	"instvars" : [
+		 ],
+	"name" : "LUIsoSyncTypeEnumeration",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalEnumeration",
+	"type" : "normal" }

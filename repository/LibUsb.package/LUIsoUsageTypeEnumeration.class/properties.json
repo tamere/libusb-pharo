@@ -1,0 +1,16 @@
+{
+	"category" : "LibUsb-Enumerations",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LIBUSB_ISO_USAGE_TYPE_DATA",
+		"LIBUSB_ISO_USAGE_TYPE_FEEDBACK",
+		"LIBUSB_ISO_USAGE_TYPE_IMPLICIT" ],
+	"commentStamp" : "JulienDelplanque 7/5/2016 15:17",
+	"instvars" : [
+		 ],
+	"name" : "LUIsoUsageTypeEnumeration",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalEnumeration",
+	"type" : "normal" }

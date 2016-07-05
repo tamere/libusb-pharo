@@ -1,0 +1,15 @@
+{
+	"category" : "LibUsb-Enumerations",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LIBUSB_ENDPOINT_IN",
+		"LIBUSB_ENDPOINT_OUT" ],
+	"commentStamp" : "JulienDelplanque 7/5/2016 15:14",
+	"instvars" : [
+		 ],
+	"name" : "LUEndpointDirectionEnumeration",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalEnumeration",
+	"type" : "normal" }

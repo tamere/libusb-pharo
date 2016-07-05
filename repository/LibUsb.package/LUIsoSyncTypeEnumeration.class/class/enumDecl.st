@@ -1,0 +1,8 @@
+enum declaration
+enumDecl
+	^{
+	#LIBUSB_ISO_SYNC_TYPE_NONE -> 0.
+	#LIBUSB_ISO_SYNC_TYPE_ASYNC -> 1.
+	#LIBUSB_ISO_SYNC_TYPE_ADAPTIVE -> 2.
+	#LIBUSB_ISO_SYNC_TYPE_SYNC -> 3.
+	} asDictionary
