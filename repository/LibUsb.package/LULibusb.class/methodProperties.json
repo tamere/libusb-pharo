@@ -22,6 +22,7 @@
 		"libusbInitContext:" : "JulienDelplanque 7/5/2016 09:53",
 		"libusbOpen:handle:" : "JulienDelplanque 7/4/2016 17:22",
 		"libusbRefDevice:" : "JulienDelplanque 7/4/2016 16:41",
+		"libusbSetConfiguration:for:" : "JulienDelplanque 7/5/2016 11:50",
 		"libusbSetDebugContext:level:" : "JulienDelplanque 7/4/2016 10:14",
 		"libusbSetLocal:" : "JulienDelplanque 7/1/2016 11:34",
 		"libusbStrerrorForCode:" : "JulienDelplanque 7/4/2016 11:58",
