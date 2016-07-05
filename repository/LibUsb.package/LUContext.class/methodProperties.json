@@ -1,8 +1,12 @@
 {
 	"class" : {
+		"libusb" : "",
+		"libusbErrorCode:" : "",
 		"new" : "JulienDelplanque 7/5/2016 10:00" },
 	"instance" : {
 		"exit" : "JulienDelplanque 7/5/2016 10:18",
+		"libusb" : "",
+		"libusbErrorCode:" : "",
 		"logLevel:" : "JulienDelplanque 7/5/2016 10:13",
 		"logLevelDebug" : "JulienDelplanque 7/5/2016 10:14",
 		"logLevelError" : "JulienDelplanque 7/5/2016 10:15",

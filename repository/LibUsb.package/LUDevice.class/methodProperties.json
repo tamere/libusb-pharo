@@ -1,9 +1,13 @@
 {
 	"class" : {
-		"allDevicesForContext:" : "JulienDelplanque 7/5/2016 09:45" },
+		"allDevicesForContext:" : "JulienDelplanque 7/5/2016 09:45",
+		"libusb" : "",
+		"libusbErrorCode:" : "" },
 	"instance" : {
 		"address" : "JulienDelplanque 7/5/2016 10:26",
 		"busNumber" : "JulienDelplanque 7/5/2016 10:25",
+		"libusb" : "",
+		"libusbErrorCode:" : "",
 		"open" : "JulienDelplanque 7/5/2016 10:48",
 		"parent" : "JulienDelplanque 7/5/2016 10:27",
 		"portNumber" : "JulienDelplanque 7/5/2016 10:27",

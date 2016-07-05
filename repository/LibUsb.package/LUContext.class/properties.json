@@ -1,5 +1,5 @@
 {
-	"category" : "LibUsb-Kernel",
+	"category" : "LibUsb-Objects",
 	"classinstvars" : [
 		 ],
 	"classtraitcomposition" : "LULibusbUser classTrait + LUErrorUser classTrait",

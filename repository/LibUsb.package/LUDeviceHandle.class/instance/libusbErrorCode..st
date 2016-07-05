@@ -1,0 +1,3 @@
+error signalling
+libusbErrorCode: aLUErrorEnumeration
+	self class libusbErrorCode: aLUErrorEnumeration

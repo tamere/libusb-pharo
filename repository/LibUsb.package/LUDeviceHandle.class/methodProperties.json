@@ -1,8 +1,11 @@
 {
 	"class" : {
-		 },
+		"libusb" : "",
+		"libusbErrorCode:" : "" },
 	"instance" : {
 		"close" : "JulienDelplanque 7/5/2016 11:03",
 		"configuration" : "JulienDelplanque 7/5/2016 11:43",
 		"configuration:" : "JulienDelplanque 7/5/2016 11:52",
-		"device" : "JulienDelplanque 7/5/2016 11:02" } }
+		"device" : "JulienDelplanque 7/5/2016 11:02",
+		"libusb" : "",
+		"libusbErrorCode:" : "" } }
