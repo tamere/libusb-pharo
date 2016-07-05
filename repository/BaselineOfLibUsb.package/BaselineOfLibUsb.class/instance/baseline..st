@@ -6,7 +6,12 @@ baseline: spec
 		do: [ 
 			spec
 				package: 'LibUsb' with: [ spec requires: 'UFFI-dev' ];
-				package: 'LibUsb-GT' with: [ spec requires: 'LibUsb' ].
+				package: 'LibUsb-GT' with: [ spec requires: 'LibUsb' ];
+				package: 'Libusb-UFFI'
+					with: [ 
+						spec
+							requires: 'UFFI-dev';
+							requires: 'Libusb' ].
 			spec
 				project: 'UFFI-dev' with: [ "Switch back to stable when the changes have been merged."
 					spec
