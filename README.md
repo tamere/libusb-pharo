@@ -17,8 +17,10 @@ Metacello new
 ## Quickstart
 
 ### Listing all the connected USB devices
-
-`TODO`
+```
+context := LUContext new.
+devices := LUDevice allDevicesForContext: context.
+```
 
 ### Get more info about about a specific device
 
