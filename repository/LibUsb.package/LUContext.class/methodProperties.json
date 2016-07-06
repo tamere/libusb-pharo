@@ -2,7 +2,9 @@
 	"class" : {
 		"libusb" : "",
 		"libusbErrorCode:" : "",
-		"new" : "JulienDelplanque 7/5/2016 10:00" },
+		"new" : "JulienDelplanque 7/5/2016 10:00",
+		"withAllDevicesDo:" : "JulienDelplanque 7/6/2016 10:08",
+		"withNewContextDo:" : "JulienDelplanque 7/6/2016 10:08" },
 	"instance" : {
 		"exit" : "JulienDelplanque 7/5/2016 10:18",
 		"libusb" : "",
