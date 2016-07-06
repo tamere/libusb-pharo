@@ -1,4 +1,4 @@
-accessing - libusb
+accessing - descriptor
 descriptor
 	| descriptor result |
 	descriptor := LUDeviceDescriptor new.

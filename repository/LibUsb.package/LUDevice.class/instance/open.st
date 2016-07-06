@@ -1,6 +1,7 @@
 opening
 open
-	"Returns a LUDeviceHandle for this device by calling libusb_open."
+	"Returns a LUDeviceHandle for this device by calling libusb_open.
+	 It must be freed by sending #exit message to it."
 	| result deviceHandle |
 	deviceHandle := LUDeviceHandle new.
 	result := self libusb

@@ -4,6 +4,8 @@
 		"libusb" : "",
 		"libusbErrorCode:" : "" },
 	"instance" : {
+		"activeConfigDescriptor" : "JulienDelplanque 7/6/2016 12:26",
+		"activeConfigDescriptorDo:" : "JulienDelplanque 7/6/2016 12:22",
 		"address" : "JulienDelplanque 7/5/2016 13:33",
 		"busNumber" : "JulienDelplanque 7/5/2016 10:25",
 		"descriptor" : "JulienDelplanque 7/5/2016 14:41",
@@ -14,7 +16,7 @@
 		"libusb" : "",
 		"libusbErrorCode:" : "",
 		"manufacturerDescription" : "JulienDelplanque 7/6/2016 10:28",
-		"open" : "JulienDelplanque 7/5/2016 10:48",
+		"open" : "JulienDelplanque 7/6/2016 11:55",
 		"parent" : "JulienDelplanque 7/5/2016 10:27",
 		"portNumber" : "JulienDelplanque 7/5/2016 10:27",
 		"portNumbers" : "JulienDelplanque 7/5/2016 11:14",
