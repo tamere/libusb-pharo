@@ -5,11 +5,11 @@ stringDescriptorAscciAt: anIndex ofSize: anInteger
 	result := LULibusb uniqueInstance
 		libusbGetStringDescriptorAscciForDeviceHandle: self at: anIndex in: array ofLength: anInteger.
 	
-	result < 0
+	result value < 0
 		ifTrue: [ self libusbErrorCode: result ].
 	
 	str := String streamContents: [ :stream |
-		1 to: result do: [ :i |
+		1 to: result value do: [ :i |
 			stream << (array at: i) ] ].
 	array free.
 	^ str
