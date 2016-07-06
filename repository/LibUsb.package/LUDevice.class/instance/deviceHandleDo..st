@@ -6,5 +6,5 @@ deviceHandleDo: aBlock
 	 !This method does not return the result of the block evaluation!"
 	| deviceHandle |
 	deviceHandle := self deviceHandle.
-	aBlock value: deviceHandle.
-	self deviceHandle close.
+	[ aBlock value: deviceHandle ]
+		ensure: [ self deviceHandle close ]
