@@ -25,11 +25,12 @@ LUContext withAllDevicesDo: [ :context :devices | "Play with devices..." ]
 
 `TODO`
 
-### Get a lsusb like device list printed in Transcript
+### Get a lsusb like output for a device printed in Transcript
 ```
 LUContext withAllDevicesDo: [ :context :devices |
     | ps3Controller |
     context logLevelDebug.
+    "Searching the ps3 controller using its vendor id and product id."
     ps3Controller := devices detect: [ :dev |
                             dev idVendor = 16r054c
                                 and: [ dev idProduct = 16r0268 ] ].
