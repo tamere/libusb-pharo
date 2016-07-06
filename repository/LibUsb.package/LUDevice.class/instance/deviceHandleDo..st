@@ -7,4 +7,4 @@ deviceHandleDo: aBlock
 	| deviceHandle |
 	deviceHandle := self deviceHandle.
 	[ aBlock value: deviceHandle ]
-		ensure: [ self deviceHandle close ]
+		ensure: [ deviceHandle close ]
