@@ -4,5 +4,4 @@ bosDescriptorDo: aBlock
 	bosDescriptor := self bosDescriptor.
 	[ aBlock value: bosDescriptor ]
 		ensure: [ 
-			self libusb
-				libusbFreeBOSdescriptor: bosDescriptor ]
+			bosDescriptor libusbFree ]

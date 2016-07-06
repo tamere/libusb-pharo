@@ -2,6 +2,7 @@
 	"category" : "LibUsb-Structures",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "LULibusbUser classTrait",
 	"classvars" : [
 		 ],
 	"commentStamp" : "JulienDelplanque 7/6/2016 15:08",
@@ -11,4 +12,5 @@
 	"pools" : [
 		 ],
 	"super" : "FFIExternalStructure",
+	"traitcomposition" : "LULibusbUser",
 	"type" : "normal" }

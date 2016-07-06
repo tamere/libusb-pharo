@@ -8,5 +8,4 @@ activeConfigDescriptorDo: aBlock
 	configDescriptor := self activeConfigDescriptor.
 	[ aBlock value: configDescriptor ]
 		ensure: [ 
-			self libusb
-				libusbFreeConfigDescriptor: configDescriptor ]
+			configDescriptor libusbFree ]

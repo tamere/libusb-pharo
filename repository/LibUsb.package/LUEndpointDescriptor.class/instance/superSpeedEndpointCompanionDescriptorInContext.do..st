@@ -8,5 +8,4 @@ superSpeedEndpointCompanionDescriptorInContext: aLUContext do: aBlock
 	configDescriptor := self superSpeedEndpointCompanionDescriptorInContext: aLUContext.
 	[ aBlock value: configDescriptor ]
 		ensure: [ 
-			self libusb
-				libusbFreeSSEndpointCompanionDescriptor: configDescriptor ]
+			configDescriptor libusbFree ]
