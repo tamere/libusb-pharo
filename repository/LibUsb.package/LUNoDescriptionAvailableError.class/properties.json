@@ -1,0 +1,14 @@
+{
+	"category" : "LibUsb-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/6/2016 09:36",
+	"instvars" : [
+		 ],
+	"name" : "LUNoDescriptionAvailableError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

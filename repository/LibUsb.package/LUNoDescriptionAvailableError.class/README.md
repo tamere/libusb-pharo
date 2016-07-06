@@ -1,0 +1,1 @@
+I am the error raised when a description is not available for a device.
