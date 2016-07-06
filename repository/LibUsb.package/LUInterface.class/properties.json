@@ -1,0 +1,14 @@
+{
+	"category" : "LibUsb-Structures",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/6/2016 10:51",
+	"instvars" : [
+		 ],
+	"name" : "LUInterface",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalStructure",
+	"type" : "normal" }

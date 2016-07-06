@@ -1,0 +1,1 @@
+I represent the libusb_config_descriptor C structure in Pharo.
