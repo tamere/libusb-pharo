@@ -1,5 +1,6 @@
 accessing - libusb
 configuration: anInteger
+	<libusbHighlevelFor: #libusbSetConfiguration:for:>
 	| result |
 	result := self libusb
 					libusbSetConfiguration: anInteger for: self.

@@ -1,5 +1,6 @@
 accessing - libusb
 configuration
+	<libusbHighlevelFor: #libusbGetConfiguration:for:>
 	| config result |
 	config := LUIntegerValueHolder new.
 	result := LULibusb uniqueInstance

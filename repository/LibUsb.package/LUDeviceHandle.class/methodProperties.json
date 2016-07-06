@@ -3,15 +3,15 @@
 		"libusb" : "",
 		"libusbErrorCode:" : "" },
 	"instance" : {
-		"bosDescriptor" : "JulienDelplanque 7/6/2016 16:25",
+		"bosDescriptor" : "JulienDelplanque 7/6/2016 17:11",
 		"bosDescriptorDo:" : "JulienDelplanque 7/6/2016 17:02",
-		"close" : "JulienDelplanque 7/5/2016 11:03",
-		"configuration" : "JulienDelplanque 7/5/2016 11:43",
-		"configuration:" : "JulienDelplanque 7/5/2016 11:52",
-		"device" : "JulienDelplanque 7/5/2016 11:02",
+		"close" : "JulienDelplanque 7/6/2016 17:08",
+		"configuration" : "JulienDelplanque 7/6/2016 17:13",
+		"configuration:" : "JulienDelplanque 7/6/2016 18:53",
+		"device" : "JulienDelplanque 7/6/2016 17:13",
 		"libusb" : "",
 		"libusbErrorCode:" : "",
 		"manufacturerDescriptor" : "JulienDelplanque 7/6/2016 09:05",
 		"productDescriptor" : "JulienDelplanque 7/6/2016 09:05",
 		"serialNumberDescriptor" : "JulienDelplanque 7/6/2016 09:07",
-		"stringDescriptorAscciAt:ofSize:" : "JulienDelplanque 7/6/2016 14:06" } }
+		"stringDescriptorAscciAt:ofSize:" : "JulienDelplanque 7/6/2016 18:50" } }

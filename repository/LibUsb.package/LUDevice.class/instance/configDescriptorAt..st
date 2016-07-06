@@ -1,6 +1,7 @@
 accessing - descriptor
 configDescriptorAt: index
 	"The structure returned must be freed using LULibusb>>#libusbFreeConfigDescriptor:."
+	<libusbHighlevelFor: #libusbGetConfigDescriptorForDevice:at:in:>
 	| address result |
 	address := ExternalAddress new.
 	result := self libusb

@@ -1,5 +1,6 @@
 accessing - descriptor
 descriptor
+	<libusbHighlevelFor: #libusbGetDevice:descriptor:>
 	| descriptor result |
 	descriptor := LUDeviceDescriptor new.
 	result := self libusb

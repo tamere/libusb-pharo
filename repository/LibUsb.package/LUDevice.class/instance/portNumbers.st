@@ -1,5 +1,6 @@
 accessing - libusb
 portNumbers
+	<libusbHighlevelFor: #libusbGetPortNumbersForDevice:portNumbersArray:length:>
 	| arrayPorts result ports |
 	arrayPorts := (FFIExternalArray externalNewType: 'uint8' size: 7)
 							autoRelease. 

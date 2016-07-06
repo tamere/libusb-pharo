@@ -1,5 +1,6 @@
 instance creation
 new
+	<libusbHighlevelFor: #libusbInitContext:>
 	| instance result |
 	instance := super new.
 	result := self libusb

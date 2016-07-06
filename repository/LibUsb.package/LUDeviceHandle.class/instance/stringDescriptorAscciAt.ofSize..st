@@ -1,5 +1,6 @@
 accessing - libusb
 stringDescriptorAscciAt: anIndex ofSize: anInteger
+	<libusbHighlevelFor: #libusbGetStringDescriptorAscciForDeviceHandle:at:in:ofLength:>
 	| array str result |
 	array := FFIExternalArray newType: 'char' size: anInteger.
 	result := LULibusb uniqueInstance

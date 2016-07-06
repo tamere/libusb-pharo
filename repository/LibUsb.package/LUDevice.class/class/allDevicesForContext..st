@@ -1,5 +1,6 @@
 devices enumeration
 allDevicesForContext: aLUContext
+	<libusbHighlevelFor: #libusbGetDeviceListContext:devices:>
 	| arrayPtr size |
 	arrayPtr := ExternalAddress new.
 	size := self libusb

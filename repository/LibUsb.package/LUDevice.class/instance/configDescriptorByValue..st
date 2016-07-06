@@ -1,6 +1,7 @@
 accessing - descriptor
 configDescriptorByValue: aValue
 	"The structure returned must be freed using LULibusb>>#libusbFreeConfigDescriptor:."
+	<libusbHighlevelFor: #libusbGetConfigDescriptorForDevice:byValue:in:>
 	| address result |
 	address := ExternalAddress new.
 	result := self libusb

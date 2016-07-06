@@ -25,7 +25,7 @@
 		"libusbGetParent:" : "JulienDelplanque 7/4/2016 16:35",
 		"libusbGetPortNumber:" : "JulienDelplanque 7/4/2016 14:34",
 		"libusbGetPortNumbersForDevice:portNumbersArray:length:" : "JulienDelplanque 7/4/2016 16:33",
-		"libusbGetSSEndpointCompanionDescriptorInContext:forEndpointDescriptor:in:" : "JulienDelplanque 7/6/2016 14:43",
+		"libusbGetSSEndpointCompanionDescriptorInContext:forEndpointDescriptor:in:" : "JulienDelplanque 7/6/2016 18:49",
 		"libusbGetStringDescriptorAscciForDeviceHandle:at:in:ofLength:" : "JulienDelplanque 7/6/2016 11:46",
 		"libusbGetVersion" : "JulienDelplanque 7/1/2016 12:21",
 		"libusbHasCapability:" : "JulienDelplanque 7/4/2016 11:44",
@@ -34,7 +34,7 @@
 		"libusbRefDevice:" : "JulienDelplanque 7/4/2016 16:41",
 		"libusbSetConfiguration:for:" : "JulienDelplanque 7/5/2016 11:50",
 		"libusbSetDebugContext:level:" : "JulienDelplanque 7/4/2016 10:14",
-		"libusbSetLocal:" : "JulienDelplanque 7/1/2016 11:34",
+		"libusbSetLocal:" : "JulienDelplanque 7/6/2016 18:53",
 		"libusbStrerrorForCode:" : "JulienDelplanque 7/4/2016 11:58",
 		"libusbUnrefDevice:" : "JulienDelplanque 7/4/2016 16:42",
 		"unixModuleName" : "FrancoisStephany 7/4/2016 19:36" } }
