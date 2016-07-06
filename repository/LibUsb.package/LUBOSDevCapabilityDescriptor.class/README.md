@@ -1,0 +1,1 @@
+I represent the libusb_bos_dev_capability_descriptor C structure in Pharo.

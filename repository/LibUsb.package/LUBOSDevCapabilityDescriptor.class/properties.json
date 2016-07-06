@@ -1,0 +1,14 @@
+{
+	"category" : "LibUsb-Structures",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/6/2016 15:11",
+	"instvars" : [
+		 ],
+	"name" : "LUBOSDevCapabilityDescriptor",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalStructure",
+	"type" : "normal" }
