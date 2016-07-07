@@ -10,6 +10,7 @@
 		"bulkInputTransfer:toEndpoint:withTimeout:" : "JulienDelplanque 7/7/2016 12:05",
 		"bulkOutputTransfer:toEndpoint:withTimeout:" : "JulienDelplanque 7/7/2016 12:05",
 		"bulkTransfer:toEndpoint:withTimeout:direction:" : "JulienDelplanque 7/7/2016 12:04",
+		"claimInterface:" : "JulienDelplanque 7/7/2016 13:14",
 		"claimInterfaceNumber:" : "JulienDelplanque 7/7/2016 10:13",
 		"close" : "JulienDelplanque 7/6/2016 17:08",
 		"configuration" : "JulienDelplanque 7/6/2016 17:13",
@@ -21,6 +22,7 @@
 		"libusbErrorCode:" : "",
 		"manufacturerDescriptor" : "JulienDelplanque 7/6/2016 09:05",
 		"productDescriptor" : "JulienDelplanque 7/6/2016 09:05",
+		"releaseInterface:" : "JulienDelplanque 7/7/2016 13:14",
 		"releaseInterfaceNumber:" : "JulienDelplanque 7/7/2016 10:13",
 		"serialNumberDescriptor" : "JulienDelplanque 7/6/2016 09:07",
 		"stringDescriptorAscciAt:ofSize:" : "JulienDelplanque 7/6/2016 18:50" } }
