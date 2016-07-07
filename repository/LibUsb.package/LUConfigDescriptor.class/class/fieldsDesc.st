@@ -9,6 +9,6 @@ fieldsDesc
 	uint8 iConfiguration;
 	uint8 bmAttributes;
 	uint8 MaxPower;
-	LUInterface * interface;
+	void * interface;
 	uchar * extra;
 	int extra_length )

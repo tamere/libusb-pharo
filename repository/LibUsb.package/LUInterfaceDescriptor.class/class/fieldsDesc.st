@@ -10,6 +10,6 @@ fieldsDesc
 	uint8 bInterfaceSubClass;
 	uint8 bInterfaceProtocol;
 	uint8 iInterface;
-	LUEndpointDescriptor * endpoint;
+	void * endpoint;
 	uchar * extra;
 	int extra_length )

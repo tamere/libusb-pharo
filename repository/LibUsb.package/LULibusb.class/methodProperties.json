@@ -5,6 +5,7 @@
 		"initializeTypeMap" : "JulienDelplanque 7/1/2016 14:30" },
 	"instance" : {
 		"libusbAttachKernelDriverFor:atInterfaceNumber:" : "JulienDelplanque 7/7/2016 10:26",
+		"libusbBulkTransferFor:endpoint:data:length:numberOfByteTransferred:timeout:" : "JulienDelplanque 7/7/2016 10:56",
 		"libusbClaimInterfaceNumber:for:" : "JulienDelplanque 7/7/2016 09:47",
 		"libusbClose:" : "JulienDelplanque 7/4/2016 17:20",
 		"libusbDetachKernelDriverFor:atInterfaceNumber:" : "JulienDelplanque 7/7/2016 10:26",
