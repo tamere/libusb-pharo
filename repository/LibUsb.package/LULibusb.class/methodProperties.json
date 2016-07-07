@@ -37,6 +37,7 @@
 		"libusbOpen:handle:" : "JulienDelplanque 7/4/2016 17:22",
 		"libusbRefDevice:" : "JulienDelplanque 7/4/2016 16:41",
 		"libusbReleaseInterfaceNumber:for:" : "JulienDelplanque 7/7/2016 09:48",
+		"libusbSetAutoDetachKernelDriverFor:to:" : "JulienDelplanque 7/7/2016 10:43",
 		"libusbSetConfiguration:for:" : "JulienDelplanque 7/5/2016 11:50",
 		"libusbSetDebugContext:level:" : "JulienDelplanque 7/4/2016 10:14",
 		"libusbSetLocal:" : "JulienDelplanque 7/6/2016 18:53",
