@@ -10,7 +10,7 @@ bulkTransfer: aByteArray toEndpoint: aLUEndpointDescriptor withTimeout: anIntege
 					data: aByteArray
 					length: aByteArray size
 					numberOfByteTransferred: byteTransfered
-					timeout: 10000.
+					timeout: anInteger.
 	
 	result = LUErrorEnumeration LIBUSB_SUCCESS
 		ifFalse: [ self libusbErrorCode: result ].

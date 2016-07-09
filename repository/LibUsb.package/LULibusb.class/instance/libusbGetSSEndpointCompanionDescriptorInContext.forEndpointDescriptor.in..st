@@ -3,5 +3,5 @@ libusbGetSSEndpointCompanionDescriptorInContext: aLUContext forEndpointDescripto
 	^ self
 		ffiCall: #(LUErrorEnumeration libusb_get_ss_endpoint_companion_descriptor
 							(LUContext aLUContext,
-							LUEndpointDescriptor *aLUEndpointDescriptor,
+							LUEndpointDescriptor * aLUEndpointDescriptor,
 							ExternalAddress **anExternalAddress))
