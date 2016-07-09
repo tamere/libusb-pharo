@@ -7,5 +7,4 @@ configDescriptorByValue: aValue do: aBlock
 	| configDescriptor |
 	configDescriptor := self configDescriptorByValue: aValue.
 	[ aBlock value: configDescriptor ]
-		ensure: [ 
-			configDescriptor libusbFree  ]
+		ensure: [ configDescriptor libusbFree  ]

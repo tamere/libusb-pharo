@@ -7,5 +7,4 @@ configDescriptorAt: index do: aBlock
 	| configDescriptor |
 	configDescriptor := self configDescriptorAt: index.
 	[ aBlock value: configDescriptor ]
-		ensure: [ 
-			configDescriptor libusbFree ]
+		ensure: [ configDescriptor libusbFree ]
