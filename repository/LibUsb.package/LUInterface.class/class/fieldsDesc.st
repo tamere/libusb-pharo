@@ -1,5 +1,5 @@
 field definition
 fieldsDesc
 	^ #(
-	LUInterfaceDescriptor * altsetting;
+	void * altsetting;
 	int num_altsetting)
