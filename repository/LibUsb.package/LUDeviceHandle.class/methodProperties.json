@@ -2,7 +2,7 @@
 	"class" : {
 		"libusb" : "",
 		"libusbErrorCode:" : "",
-		"openDeviceWithVid:pid:forContext:" : "JulienDelplanque 7/11/2016 10:25" },
+		"openDeviceWithVid:pid:forContext:" : "JulienDelplanque 7/11/2016 11:10" },
 	"instance" : {
 		"attachKernelDriverAtInterfaceNumber:" : "JulienDelplanque 7/11/2016 11:06",
 		"autoDetachKernelDriver:" : "JulienDelplanque 7/7/2016 10:42",
@@ -19,12 +19,12 @@
 		"controlTransferWithRequestType:request:setupPacketValueField:setupPacketIndexField:data:setupPacketFieldLength:timeout:" : "JulienDelplanque 7/11/2016 09:16",
 		"detachKernelDriverAtInterfaceNumber:" : "JulienDelplanque 7/7/2016 10:28",
 		"device" : "JulienDelplanque 7/6/2016 17:13",
-		"interfaceNumber:altSetting:" : "JulienDelplanque 7/11/2016 11:01",
+		"interfaceNumber:altSetting:" : "JulienDelplanque 7/11/2016 11:10",
 		"interruptInputTransfer:toEndpoint:withTimeout:" : "JulienDelplanque 7/11/2016 09:39",
 		"interruptOutputTransfer:toEndpoint:withTimeout:" : "JulienDelplanque 7/11/2016 09:39",
 		"interruptTransfer:toEndpoint:withTimeout:direction:" : "JulienDelplanque 7/11/2016 09:36",
 		"isKernelDriverActiveAtInterfaceNumber:" : "JulienDelplanque 7/7/2016 10:22",
-		"libubClearHaltEndpoint:" : "JulienDelplanque 7/11/2016 11:03",
+		"libubClearHaltEndpoint:" : "JulienDelplanque 7/11/2016 11:09",
 		"libusb" : "",
 		"libusbErrorCode:" : "",
 		"manufacturerDescriptor" : "JulienDelplanque 7/6/2016 09:05",
