@@ -37,7 +37,7 @@
 		"libusbGetSSEndpointCompanionDescriptorInContext:forEndpointDescriptor:in:" : "JulienDelplanque 7/11/2016 12:27",
 		"libusbGetStringDescriptorAscciForDeviceHandle:at:in:ofLength:" : "JulienDelplanque 7/6/2016 11:46",
 		"libusbGetVersion" : "JulienDelplanque 7/1/2016 12:21",
-		"libusbHandleEventCompletedForContext:completed:" : "JulienDelplanque 7/11/2016 15:38",
+		"libusbHandleEventsCompletedForContext:completed:" : "JulienDelplanque 7/11/2016 16:25",
 		"libusbHasCapability:" : "JulienDelplanque 7/4/2016 11:44",
 		"libusbHotplugDeregisterCallbackForContext:handle:" : "JulienDelplanque 7/11/2016 15:37",
 		"libusbHotplugRegisterCallbackForContext:events:flags:vendorId:productId:deviceClass:callback:userData:handle:" : "JulienDelplanque 7/11/2016 15:38",
