@@ -1,0 +1,1 @@
+I represent the libusb_hotplug_event enum.

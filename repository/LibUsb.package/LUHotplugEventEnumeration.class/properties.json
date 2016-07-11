@@ -1,0 +1,16 @@
+{
+	"category" : "LibUsb-Enumerations",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LIBUSB_HOTPLUG_EVENT_DEVICE_ARRIVED",
+		"LIBUSB_HOTPLUG_EVENT_DEVICE_LEFT",
+		"LIBUSB_HOTPLUG_MATCH_ANY" ],
+	"commentStamp" : "JulienDelplanque 7/11/2016 14:23",
+	"instvars" : [
+		 ],
+	"name" : "LUHotplugEventEnumeration",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalEnumeration",
+	"type" : "normal" }

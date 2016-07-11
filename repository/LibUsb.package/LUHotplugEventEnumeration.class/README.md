@@ -1,0 +1,1 @@
+I represent the libusb_hotplug_flag  enum.
