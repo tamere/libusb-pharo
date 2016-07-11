@@ -20,6 +20,7 @@
 		"libusb" : "",
 		"libusbErrorCode:" : "",
 		"manufacturerDescription" : "JulienDelplanque 7/6/2016 10:28",
+		"maxIsoPacketSizeForEnpoint:" : "JulienDelplanque 7/11/2016 10:09",
 		"maxPacketSizeForEnpoint:" : "JulienDelplanque 7/11/2016 09:53",
 		"open" : "JulienDelplanque 7/6/2016 18:52",
 		"parent" : "JulienDelplanque 7/6/2016 17:16",
