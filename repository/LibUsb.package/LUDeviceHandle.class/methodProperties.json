@@ -1,7 +1,8 @@
 {
 	"class" : {
 		"libusb" : "",
-		"libusbErrorCode:" : "" },
+		"libusbErrorCode:" : "",
+		"openDeviceWithVid:pid:forContext:" : "JulienDelplanque 7/11/2016 10:25" },
 	"instance" : {
 		"attachKernelDriverAtInterfaceNumber:" : "JulienDelplanque 7/7/2016 10:29",
 		"autoDetachKernelDriver:" : "JulienDelplanque 7/7/2016 10:42",

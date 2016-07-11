@@ -4,6 +4,7 @@
 		"initialize" : "JulienDelplanque 7/1/2016 10:25",
 		"initializeTypeMap" : "JulienDelplanque 7/1/2016 14:30" },
 	"instance" : {
+		"libubOpenDeviceForContext:withVid:pid:" : "JulienDelplanque 7/11/2016 10:16",
 		"libusbAttachKernelDriverFor:atInterfaceNumber:" : "JulienDelplanque 7/7/2016 10:26",
 		"libusbBulkTransferFor:endpoint:data:length:numberOfByteTransferred:timeout:" : "JulienDelplanque 7/7/2016 10:56",
 		"libusbClaimInterfaceNumber:for:" : "JulienDelplanque 7/7/2016 09:47",

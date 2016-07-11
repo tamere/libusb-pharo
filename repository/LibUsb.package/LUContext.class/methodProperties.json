@@ -1,5 +1,6 @@
 {
 	"class" : {
+		"deviceWithVid:pid:do:" : "JulienDelplanque 7/11/2016 10:25",
 		"libusb" : "",
 		"libusbErrorCode:" : "",
 		"new" : "JulienDelplanque 7/6/2016 18:51",
