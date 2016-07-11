@@ -1,9 +1,8 @@
 {
 	"class" : {
-		"LIBUSB_HOTPLUG_EVENT_DEVICE_ARRIVED" : "JulienDelplanque 7/11/2016 14:25",
-		"LIBUSB_HOTPLUG_EVENT_DEVICE_LEFT" : "JulienDelplanque 7/11/2016 14:25",
-		"LIBUSB_HOTPLUG_MATCH_ANY" : "JulienDelplanque 7/11/2016 14:25",
-		"enumDecl" : "JulienDelplanque 7/11/2016 14:25",
+		"LIBUSB_HOTPLUG_EVENT_DEVICE_ARRIVED" : "JulienDelplanque 7/11/2016 15:03",
+		"LIBUSB_HOTPLUG_EVENT_DEVICE_LEFT" : "JulienDelplanque 7/11/2016 15:03",
+		"enumDecl" : "JulienDelplanque 7/11/2016 15:41",
 		"initialize" : "JulienDelplanque 7/11/2016 14:23" },
 	"instance" : {
 		 } }

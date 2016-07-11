@@ -1,8 +1,9 @@
 {
 	"class" : {
+		"LIBUSB_HOTPLUG_MATCH_ANY" : "JulienDelplanque 7/11/2016 15:41",
 		"ffiBindingOf:" : "JulienDelplanque 7/1/2016 10:25",
 		"initialize" : "JulienDelplanque 7/1/2016 10:25",
-		"initializeTypeMap" : "JulienDelplanque 7/1/2016 14:30" },
+		"initializeTypeMap" : "JulienDelplanque 7/11/2016 15:20" },
 	"instance" : {
 		"libusbAttachKernelDriverFor:atInterfaceNumber:" : "JulienDelplanque 7/11/2016 11:05",
 		"libusbBulkTransferFor:endpoint:data:length:numberOfByteTransferred:timeout:" : "JulienDelplanque 7/7/2016 10:56",
@@ -36,7 +37,10 @@
 		"libusbGetSSEndpointCompanionDescriptorInContext:forEndpointDescriptor:in:" : "JulienDelplanque 7/11/2016 12:27",
 		"libusbGetStringDescriptorAscciForDeviceHandle:at:in:ofLength:" : "JulienDelplanque 7/6/2016 11:46",
 		"libusbGetVersion" : "JulienDelplanque 7/1/2016 12:21",
+		"libusbHandleEventCompletedForContext:completed:" : "JulienDelplanque 7/11/2016 15:38",
 		"libusbHasCapability:" : "JulienDelplanque 7/4/2016 11:44",
+		"libusbHotplugDeregisterCallbackForContext:handle:" : "JulienDelplanque 7/11/2016 15:37",
+		"libusbHotplugRegisterCallbackForContext:events:flags:vendorId:productId:deviceClass:callback:userData:handle:" : "JulienDelplanque 7/11/2016 15:38",
 		"libusbInitContext:" : "JulienDelplanque 7/5/2016 09:53",
 		"libusbInterruptTransferFor:endpoint:data:length:numberOfByteTransferred:timeout:" : "JulienDelplanque 7/11/2016 09:28",
 		"libusbKernelDriverActiveFor:atInterfaceNumber:" : "JulienDelplanque 7/7/2016 10:15",

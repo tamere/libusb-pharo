@@ -1,4 +1,5 @@
 SystemOrganization addCategory: #LibUsb!
+SystemOrganization addCategory: 'LibUsb-Callback'!
 SystemOrganization addCategory: 'LibUsb-Enumerations'!
 SystemOrganization addCategory: 'LibUsb-Errors'!
 SystemOrganization addCategory: 'LibUsb-Kernel'!

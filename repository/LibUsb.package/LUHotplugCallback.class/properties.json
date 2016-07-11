@@ -1,0 +1,14 @@
+{
+	"category" : "LibUsb-Callback",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/11/2016 15:44",
+	"instvars" : [
+		 ],
+	"name" : "LUHotplugCallback",
+	"pools" : [
+		 ],
+	"super" : "FFICallback",
+	"type" : "normal" }
