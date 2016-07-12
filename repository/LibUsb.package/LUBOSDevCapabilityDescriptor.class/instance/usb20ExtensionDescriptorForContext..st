@@ -4,7 +4,7 @@ usb20ExtensionDescriptorForContext: aLUContext
 	| address result |
 	address := ExternalAddress new.
 	result := self libusb
-					libusbGetUsb20ExtensionDescriptorForContext: aLUContext pointer bosDevCapabilityDescriptor: self in: address.
+					libusbGetUsb20ExtensionDescriptorForContext: aLUContext bosDevCapabilityDescriptor: self in: address.
 	
 	result = LUErrorEnumeration LIBUSB_SUCCESS
 		ifFalse: [ self libusbErrorCode: result ].
