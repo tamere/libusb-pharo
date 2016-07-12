@@ -1,0 +1,14 @@
+{
+	"category" : "LibUsb-Structures",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/12/2016 12:40",
+	"instvars" : [
+		 ],
+	"name" : "LUUsb20ExtensionDescriptor",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalStructure",
+	"type" : "normal" }
