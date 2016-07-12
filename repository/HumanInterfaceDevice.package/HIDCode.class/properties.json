@@ -1,0 +1,15 @@
+{
+	"category" : "HumanInterfaceDevice",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/12/2016 16:08",
+	"instvars" : [
+		"description",
+		"codeOrRange" ],
+	"name" : "HIDCode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

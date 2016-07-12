@@ -1,0 +1,14 @@
+{
+	"category" : "HumanInterfaceDevice",
+	"classinstvars" : [
+		"mappingDict" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/12/2016 16:43",
+	"instvars" : [
+		 ],
+	"name" : "HIDMappingDictCode",
+	"pools" : [
+		 ],
+	"super" : "HIDCode",
+	"type" : "normal" }

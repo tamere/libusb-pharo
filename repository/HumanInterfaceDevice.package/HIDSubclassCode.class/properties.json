@@ -1,0 +1,14 @@
+{
+	"category" : "HumanInterfaceDevice",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/12/2016 16:43",
+	"instvars" : [
+		 ],
+	"name" : "HIDSubclassCode",
+	"pools" : [
+		 ],
+	"super" : "HIDMappingDictCode",
+	"type" : "normal" }

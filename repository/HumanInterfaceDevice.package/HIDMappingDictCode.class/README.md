@@ -1,0 +1,1 @@
+HIDCode that use a mapping dictionary to associate code to descriptions.
