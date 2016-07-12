@@ -8,7 +8,7 @@
 		"withNewContextDo:" : "JulienDelplanque 7/7/2016 17:07" },
 	"instance" : {
 		"deregisterHotplugCallbackFromHandle:" : "JulienDelplanque 7/11/2016 16:30",
-		"exit" : "JulienDelplanque 7/6/2016 17:09",
+		"exit" : "JulienDelplanque 7/12/2016 10:09",
 		"handleEventsCompleted" : "JulienDelplanque 7/11/2016 16:25",
 		"libusb" : "",
 		"libusbErrorCode:" : "",
