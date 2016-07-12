@@ -1,5 +1,7 @@
 instance creation
 block: aBlock
+	"The block given as parameter must return  true or false.
+	 If it returns true, the callback will be deregistered."
 	^ super
 		signature: #(int (LUContext context,
 								LUDevice *device,
