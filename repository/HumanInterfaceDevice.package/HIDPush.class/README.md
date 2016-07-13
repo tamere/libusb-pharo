@@ -1,0 +1,1 @@
+I represent an HID object with 'Push' tag.

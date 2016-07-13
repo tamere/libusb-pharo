@@ -10,5 +10,5 @@
 	"name" : "HIDEndCollection",
 	"pools" : [
 		 ],
-	"super" : "HIDGlobal",
+	"super" : "HIDMain",
 	"type" : "normal" }

@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 7/13/2016 15:10",
+	"commentStamp" : "<historical>",
 	"instvars" : [
 		 ],
-	"name" : "HIDInput",
+	"name" : "HIDLogicalMinimum",
 	"pools" : [
 		 ],
-	"super" : "HIDMain",
+	"super" : "HIDGlobal",
 	"type" : "normal" }
