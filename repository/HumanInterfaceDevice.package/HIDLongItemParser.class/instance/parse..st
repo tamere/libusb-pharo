@@ -3,7 +3,7 @@ parse: aStream
 	| prefix itemsToRead |
 	prefix := aStream peek.
 	(self isLongItemPrefix: prefix)
-		ifFalse: [ HIDParsingFailed signal: 'Was a short item.' ].
+		ifFalse: [ HIDParsingFailed signal: 'Expected long item.' ].
 	
 	itemsToRead := aStream next; next.
 	aStream back; back.
