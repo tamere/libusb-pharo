@@ -1,0 +1,1 @@
+I am an abstract HIDItem, I define common behavior/state of HIDShortItem and HIDLongItem.

@@ -1,0 +1,3 @@
+accessing
+bSize
+	^ self subclassResponsibility

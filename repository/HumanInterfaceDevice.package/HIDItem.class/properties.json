@@ -1,0 +1,16 @@
+{
+	"category" : "HumanInterfaceDevice-Items",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "HIDPrefixReader classTrait",
+	"classvars" : [
+		"ItemTypesDict" ],
+	"commentStamp" : "JulienDelplanque 7/13/2016 11:52",
+	"instvars" : [
+		"rawData" ],
+	"name" : "HIDItem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "HIDPrefixReader",
+	"type" : "normal" }
