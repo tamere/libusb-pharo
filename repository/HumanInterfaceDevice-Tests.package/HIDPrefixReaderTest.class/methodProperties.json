@@ -5,4 +5,5 @@
 		"testExtractBSizeFrom" : "JulienDelplanque 7/13/2016 10:21",
 		"testExtractBTagFrom" : "JulienDelplanque 7/13/2016 10:20",
 		"testExtractBTypeFrom" : "JulienDelplanque 7/13/2016 10:20",
-		"testExtractRealSizeFrom" : "JulienDelplanque 7/13/2016 11:36" } }
+		"testExtractRealSizeFrom" : "JulienDelplanque 7/13/2016 11:36",
+		"testIsLongItemPrefix" : "JulienDelplanque 7/13/2016 13:43" } }
