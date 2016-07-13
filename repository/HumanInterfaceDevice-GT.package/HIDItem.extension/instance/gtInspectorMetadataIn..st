@@ -8,4 +8,4 @@ gtInspectorMetadataIn: composite
 			'Type' -> self type.
 			'Tag' -> self tag } ];
 		column: 'Metadata name' evaluated: [ :array| array head ];
-		column: 'Value' evaluated: [ :array| array tail ]
+		column: 'Value' evaluated: [ :array | array tail ]
