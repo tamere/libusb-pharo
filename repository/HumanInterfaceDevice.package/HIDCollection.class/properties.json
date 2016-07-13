@@ -1,0 +1,14 @@
+{
+	"category" : "HumanInterfaceDevice-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/13/2016 15:15",
+	"instvars" : [
+		 ],
+	"name" : "HIDCollection",
+	"pools" : [
+		 ],
+	"super" : "HIDGlobal",
+	"type" : "normal" }

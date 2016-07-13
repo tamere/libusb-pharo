@@ -1,0 +1,3 @@
+accessing
+itemTypeCode
+	^ 3

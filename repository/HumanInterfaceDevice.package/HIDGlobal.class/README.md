@@ -1,0 +1,1 @@
+I represent an HID object of type 'Global'.
