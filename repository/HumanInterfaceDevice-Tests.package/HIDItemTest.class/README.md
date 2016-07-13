@@ -1,0 +1,1 @@
+A HIDItemTest is a test class for testing the behavior of HIDItem

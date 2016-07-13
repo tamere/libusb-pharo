@@ -2,12 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "JulienDelplanque 7/13/2016 11:15",
+		"setUp" : "JulienDelplanque 7/13/2016 11:57",
 		"testBSize" : "JulienDelplanque 7/13/2016 11:16",
 		"testBTag" : "JulienDelplanque 7/13/2016 11:16",
-		"testBType" : "JulienDelplanque 7/13/2016 11:17",
 		"testData" : "JulienDelplanque 7/13/2016 11:18",
-		"testPrefix" : "JulienDelplanque 7/13/2016 11:19",
 		"testSize" : "JulienDelplanque 7/13/2016 11:24",
-		"testTag" : "JulienDelplanque 7/13/2016 11:20",
-		"testType" : "JulienDelplanque 7/13/2016 11:20" } }
+		"testTag" : "JulienDelplanque 7/13/2016 11:20" } }
