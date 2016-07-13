@@ -1,14 +1,14 @@
 {
-	"category" : "HumanInterfaceDevice-Parser",
+	"category" : "HumanInterfaceDevice-Items",
 	"classinstvars" : [
 		 ],
 	"classtraitcomposition" : "HIDPrefixReader classTrait",
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "JulienDelplanque 7/13/2016 10:53",
 	"instvars" : [
-		 ],
-	"name" : "HIDShortItemParser",
+		"rawData" ],
+	"name" : "HIDShortItem",
 	"pools" : [
 		 ],
 	"super" : "Object",

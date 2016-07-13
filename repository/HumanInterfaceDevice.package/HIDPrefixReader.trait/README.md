@@ -1,0 +1,1 @@
+I define methods to extract data from the prefix of an HID item.
