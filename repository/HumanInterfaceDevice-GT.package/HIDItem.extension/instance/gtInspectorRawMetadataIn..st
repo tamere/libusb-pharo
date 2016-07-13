@@ -7,4 +7,5 @@ gtInspectorRawMetadataIn: composite
 		column: 'Metadata name' evaluated: [ :array| array first ];
 		column: 'Decimal' evaluated: [ :array| array second ];
 		column: 'Binary' evaluated: [ :assoc |
-			assoc third ]
+			assoc third ];
+		yourself

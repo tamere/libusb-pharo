@@ -9,4 +9,5 @@ gtInspectorFirstByteIn: composite
 				'Hexadecimal' -> ('0x',(self rawData first printStringBase: 16 length: 2 padded: true)).
 				('Binary' -> (self rawData first printStringBase: 2 length: 8 padded: true)) } ];
 		column: 'Representation' evaluated: [ :assoc | assoc head ];
-		column: 'Value' evaluated: [ :assoc | assoc tail ]
+		column: 'Value' evaluated: [ :assoc | assoc tail ];
+		yourself
