@@ -1,0 +1,14 @@
+{
+	"category" : "HumanInterfaceDevice-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HIDParsingFailed",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

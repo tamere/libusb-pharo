@@ -5,9 +5,9 @@ parse: aStream
 	bSize := self extractBSizeFrom: prefix.
 	bType := self extractBTypeFrom: prefix.
 	bTag := self extractBTagFrom: prefix.
-	self flag: #TODO. "verify it is actually a short item."
 	
-	itemsToRead := bSize = 3
-							ifFalse: [ bSize ]
-							ifTrue: [ 4 ].
+	(bSize = 2r10 and: [ bTag = 2r1111 ] )"Test if it is a long item."
+		ifTrue: [ HIDParsingFailed signal: 'Was a long item' ].
+	
+	itemsToRead := self extractRealSizeFrom: prefix.
 	^ HIDShortItem rawData: (aStream next: itemsToRead + 1).
