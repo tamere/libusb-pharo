@@ -1,0 +1,1 @@
+I am an abstract HID parser, I define methods common to all parsers.

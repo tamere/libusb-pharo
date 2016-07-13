@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 7/13/2016 14:17",
+	"commentStamp" : "JulienDelplanque 7/13/2016 14:33",
 	"instvars" : [
 		 ],
-	"name" : "HIDLongItemParser",
+	"name" : "HIDReportDescriptorItemsParser",
 	"pools" : [
 		 ],
-	"super" : "HIDItemParser",
+	"super" : "HIDParser",
 	"type" : "normal" }

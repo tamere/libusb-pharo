@@ -1,0 +1,1 @@
+Parse a stream of byte and generate a list of HIDItems.

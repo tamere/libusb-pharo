@@ -1,0 +1,1 @@
+I am an abstract HID item parser. My subclass parse specific HID items.

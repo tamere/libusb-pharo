@@ -5,12 +5,12 @@
 	"classtraitcomposition" : "HIDPrefixReader classTrait",
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "JulienDelplanque 7/13/2016 14:16",
 	"instvars" : [
 		 ],
 	"name" : "HIDItemParser",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "HIDParser",
 	"traitcomposition" : "HIDPrefixReader",
 	"type" : "normal" }

@@ -1,0 +1,1 @@
+I am an HID long item parser. HID long item specification are described at section 6.2.2.3  of HID specification.
