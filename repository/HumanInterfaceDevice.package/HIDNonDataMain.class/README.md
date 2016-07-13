@@ -1,0 +1,1 @@
+An abstract HIDMain object for objects that does not hold data.

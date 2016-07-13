@@ -10,5 +10,5 @@
 	"name" : "HIDFeature",
 	"pools" : [
 		 ],
-	"super" : "HIDMain",
+	"super" : "HIDDataMain",
 	"type" : "normal" }

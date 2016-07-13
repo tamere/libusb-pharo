@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"doesNotHaveNullState" : "JulienDelplanque 7/13/2016 16:46",
+		"doesNotHavePreferredState" : "JulienDelplanque 7/13/2016 16:44",
+		"hasBitField" : "JulienDelplanque 7/13/2016 16:46",
+		"hasBufferedBytes" : "JulienDelplanque 7/13/2016 16:45",
+		"hasNullState" : "JulienDelplanque 7/13/2016 16:45",
+		"hasPreferredState" : "JulienDelplanque 7/13/2016 16:46",
+		"isAbsolute" : "JulienDelplanque 7/13/2016 16:46",
+		"isArray" : "JulienDelplanque 7/13/2016 16:46",
+		"isConstant" : "JulienDelplanque 7/13/2016 16:45",
+		"isData" : "JulienDelplanque 7/13/2016 16:46",
+		"isLinear" : "JulienDelplanque 7/13/2016 16:46",
+		"isNonLinear" : "JulienDelplanque 7/13/2016 16:45",
+		"isNotWrapped" : "JulienDelplanque 7/13/2016 16:46",
+		"isRelative" : "JulienDelplanque 7/13/2016 16:45",
+		"isVariable" : "JulienDelplanque 7/13/2016 16:45",
+		"isWrapped" : "JulienDelplanque 7/13/2016 16:45" } }

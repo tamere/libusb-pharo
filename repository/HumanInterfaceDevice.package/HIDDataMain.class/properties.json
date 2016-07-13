@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 7/13/2016 15:16",
+	"commentStamp" : "JulienDelplanque 7/13/2016 16:44",
 	"instvars" : [
 		 ],
-	"name" : "HIDEndCollection",
+	"name" : "HIDDataMain",
 	"pools" : [
 		 ],
-	"super" : "HIDNonDataMain",
+	"super" : "HIDMain",
 	"type" : "normal" }
