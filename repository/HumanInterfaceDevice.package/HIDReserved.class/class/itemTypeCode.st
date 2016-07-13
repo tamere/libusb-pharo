@@ -1,3 +1,3 @@
 accessing
 itemTypeCode
-	^ 4
+	^ 3

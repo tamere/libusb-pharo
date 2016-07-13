@@ -1,0 +1,14 @@
+{
+	"category" : "HumanInterfaceDevice-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "HIDStringMaximum",
+	"pools" : [
+		 ],
+	"super" : "HIDLocal",
+	"type" : "normal" }

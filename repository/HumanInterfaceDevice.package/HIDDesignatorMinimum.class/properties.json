@@ -1,0 +1,14 @@
+{
+	"category" : "HumanInterfaceDevice-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "HIDDesignatorMinimum",
+	"pools" : [
+		 ],
+	"super" : "HIDLocal",
+	"type" : "normal" }
