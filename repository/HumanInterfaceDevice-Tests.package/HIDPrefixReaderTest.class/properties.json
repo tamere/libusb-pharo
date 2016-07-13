@@ -1,0 +1,16 @@
+{
+	"category" : "HumanInterfaceDevice-Tests",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "HIDPrefixReader classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HIDPrefixReaderTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"traitcomposition" : "HIDPrefixReader",
+	"type" : "normal" }
