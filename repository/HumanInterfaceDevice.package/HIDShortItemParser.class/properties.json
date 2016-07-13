@@ -1,0 +1,14 @@
+{
+	"category" : "HumanInterfaceDevice-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HIDShortItemParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
