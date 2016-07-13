@@ -1,0 +1,1 @@
+A HIDReportDescriptorItemsParserTest is a test class for testing the behavior of HIDReportDescriptorItemsParser
