@@ -1,0 +1,3 @@
+accessing
+knownCollectionTypesDict
+	^ self class knownCollectionTypesDict

@@ -1,6 +1,12 @@
 {
 	"class" : {
+		"initialize" : "JulienDelplanque 7/13/2016 17:04",
+		"initializeKnownCollectionTypesDict" : "JulienDelplanque 7/13/2016 17:04",
 		"itemTagCode" : "JulienDelplanque 7/13/2016 15:19",
-		"itemTagDescription" : "JulienDelplanque 7/13/2016 15:18" },
+		"itemTagDescription" : "JulienDelplanque 7/13/2016 15:18",
+		"knownCollectionTypesDict" : "JulienDelplanque 7/13/2016 17:02" },
 	"instance" : {
-		 } }
+		"knownCollectionTypesDict" : "JulienDelplanque 7/13/2016 17:05",
+		"printOn:" : "JulienDelplanque 7/13/2016 17:08",
+		"typeOfCollection" : "JulienDelplanque 7/13/2016 17:06",
+		"typeOfCollectionCode" : "JulienDelplanque 7/13/2016 17:01" } }
