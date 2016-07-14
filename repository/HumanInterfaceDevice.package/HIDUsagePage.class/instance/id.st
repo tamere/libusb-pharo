@@ -3,5 +3,5 @@ id
 	| stream |
 	stream := ReadStream on: self item data.
 	^ [stream
-		nextNumber: self item size]
+		nextLittleEndianNumber: self item size]
 			ensure: [ stream close ]
