@@ -16,9 +16,9 @@ testPageName
 	
 	"There is too much vendor-defined ids so we just test the 100 firsts."
 	HIDUsagePage vendorDefinedIds from: 1 to: 100 do: [ :id | |idByteArray|
-		idByteArray := id asByteArray.
+		idByteArray := id asLittleEndianByteArray.
 		hidUsagePage := HIDUsagePage new
-							item: (HIDShortItem rawData: (2r00000100 bitOr: idByteArray size) asByteArray ,idByteArray);
+							item: (HIDShortItem rawData: (2r00000100 bitOr: idByteArray size) asLittleEndianByteArray ,idByteArray);
 							yourself.
 							
 		self assert: hidUsagePage pageName equals: #'Vendor-defined' ].
