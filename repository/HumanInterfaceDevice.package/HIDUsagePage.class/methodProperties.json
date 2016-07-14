@@ -1,6 +1,14 @@
 {
 	"class" : {
+		"idToNameDict" : "JulienDelplanque 7/14/2016 10:25",
+		"initialize" : "JulienDelplanque 7/14/2016 10:29",
+		"initializeIdToNameDict" : "JulienDelplanque 7/14/2016 10:31",
 		"itemTagCode" : "JulienDelplanque 7/13/2016 15:37",
-		"itemTagDescription" : "JulienDelplanque 7/13/2016 15:38" },
+		"itemTagDescription" : "JulienDelplanque 7/13/2016 15:38",
+		"reservedIds" : "JulienDelplanque 7/14/2016 11:09",
+		"vendorDefinedIds" : "JulienDelplanque 7/14/2016 11:10" },
 	"instance" : {
-		 } }
+		"id" : "JulienDelplanque 7/14/2016 11:17",
+		"pageName" : "JulienDelplanque 7/14/2016 11:10",
+		"printOn:" : "JulienDelplanque 7/14/2016 10:46",
+		"szid" : "JulienDelplanque 7/14/2016 11:17" } }

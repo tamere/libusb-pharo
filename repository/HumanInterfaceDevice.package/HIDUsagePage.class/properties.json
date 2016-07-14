@@ -3,7 +3,7 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"IdToNameDict" ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		 ],
