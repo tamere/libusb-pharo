@@ -2,6 +2,7 @@
 	"category" : "HumanInterfaceDevice-Objects",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "HIDByteManipulator classTrait",
 	"classvars" : [
 		 ],
 	"commentStamp" : "JulienDelplanque 7/13/2016 16:44",
@@ -11,4 +12,5 @@
 	"pools" : [
 		 ],
 	"super" : "HIDMain",
+	"traitcomposition" : "HIDByteManipulator",
 	"type" : "normal" }

@@ -1,4 +1,4 @@
 {
-	"category" : "HumanInterfaceDevice-Parser",
+	"category" : "HumanInterfaceDevice-Traits",
 	"commentStamp" : "JulienDelplanque 7/13/2016 10:03",
 	"name" : "HIDPrefixReader" }
