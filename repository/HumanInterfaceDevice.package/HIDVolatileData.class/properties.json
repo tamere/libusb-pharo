@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 7/13/2016 15:12",
+	"commentStamp" : "JulienDelplanque 7/14/2016 09:01",
 	"instvars" : [
 		 ],
-	"name" : "HIDOutput",
+	"name" : "HIDVolatileData",
 	"pools" : [
 		 ],
-	"super" : "HIDVolatileData",
+	"super" : "HIDDataMain",
 	"type" : "normal" }

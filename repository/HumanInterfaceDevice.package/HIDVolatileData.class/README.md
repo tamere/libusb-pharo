@@ -1,0 +1,1 @@
+I am an abstract HIDDataMain object that defines methods to know if it is volatile or not.
