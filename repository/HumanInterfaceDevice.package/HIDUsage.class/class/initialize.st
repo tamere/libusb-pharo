@@ -1,0 +1,30 @@
+class initialization
+initialize
+	super initialize.
+	self
+		initializeGamingControlsUsageReservedIds;
+		initializeSportsControlsUsageIds;
+		initializeSportsControlsUsageReservedIds;
+		initializeAlphanumericDisplayUsageIds;
+		initializeTelephonyDevicesUsageIds;
+		initializePowerDeviceUsageIds;
+		initializeMonitorUsageReservedIds;
+		initializeBatterySystemUsageIds;
+		initializeLEDsUsageIds;
+		initializeDigitizersUsageReservedIds;
+		initializeBatterySystemUsageReservedIds;
+		initializeConsumerDevicesUsageIds;
+		initializeSimulationControlsUsageIds;
+		initializeAlphanumericDisplayUsageReservedIds;
+		initializeLEDsUsageReservedIds;
+		initializeConsumerDevicesUsageReservedIds;
+		initializeSimulationControlsUsageReservedIds;
+		initializeTelephonyDevicesUsageReservedIds;
+		initializeGenericDesktopControlsUsageReservedIds;
+		initializeDigitizersUsageIds;
+		initializePowerDeviceUsageReservedIds;
+		initializeGenericDesktopControlsUsageIds;
+		initializeGamingControlsUsageIds;
+		initializeMonitorUsageIds;
+		initializeConsumerDevicesUsageIds;
+		initializeConsumerDevicesUsageReservedIds
