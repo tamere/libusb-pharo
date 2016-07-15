@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfHumanInterfaceDevice",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfHumanInterfaceDevice",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
