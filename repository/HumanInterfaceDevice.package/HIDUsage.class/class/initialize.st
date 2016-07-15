@@ -27,4 +27,6 @@ initialize
 		initializeGamingControlsUsageIds;
 		initializeMonitorUsageIds;
 		initializeConsumerDevicesUsageIds;
-		initializeConsumerDevicesUsageReservedIds
+		initializeConsumerDevicesUsageReservedIds;
+		initializeVendorDefinedUsageIds;
+		initializeVendorDefinedUsageReservedIds

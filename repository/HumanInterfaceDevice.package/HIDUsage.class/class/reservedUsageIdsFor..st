@@ -1,7 +1,7 @@
 accessing - usage ids
-reservedUsageIdsFor: usagePageId
+reservedUsageIdsFor: usagePage
 	| camelCase baseSelector reservedIdsSelector |
-	camelCase := (HIDUsagePage idToNameDict at: usagePageId) asCamelCase.
+	camelCase := usagePage pageName asCamelCase.
 	baseSelector := camelCase first lowercase asString , camelCase allButFirst.
 	reservedIdsSelector := (baseSelector , 'UsageReservedIds') asSymbol.
 	^ reservedIdsSelector value: self

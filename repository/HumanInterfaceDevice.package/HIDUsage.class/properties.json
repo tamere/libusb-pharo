@@ -27,7 +27,9 @@
 		"SportsControlsUsageIds",
 		"SportsControlsUsageReservedIds",
 		"TelephonyDevicesUsageIds",
-		"TelephonyDevicesUsageReservedIds" ],
+		"TelephonyDevicesUsageReservedIds",
+		"VendorDefinedUsageIds",
+		"VendorDefinedUsageReservedIds" ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		"usagePage" ],

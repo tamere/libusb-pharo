@@ -8,4 +8,4 @@ pageName
 			(self class reservedIds includes: id)
 				ifTrue: [ ^ #Reserved ].
 			(self class vendorDefinedIds includes: id)
-				ifTrue: [ ^ #'Vendor-defined' ] ]
+				ifTrue: [ ^ #'VendorDefined' ] ]
