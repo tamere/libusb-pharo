@@ -1,2 +1,0 @@
-standard requests
-getDescriptor
