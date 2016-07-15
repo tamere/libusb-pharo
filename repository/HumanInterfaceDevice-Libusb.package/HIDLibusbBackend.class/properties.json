@@ -1,0 +1,17 @@
+{
+	"category" : "HumanInterfaceDevice-Libusb",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/15/2016 11:48",
+	"instvars" : [
+		"vid",
+		"pid",
+		"libusbContext",
+		"libusbDeviceHandle" ],
+	"name" : "HIDLibusbBackend",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

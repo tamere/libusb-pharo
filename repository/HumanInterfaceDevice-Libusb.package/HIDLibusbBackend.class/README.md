@@ -1,0 +1,1 @@
+I am the object that talks to libusb binding to perform hid requests without mattering about how libusb actually work.

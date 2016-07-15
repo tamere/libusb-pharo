@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"close" : "JulienDelplanque 7/15/2016 13:38",
+		"getDescriptor" : "JulienDelplanque 7/15/2016 13:16",
+		"getReportFromControlPipeWithType:id:" : "JulienDelplanque 7/15/2016 13:20",
+		"getReportFromInterruptInPipeWithType:id:" : "JulienDelplanque 7/15/2016 13:20",
+		"getReportFromInterruptOutPipeWithType:id:" : "JulienDelplanque 7/15/2016 13:21",
+		"initialize" : "JulienDelplanque 7/15/2016 13:28",
+		"open" : "JulienDelplanque 7/15/2016 13:35",
+		"pid" : "JulienDelplanque 7/15/2016 13:33",
+		"pid:" : "JulienDelplanque 7/15/2016 13:33",
+		"setDescriptor:" : "JulienDelplanque 7/15/2016 13:16",
+		"setReport:withType:id:" : "JulienDelplanque 7/15/2016 13:23",
+		"vid" : "JulienDelplanque 7/15/2016 13:33",
+		"vid:" : "JulienDelplanque 7/15/2016 13:33" } }

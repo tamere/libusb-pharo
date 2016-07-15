@@ -1,0 +1,2 @@
+hid requests
+getReportFromControlPipeWithType: reportType id: reportId

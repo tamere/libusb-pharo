@@ -1,0 +1,2 @@
+hid requests
+getReportFromInterruptOutPipeWithType: reportType id: reportId
