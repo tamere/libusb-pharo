@@ -7,4 +7,11 @@ baseline: spec
 			spec
 				package: 'HumanInterfaceDevice';
 				package: 'HumanInterfaceDevice-Tests' with: [ spec requires: 'HumanInterfaceDevice' ];
-				package: 'HumanInterfaceDevice-GT' with: [ spec requires: 'HumanInterfaceDevice' ] ]
+				package: 'HumanInterfaceDevice-GT' with: [ spec requires: 'HumanInterfaceDevice' ];
+				package: 'HumanInterfaceDevice-Libusb' with: [ 
+					spec
+						requires: 'HumanInterfaceDevice';
+						requires: 'LibUsb' ].
+			spec project: 'LibUsb' with: [
+				spec baseline: 'LibUsb' with: [
+    				spec repository: 'github://tamerescrl/libusb-pharo/repository' ] ] ]
