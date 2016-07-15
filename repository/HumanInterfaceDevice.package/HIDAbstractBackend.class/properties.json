@@ -7,7 +7,9 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"pid",
-		"vid" ],
+		"vid",
+		"hidInterfaceForRequests",
+		"requestsTimeout" ],
 	"name" : "HIDAbstractBackend",
 	"pools" : [
 		 ],
