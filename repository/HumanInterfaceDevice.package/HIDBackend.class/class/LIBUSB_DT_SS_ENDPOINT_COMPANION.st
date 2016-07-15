@@ -1,0 +1,3 @@
+descriptor types
+LIBUSB_DT_SS_ENDPOINT_COMPANION
+	^ 16r30
