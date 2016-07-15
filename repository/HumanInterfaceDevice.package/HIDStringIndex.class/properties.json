@@ -10,5 +10,5 @@
 	"name" : "HIDStringIndex",
 	"pools" : [
 		 ],
-	"super" : "HIDLocal",
+	"super" : "HIDLocalIndex",
 	"type" : "normal" }

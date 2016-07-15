@@ -1,0 +1,1 @@
+I am an abstract class for designator and string index.
