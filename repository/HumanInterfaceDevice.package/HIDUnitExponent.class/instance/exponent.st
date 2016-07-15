@@ -7,4 +7,6 @@ exponent
 		ifTrue: [ ^ rawExponent ].
 	
 	(rawExponent between: 16r8 and: 16rF)
-		ifTrue: [ ^ (16r8 - (rawExponent - 16r8)) negated. ]
+		ifTrue: [ ^ (16r8 - (rawExponent - 16r8)) negated ].
+	
+	self error: 'Exponent is bad encoded.'
