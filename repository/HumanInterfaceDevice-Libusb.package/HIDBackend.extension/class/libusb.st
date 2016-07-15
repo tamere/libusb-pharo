@@ -1,0 +1,3 @@
+*HumanInterfaceDevice-Libusb
+libusb
+	^ HIDLibusbBackend

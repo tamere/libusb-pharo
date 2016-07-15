@@ -11,5 +11,5 @@
 	"name" : "HIDLibusbBackend",
 	"pools" : [
 		 ],
-	"super" : "HIDAbstractBackend",
+	"super" : "HIDBackend",
 	"type" : "normal" }
