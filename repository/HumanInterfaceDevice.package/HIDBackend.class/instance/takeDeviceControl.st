@@ -1,0 +1,3 @@
+taking device control
+takeDeviceControl
+	self subclassResponsibility

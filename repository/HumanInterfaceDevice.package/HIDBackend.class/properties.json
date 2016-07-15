@@ -10,7 +10,7 @@
 		"vid",
 		"hidInterfaceForRequests",
 		"requestsTimeout" ],
-	"name" : "HIDAbstractBackend",
+	"name" : "HIDBackend",
 	"pools" : [
 		 ],
 	"super" : "Object",
