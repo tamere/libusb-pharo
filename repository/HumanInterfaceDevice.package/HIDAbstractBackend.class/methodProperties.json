@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"GET_IDLE" : "JulienDelplanque 7/15/2016 14:02",
+		"GET_PROTOCOL" : "JulienDelplanque 7/15/2016 14:03",
+		"GET_REPORT" : "JulienDelplanque 7/15/2016 14:02",
+		"SET_IDLE" : "JulienDelplanque 7/15/2016 14:03",
+		"SET_REPORT" : "JulienDelplanque 7/15/2016 14:03" },
+	"instance" : {
+		"GET_IDLE" : "JulienDelplanque 7/15/2016 14:09",
+		"GET_PROTOCOL" : "JulienDelplanque 7/15/2016 14:10",
+		"GET_REPORT" : "JulienDelplanque 7/15/2016 14:10",
+		"SET_IDLE" : "JulienDelplanque 7/15/2016 14:10",
+		"SET_REPORT" : "JulienDelplanque 7/15/2016 14:10",
+		"pid" : "JulienDelplanque 7/15/2016 14:07",
+		"pid:" : "JulienDelplanque 7/15/2016 14:07",
+		"vid" : "JulienDelplanque 7/15/2016 14:07",
+		"vid:" : "JulienDelplanque 7/15/2016 14:07" } }

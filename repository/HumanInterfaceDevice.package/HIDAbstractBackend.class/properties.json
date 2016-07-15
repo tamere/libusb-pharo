@@ -1,0 +1,15 @@
+{
+	"category" : "HumanInterfaceDevice-Backends",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pid",
+		"vid" ],
+	"name" : "HIDAbstractBackend",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

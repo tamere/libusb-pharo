@@ -3,5 +3,5 @@ printOn: aStream
 	super printOn: aStream.
 	aStream
 		<< $(;
-		<< self maximum asString;
+		<< self minimum asString;
 		<< $)
