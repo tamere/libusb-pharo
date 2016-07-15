@@ -49,7 +49,7 @@ LUContext withAllDevicesDo: [ :context :devices |
 ```
 
 # HID layer
-This repository also hold an implementation of the Human Interface Device protocol with a driver to be used with libusb binding.
+This repository also holds an implementation of the Human Interface Device protocol with a driver to be used with libusb binding.
 
 ## Install
 ```
@@ -63,7 +63,7 @@ Metacello new
 ## Quick start
 The following code gives you hints on how to use the HID layer.
 
-Do not forget to replace vid and pid by those from your usb device (use `lsusb` if you use linux).
+Do not forget to replace **vid** and **pid** by those from your usb device (use `lsusb` if you use linux).
 ```
 backend := HIDBackend libusb vid: 16r1efb pid: 16r1590.
                 
