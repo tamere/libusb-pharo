@@ -10,5 +10,5 @@
 	"name" : "HIDStringMaximum",
 	"pools" : [
 		 ],
-	"super" : "HIDLocal",
+	"super" : "HIDLocalMaximum",
 	"type" : "normal" }

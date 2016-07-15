@@ -2,7 +2,6 @@
 	"category" : "HumanInterfaceDevice-Objects",
 	"classinstvars" : [
 		 ],
-	"classtraitcomposition" : "HIDByteToIntegerConverter classTrait",
 	"classvars" : [
 		"AlphanumericDisplayUsageIds",
 		"AlphanumericDisplayUsageReservedIds",
@@ -37,5 +36,4 @@
 	"pools" : [
 		 ],
 	"super" : "HIDLocal",
-	"traitcomposition" : "HIDByteToIntegerConverter",
 	"type" : "normal" }

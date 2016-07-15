@@ -1,0 +1,1 @@
+I am an abstract class of designator, string and usage maximum.

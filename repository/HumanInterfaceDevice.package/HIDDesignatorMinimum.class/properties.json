@@ -10,5 +10,5 @@
 	"name" : "HIDDesignatorMinimum",
 	"pools" : [
 		 ],
-	"super" : "HIDLocal",
+	"super" : "HIDLocalMinimum",
 	"type" : "normal" }
