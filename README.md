@@ -71,7 +71,7 @@ backend open.
 backend takeDeviceControl.
 
 
-rawReport := backend getDescriptorWithType: LUDescriptorTypeEnumeration LIBUSB_DT_REPORT value index: 0.
+rawReport := backend getDescriptorWithType: HIDBackend LIBUSB_DT_REPORT index: 0.
 
 hidObjects := HIDReportDescriptorParser parse: rawReport readStream.
 
