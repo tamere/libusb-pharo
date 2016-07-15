@@ -21,4 +21,4 @@ testPageName
 							item: (HIDShortItem rawData: (2r00000100 bitOr: idByteArray size) asLittleEndianByteArray ,idByteArray);
 							yourself.
 							
-		self assert: hidUsagePage pageName equals: #'Vendor-defined' ].
+		self assert: hidUsagePage pageName equals: #'VendorDefined' ].
