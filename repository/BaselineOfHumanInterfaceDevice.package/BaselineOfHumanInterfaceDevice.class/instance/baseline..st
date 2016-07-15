@@ -12,6 +12,5 @@ baseline: spec
 					spec
 						requires: 'HumanInterfaceDevice';
 						requires: 'LibUsb' ].
-			spec project: 'LibUsb' with: [
-				spec baseline: 'LibUsb' with: [
-    				spec repository: 'github://tamerescrl/libusb-pharo/repository' ] ] ]
+			spec baseline: 'LibUsb' with: [
+    				spec repository: 'github://tamerescrl/libusb-pharo/repository' ] ]
