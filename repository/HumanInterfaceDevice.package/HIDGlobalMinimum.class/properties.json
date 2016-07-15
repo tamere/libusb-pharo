@@ -4,10 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 7/15/2016 10:11",
+	"commentStamp" : "JulienDelplanque 7/15/2016 10:12",
 	"instvars" : [
 		 ],
-	"name" : "HIDMaximum",
+	"name" : "HIDGlobalMinimum",
 	"pools" : [
 		 ],
 	"super" : "HIDGlobal",

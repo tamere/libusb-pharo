@@ -10,5 +10,5 @@
 	"name" : "HIDPhysicalMinimum",
 	"pools" : [
 		 ],
-	"super" : "HIDMinimum",
+	"super" : "HIDGlobalMinimum",
 	"type" : "normal" }
