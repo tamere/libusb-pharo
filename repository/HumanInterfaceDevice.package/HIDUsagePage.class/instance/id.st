@@ -1,3 +1,3 @@
 accessing
 id
-	^ self unsignedIntegerFromBytes: self item data
+	^ self unsignedIntegerFromBytes: self data

@@ -1,0 +1,1 @@
+I am an abstract class of logical and physical maximum.

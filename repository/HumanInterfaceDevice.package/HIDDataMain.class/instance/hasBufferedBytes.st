@@ -1,4 +1,4 @@
 testing
 hasBufferedBytes
-	^ self item data second
+	^ self data second
 		allMask: self firstBitMask

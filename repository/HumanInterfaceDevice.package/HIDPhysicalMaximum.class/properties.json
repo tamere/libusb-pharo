@@ -10,5 +10,5 @@
 	"name" : "HIDPhysicalMaximum",
 	"pools" : [
 		 ],
-	"super" : "HIDGlobal",
+	"super" : "HIDMaximum",
 	"type" : "normal" }

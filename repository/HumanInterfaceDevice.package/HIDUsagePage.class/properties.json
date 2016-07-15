@@ -2,7 +2,6 @@
 	"category" : "HumanInterfaceDevice-Objects",
 	"classinstvars" : [
 		 ],
-	"classtraitcomposition" : "HIDByteToIntegerConverter classTrait",
 	"classvars" : [
 		"IdToNameDict" ],
 	"commentStamp" : "<historical>",
@@ -12,5 +11,4 @@
 	"pools" : [
 		 ],
 	"super" : "HIDGlobal",
-	"traitcomposition" : "HIDByteToIntegerConverter",
 	"type" : "normal" }

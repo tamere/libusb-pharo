@@ -1,4 +1,4 @@
 testing
 hasNullState
-	^ self item data first
+	^ self data first
 		allMask: self seventhBitMask

@@ -1,4 +1,4 @@
 testing
 isNonLinear
-	^ self item data first
+	^ self data first
 		allMask: self fifthBitMask

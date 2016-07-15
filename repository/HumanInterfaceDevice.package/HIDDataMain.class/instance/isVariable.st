@@ -1,4 +1,4 @@
 testing
 isVariable
-	^ self item data first
+	^ self data first
 		allMask: self secondBitMask
