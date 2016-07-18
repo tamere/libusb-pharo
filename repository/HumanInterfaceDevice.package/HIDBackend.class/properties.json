@@ -9,7 +9,8 @@
 		"pid",
 		"vid",
 		"hidInterfaceForRequests",
-		"requestsTimeout" ],
+		"requestsTimeout",
+		"reportDescriptor" ],
 	"name" : "HIDBackend",
 	"pools" : [
 		 ],
