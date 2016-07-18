@@ -7,7 +7,9 @@ hidInterfaces
 		configDesc interfaces do: [ :interface |
 			interface altsettings do: [ :altsetting |
 				altsetting bInterfaceClass = LUClassCodeEnumeration LIBUSB_CLASS_HID value
-					ifTrue: [ interfaces add: altsetting bInterfaceNumber ]
+					ifTrue: [ 
+						interfaces add: altsetting bInterfaceNumber
+					]
 				]
 			]
 		].
