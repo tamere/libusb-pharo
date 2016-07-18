@@ -1,8 +1,10 @@
 {
 	"class" : {
+		"FEATURE_REPORT" : "JulienDelplanque 7/18/2016 14:47",
 		"GET_IDLE" : "JulienDelplanque 7/15/2016 14:02",
 		"GET_PROTOCOL" : "JulienDelplanque 7/15/2016 14:03",
 		"GET_REPORT" : "JulienDelplanque 7/15/2016 14:02",
+		"INPUT_REPORT" : "JulienDelplanque 7/18/2016 14:46",
 		"LIBUSB_DT_BOS" : "JulienDelplanque 7/15/2016 16:06",
 		"LIBUSB_DT_CONFIG" : "JulienDelplanque 7/15/2016 16:06",
 		"LIBUSB_DT_DEVICE" : "JulienDelplanque 7/15/2016 16:06",
@@ -16,13 +18,17 @@
 		"LIBUSB_DT_SS_ENDPOINT_COMPANION" : "JulienDelplanque 7/15/2016 16:06",
 		"LIBUSB_DT_STRING" : "JulienDelplanque 7/15/2016 16:06",
 		"LIBUSB_DT_SUPERSPEED_HUB" : "JulienDelplanque 7/15/2016 16:06",
+		"OUTPUT_REPORT" : "JulienDelplanque 7/18/2016 14:46",
 		"SET_IDLE" : "JulienDelplanque 7/15/2016 14:03",
 		"SET_REPORT" : "JulienDelplanque 7/15/2016 14:03",
 		"vid:pid:" : "JulienDelplanque 7/15/2016 15:14" },
 	"instance" : {
+		"FEATURE_REPORT" : "JulienDelplanque 7/18/2016 14:47",
 		"GET_IDLE" : "JulienDelplanque 7/15/2016 14:09",
 		"GET_PROTOCOL" : "JulienDelplanque 7/15/2016 14:10",
 		"GET_REPORT" : "JulienDelplanque 7/15/2016 14:10",
+		"INPUT_REPORT" : "JulienDelplanque 7/18/2016 14:47",
+		"OUTPUT_REPORT" : "JulienDelplanque 7/18/2016 14:47",
 		"SET_IDLE" : "JulienDelplanque 7/15/2016 14:10",
 		"SET_REPORT" : "JulienDelplanque 7/15/2016 14:10",
 		"close" : "JulienDelplanque 7/15/2016 15:35",
