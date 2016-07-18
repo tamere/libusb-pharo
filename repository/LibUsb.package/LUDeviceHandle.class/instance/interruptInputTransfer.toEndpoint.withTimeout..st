@@ -1,4 +1,4 @@
 synchronous device I/O
-interruptInputTransfer: aCharArray toEndpoint: aLUEndpointDescriptor withTimeout: milliseconds
+interruptInputTransfer: aCharArray toEndpoint: endpoint withTimeout: milliseconds
 	
-	^ self interruptTransfer: aCharArray toEndpoint: aLUEndpointDescriptor withTimeout: milliseconds direction: LUEndpointDirectionEnumeration LIBUSB_ENDPOINT_IN 
+	^ self interruptTransfer: aCharArray toEndpoint: endpoint withTimeout: milliseconds direction: LUEndpointDirectionEnumeration LIBUSB_ENDPOINT_IN
