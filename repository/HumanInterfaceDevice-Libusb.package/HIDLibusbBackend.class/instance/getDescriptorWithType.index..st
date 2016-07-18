@@ -1,7 +1,7 @@
 standard requests
 getDescriptorWithType: descriptorType index: descriptorIndex
 	| data byteSent bytes |
-	data := FFIExternalArray externalNewType: 'uchar' size: 256.
+	data := self externalCharArrayOfSize: 256.
 	data autoRelease.
 	byteSent:= libusbDeviceHandle
 					controlTransferWithRequestType: (LUEndpointDirectionEnumeration LIBUSB_ENDPOINT_IN value

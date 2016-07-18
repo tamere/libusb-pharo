@@ -1,7 +1,7 @@
 hid requests
 getReportFromInterruptInPipeWithType: reportType id: reportId
 	| data byteReceived bytes |
-	data := FFIExternalArray externalNewType: 'uchar' size: 256.
+	data := self externalCharArrayOfSize: 256.
 	byteReceived := libusbDeviceHandle
 					interruptInputTransfer: data toEndpoint: self hidInterfaceForRequests withTimeout: self requestsTimeout.
 	

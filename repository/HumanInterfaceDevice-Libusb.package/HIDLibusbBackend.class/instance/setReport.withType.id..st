@@ -1,7 +1,7 @@
 hid requests
 setReport: hidReport withType: reportType id: reportId
 	| data byteSent |
-	data := FFIExternalArray externalNewType: 'uchar' size: hidReport size.
+	data := self externalCharArrayOfSize: hidReport size.
 	data autoRelease.
 	hidReport doWithIndex: [ :byte :i |
 		data at: i put: byte ].
