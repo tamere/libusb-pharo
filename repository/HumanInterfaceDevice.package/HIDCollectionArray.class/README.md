@@ -1,0 +1,1 @@
+I represent an HID collection data structure. I hold corresponding hid objects and the original HIDCollection object.
