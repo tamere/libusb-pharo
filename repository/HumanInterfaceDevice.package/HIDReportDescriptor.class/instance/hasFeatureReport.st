@@ -1,3 +1,3 @@
 testing
 hasFeatureReport
-	^ self hidObjects anySatisfy: [ :hidObject | hidObject class = HIDFeature ]
+	^ self hidObjects flattened anySatisfy: [ :hidObject | hidObject class = HIDFeature ]

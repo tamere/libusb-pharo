@@ -1,3 +1,3 @@
 testing
 hasInputReport
-	^ self hidObjects anySatisfy: [ :hidObject | hidObject class = HIDInput ]
+	^ self hidObjects flattened anySatisfy: [ :hidObject | hidObject class = HIDInput ]
