@@ -2,6 +2,7 @@
 gtPropertiesOn: aComposite
 	<gtInspectorPresentationOrder: 0>
 	aComposite list
+		title: 'Properties';
 		display: [ 
 		(#(#isConstant
 		#isVariable
