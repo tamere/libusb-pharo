@@ -1,0 +1,3 @@
+testing
+isMain
+	^ true
