@@ -1,5 +1,7 @@
 printing
 shortPrintOn: aStream
 	self printClassOn: aStream with: [ :stream |
-		stream
-			<< self usageName asString ]
+		self usagePage
+			ifNotNil: [ 
+				stream
+					<< self usageName asString ] ]
