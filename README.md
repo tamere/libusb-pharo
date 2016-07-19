@@ -63,19 +63,41 @@ Metacello new
 ## Quick start
 The following code gives you hints on how to use the HID layer.
 
-Do not forget to replace **vid** and **pid** by those from your usb device (use `lsusb` if you use linux).
+If you use linux, the following command is probably available on your system:
 ```
-backend := HIDBackend libusb vid: 16r1efb pid: 16r1590.
-                
+$ lsusb
+```
+
+It will print the following output that shows multiple information about the
+usb devices connected to the system. For the example we will take the vid:pid
+of the `Linux Foundation 2.0 root hub` (`046d:c52f`).
+
+```
+Bus 004 Device 003: ID 045e:07a5 Microsoft Corp. Wireless Receiver 1461C
+Bus 004 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub
+Bus 004 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 003 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 002 Device 002: ID 046d:c52f Logitech, Inc. Unifying Receiver
+Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 001 Device 004: ID 058f:6366 Alcor Micro Corp. Multi Flash Reader
+Bus 001 Device 003: ID 05c8:030d Cheng Uei Precision Industry Co., Ltd (Foxlink) 
+Bus 001 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+                       ^    ^
+                       vid  pid
+```
+
+Do not forget to replace **vid** and **pid** by those from your usb device in the following code: 
+
+```
+backend := HIDLibusbBackend vid: 16r046d pid: 16rc52f.
+
 backend open.
 backend takeDeviceControl.
 
-
-rawReport := backend getDescriptorWithType: HIDBackend LIBUSB_DT_REPORT index: 0.
-
-hidObjects := HIDReportDescriptorParser parse: rawReport readStream.
-
+"Get the report descriptor from the device or returns the one in cache if it has already be done."
+reportDescriptor := backend reportDescriptor.
 
 backend releaseDeviceControl.
-backend close
+backend close.
 ```
