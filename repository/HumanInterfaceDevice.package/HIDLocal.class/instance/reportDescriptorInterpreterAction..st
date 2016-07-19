@@ -1,0 +1,4 @@
+interpreter action
+reportDescriptorInterpreterAction: anHIDReportDescriptorInterpreter
+	anHIDReportDescriptorInterpreter
+		addObjectToItemStateTable: self

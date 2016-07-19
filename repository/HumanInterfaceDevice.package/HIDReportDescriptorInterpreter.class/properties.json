@@ -1,0 +1,18 @@
+{
+	"category" : "HumanInterfaceDevice-Interpreter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stack",
+		"itemStateTable",
+		"objectsStream",
+		"currentItemStateTable",
+		"itemStateTables" ],
+	"name" : "HIDReportDescriptorInterpreter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

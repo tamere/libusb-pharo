@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add:" : "JulienDelplanque 7/19/2016 16:27",
+		"addEvenIfDuplicated:" : "JulienDelplanque 7/19/2016 16:28",
+		"addMainItem:" : "JulienDelplanque 7/19/2016 17:11",
+		"copyWithoutLocalItems" : "JulienDelplanque 7/19/2016 16:12",
+		"initialize" : "JulienDelplanque 7/19/2016 17:12",
+		"items" : "JulienDelplanque 7/19/2016 16:13",
+		"mainItems" : "JulienDelplanque 7/19/2016 17:11",
+		"mainItems:" : "JulienDelplanque 7/19/2016 17:11" } }

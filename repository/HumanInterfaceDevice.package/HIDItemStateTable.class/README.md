@@ -1,0 +1,1 @@
+I represent the item state table described in the HID specification.

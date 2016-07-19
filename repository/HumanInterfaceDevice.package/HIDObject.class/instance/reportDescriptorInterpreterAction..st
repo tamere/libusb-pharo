@@ -1,0 +1,3 @@
+interpreter action
+reportDescriptorInterpreterAction: anHIDReportDescriptorInterpreter
+	^ self subclassResponsibility

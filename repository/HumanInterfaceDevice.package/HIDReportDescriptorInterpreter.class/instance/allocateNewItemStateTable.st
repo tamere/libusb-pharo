@@ -1,0 +1,3 @@
+report structures manipulation
+allocateNewItemStateTable
+	itemStateTables add: itemStateTable deepCopy

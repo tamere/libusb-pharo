@@ -4,6 +4,7 @@ SystemOrganization addCategory: 'HumanInterfaceDevice-Codes'!
 SystemOrganization addCategory: 'HumanInterfaceDevice-Datastructures'!
 SystemOrganization addCategory: 'HumanInterfaceDevice-Descriptors'!
 SystemOrganization addCategory: 'HumanInterfaceDevice-Errors'!
+SystemOrganization addCategory: 'HumanInterfaceDevice-Interpreter'!
 SystemOrganization addCategory: 'HumanInterfaceDevice-Items'!
 SystemOrganization addCategory: 'HumanInterfaceDevice-Objects'!
 SystemOrganization addCategory: 'HumanInterfaceDevice-Parser'!

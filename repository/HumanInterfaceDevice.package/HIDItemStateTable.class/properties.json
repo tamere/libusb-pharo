@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "JulienDelplanque 7/19/2016 16:04",
 	"instvars" : [
-		"itemStateTable",
+		"items",
 		"mainItems" ],
-	"name" : "HIDReportStructure",
+	"name" : "HIDItemStateTable",
 	"pools" : [
 		 ],
 	"super" : "Object",

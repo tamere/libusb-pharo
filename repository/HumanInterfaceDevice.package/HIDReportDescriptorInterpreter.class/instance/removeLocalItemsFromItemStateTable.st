@@ -1,0 +1,3 @@
+item state table manipulation
+removeLocalItemsFromItemStateTable
+	itemStateTable := itemStateTable copyWithoutLocalItems

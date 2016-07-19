@@ -1,0 +1,3 @@
+report structures manipulation
+addMainItemToItemStateTable: anHIDMainItem
+	itemStateTable addMainItem: anHIDMainItem
