@@ -1,0 +1,14 @@
+{
+	"category" : "HumanInterfaceDevice-Datastructures",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HIDReportStructure",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
