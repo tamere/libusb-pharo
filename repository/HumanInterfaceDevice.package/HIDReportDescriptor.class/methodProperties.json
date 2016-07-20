@@ -1,7 +1,9 @@
 {
 	"class" : {
 		"fromByteArray:" : "JulienDelplanque 7/20/2016 15:18",
-		"fromByteStream:" : "JulienDelplanque 7/20/2016 15:18" },
+		"fromByteStream:" : "JulienDelplanque 7/20/2016 15:18",
+		"fromFile:" : "JulienDelplanque 7/20/2016 15:32",
+		"fromHexStringStream:" : "JulienDelplanque 7/20/2016 15:31" },
 	"instance" : {
 		"generateReportStructures" : "JulienDelplanque 7/20/2016 13:44",
 		"hasFeatureReport" : "JulienDelplanque 7/18/2016 16:04",
@@ -10,4 +12,5 @@
 		"hexString" : "JulienDelplanque 7/20/2016 15:07",
 		"hidObjects" : "JulienDelplanque 7/18/2016 11:01",
 		"hidObjects:" : "JulienDelplanque 7/18/2016 11:01",
-		"printHexOn:" : "JulienDelplanque 7/20/2016 15:10" } }
+		"printHexOn:" : "JulienDelplanque 7/20/2016 15:10",
+		"writeInFile:" : "JulienDelplanque 7/20/2016 15:24" } }
