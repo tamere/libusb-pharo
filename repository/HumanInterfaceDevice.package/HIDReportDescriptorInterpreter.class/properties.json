@@ -4,12 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "JulienDelplanque 7/20/2016 13:50",
 	"instvars" : [
 		"stack",
 		"itemStateTable",
 		"objectsStream",
-		"currentItemStateTable",
 		"itemStateTables" ],
 	"name" : "HIDReportDescriptorInterpreter",
 	"pools" : [

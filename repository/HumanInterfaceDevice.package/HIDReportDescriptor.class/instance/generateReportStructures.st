@@ -1,3 +1,3 @@
 report generation
-generateReports
+generateReportStructures
 	^ HIDReportDescriptorInterpreter interpret: self hidObjects

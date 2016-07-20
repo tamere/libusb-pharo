@@ -1,0 +1,1 @@
+I am the object responsible of the interpretation of an HIDReportDescriptor to generate HIDReportStructures that can parse reports.
