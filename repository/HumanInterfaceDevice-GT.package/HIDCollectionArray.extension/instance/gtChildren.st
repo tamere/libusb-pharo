@@ -1,3 +1,0 @@
-*HumanInterfaceDevice-GT
-gtChildren
-	^ self
