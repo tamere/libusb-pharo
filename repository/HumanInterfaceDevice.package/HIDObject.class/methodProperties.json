@@ -8,6 +8,7 @@
 		"itemTypeDescription" : "JulienDelplanque 7/13/2016 15:09" },
 	"instance" : {
 		"data" : "JulienDelplanque 7/15/2016 10:14",
+		"hexString" : "JulienDelplanque 7/20/2016 15:03",
 		"isGlobal" : "JulienDelplanque 7/19/2016 13:21",
 		"isLocal" : "JulienDelplanque 7/19/2016 13:22",
 		"isLogicalMaximum" : "JulienDelplanque 7/20/2016 09:28",
@@ -20,6 +21,7 @@
 		"item" : "JulienDelplanque 7/13/2016 16:08",
 		"item:" : "JulienDelplanque 7/13/2016 16:08",
 		"printClassOn:with:" : "JulienDelplanque 7/18/2016 13:21",
+		"printHexOn:" : "JulienDelplanque 7/20/2016 14:59",
 		"printOn:" : "JulienDelplanque 7/18/2016 13:21",
 		"reportDescriptorInterpreterAction:" : "JulienDelplanque 7/19/2016 14:16",
 		"shortPrintOn:" : "JulienDelplanque 7/18/2016 13:20" } }
