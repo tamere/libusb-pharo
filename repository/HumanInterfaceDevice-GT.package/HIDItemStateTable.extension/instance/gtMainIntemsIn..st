@@ -2,5 +2,5 @@
 gtMainIntemsIn: composite
 	<gtInspectorPresentationOrder: 1>
 	composite list
-		title: 'State table';
+		title: 'Main items';
 		display: [ self mainItems ]
