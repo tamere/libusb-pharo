@@ -1,3 +1,3 @@
-stack manipulation
+private - stack manipulation
 top
 	^ stack top
