@@ -5,7 +5,7 @@ getReportFromInterruptOutPipeWithType: reportType id: reportId
 	byteReceived := libusbDeviceHandle
 					interruptOutputTransfer: data toEndpoint: self hidInterfaceForRequests withTimeout: self requestsTimeout.
 	
-	bytes := ByteArray new: byteReceived.
+	bytes := HIDReport new: byteReceived.
 	1 to: byteReceived do: [ :i |
 		bytes at: i put: (data at: i) ].
 	^ bytes

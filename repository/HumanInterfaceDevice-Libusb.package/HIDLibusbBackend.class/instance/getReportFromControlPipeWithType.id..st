@@ -14,7 +14,7 @@ getReportFromControlPipeWithType: reportType id: reportId
 					setupPacketFieldLength: data size
 					timeout: self requestsTimeout.
 	
-	bytes := ByteArray new: byteSent.
+	bytes := HIDReport new: byteSent.
 	1 to: byteSent do: [ :i |
 		bytes at: i put: (data at: i) ].
 	^ bytes
