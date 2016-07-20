@@ -1,0 +1,1 @@
+I am the object that describe the structure of a single report.

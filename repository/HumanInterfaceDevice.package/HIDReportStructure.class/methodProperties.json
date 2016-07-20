@@ -1,9 +1,9 @@
 {
 	"class" : {
-		 },
+		"itemStateTables:" : "JulienDelplanque 7/20/2016 09:09" },
 	"instance" : {
-		"addMainItem:" : "JulienDelplanque 7/19/2016 15:39",
-		"initialize" : "JulienDelplanque 7/19/2016 15:38",
-		"itemStateTable" : "JulienDelplanque 7/19/2016 14:09",
-		"itemStateTable:" : "JulienDelplanque 7/19/2016 14:09",
-		"mainItems" : "JulienDelplanque 7/19/2016 17:00" } }
+		"byteSize" : "JulienDelplanque 7/20/2016 09:16",
+		"itemStateTables" : "JulienDelplanque 7/20/2016 09:08",
+		"itemStateTables:" : "JulienDelplanque 7/20/2016 09:08",
+		"parse:" : "JulienDelplanque 7/20/2016 12:31",
+		"size" : "JulienDelplanque 7/20/2016 09:10" } }

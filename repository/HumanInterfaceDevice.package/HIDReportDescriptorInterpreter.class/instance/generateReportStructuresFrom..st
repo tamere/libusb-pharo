@@ -5,4 +5,6 @@ generateReportStructuresFrom: aCollectionOfHIDObjects
 		whileFalse: [ 
 			objectsStream next
 				reportDescriptorInterpreterAction: self ].
-	^ itemStateTables select: [ :stateTable | stateTable mainItems size > 0 ]
+	self flag: #TODO."Manage when many ids are present."
+	^ HIDReportStructure
+		itemStateTables: (itemStateTables select: [ :stateTable | stateTable mainItems size > 0 ])

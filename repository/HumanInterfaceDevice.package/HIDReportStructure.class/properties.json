@@ -2,14 +2,15 @@
 	"category" : "HumanInterfaceDevice-Datastructures",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "HIDByteToIntegerConverter classTrait",
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "JulienDelplanque 7/20/2016 09:10",
 	"instvars" : [
-		"itemStateTable",
-		"mainItems" ],
+		"itemStateTables" ],
 	"name" : "HIDReportStructure",
 	"pools" : [
 		 ],
 	"super" : "Object",
+	"traitcomposition" : "HIDByteToIntegerConverter",
 	"type" : "normal" }
