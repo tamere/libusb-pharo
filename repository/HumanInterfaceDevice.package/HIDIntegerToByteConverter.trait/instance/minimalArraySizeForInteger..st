@@ -1,5 +1,5 @@
 array size finding
-minimalArraySizeFor: anInteger
+minimalArraySizeForInteger: anInteger
 	| size |
 	size := 1.
 	[ [ self bytesFromInteger: anInteger withSize: size. true ]

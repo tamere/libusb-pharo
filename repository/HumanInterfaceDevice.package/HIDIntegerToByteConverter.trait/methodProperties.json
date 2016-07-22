@@ -3,5 +3,8 @@
 		 },
 	"instance" : {
 		"bytesFromInteger:withSize:" : "JulienDelplanque 7/22/2016 10:51",
+		"bytesFromUnsignedInteger:withSize:" : "JulienDelplanque 7/22/2016 15:58",
 		"bytesWithMinimalSizeFromInteger:" : "JulienDelplanque 7/22/2016 14:10",
-		"minimalArraySizeFor:" : "JulienDelplanque 7/22/2016 10:09" } }
+		"bytesWithMinimalSizeFromUnsignedInteger:" : "JulienDelplanque 7/22/2016 16:13",
+		"minimalArraySizeForInteger:" : "JulienDelplanque 7/22/2016 16:00",
+		"minimalArraySizeForUnsignedInteger:" : "JulienDelplanque 7/22/2016 16:01" } }

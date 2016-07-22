@@ -1,0 +1,1 @@
+I define methods to create bit masks easily.
