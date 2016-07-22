@@ -2,6 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testHeaderWithSize" : "JulienDelplanque 7/20/2016 16:18",
 		"testHexString" : "JulienDelplanque 7/20/2016 15:04",
-		"testPrintHexOn" : "JulienDelplanque 7/20/2016 15:02" } }
+		"testPrintHexOn" : "JulienDelplanque 7/20/2016 15:02",
+		"testShortItemHeaderWithSize" : "JulienDelplanque 7/22/2016 14:06" } }
