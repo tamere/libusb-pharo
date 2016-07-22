@@ -3,4 +3,5 @@
 		 },
 	"instance" : {
 		"bytesFromInteger:withSize:" : "JulienDelplanque 7/22/2016 10:51",
+		"bytesWithMinimalSizeFromInteger:" : "JulienDelplanque 7/22/2016 14:10",
 		"minimalArraySizeFor:" : "JulienDelplanque 7/22/2016 10:09" } }
