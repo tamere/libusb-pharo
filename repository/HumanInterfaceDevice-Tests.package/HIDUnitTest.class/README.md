@@ -1,0 +1,1 @@
+A HIDUnitTest is a test class for testing the behavior of HIDUnit
