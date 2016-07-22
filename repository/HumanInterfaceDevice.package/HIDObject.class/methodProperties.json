@@ -2,14 +2,13 @@
 	"class" : {
 		"classForItemType:tag:" : "JulienDelplanque 7/13/2016 16:51",
 		"classesForItemType:" : "JulienDelplanque 7/13/2016 16:52",
-		"headerWithSize:" : "JulienDelplanque 7/20/2016 16:24",
 		"itemTagCode" : "JulienDelplanque 7/13/2016 15:09",
 		"itemTagDescription" : "JulienDelplanque 7/13/2016 15:09",
 		"itemTypeCode" : "JulienDelplanque 7/13/2016 15:09",
-		"itemTypeDescription" : "JulienDelplanque 7/13/2016 15:09" },
+		"itemTypeDescription" : "JulienDelplanque 7/13/2016 15:09",
+		"shortItemHeaderWithSize:" : "JulienDelplanque 7/22/2016 14:04" },
 	"instance" : {
 		"data" : "JulienDelplanque 7/15/2016 10:14",
-		"headerWithSize:" : "JulienDelplanque 7/20/2016 16:11",
 		"hexString" : "JulienDelplanque 7/20/2016 15:03",
 		"isGlobal" : "JulienDelplanque 7/19/2016 13:21",
 		"isLocal" : "JulienDelplanque 7/19/2016 13:22",
@@ -26,4 +25,5 @@
 		"printHexOn:" : "JulienDelplanque 7/20/2016 14:59",
 		"printOn:" : "JulienDelplanque 7/18/2016 13:21",
 		"reportDescriptorInterpreterAction:" : "JulienDelplanque 7/19/2016 14:16",
+		"shortItemHeaderWithSize:" : "JulienDelplanque 7/22/2016 14:04",
 		"shortPrintOn:" : "JulienDelplanque 7/18/2016 13:20" } }

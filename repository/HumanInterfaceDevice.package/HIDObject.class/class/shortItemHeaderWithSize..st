@@ -1,5 +1,5 @@
 helper
-headerWithSize: anInteger
+shortItemHeaderWithSize: anInteger
 	"Creates a byte header for an HIDShortItem using:
 		- the size given as an integer parameter
 		- the result of #itemTagCode message

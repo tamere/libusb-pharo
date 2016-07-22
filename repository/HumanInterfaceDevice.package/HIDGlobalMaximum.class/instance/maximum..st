@@ -10,6 +10,6 @@ maximum: anInteger
 			byteArraySize := byteArraySize + 1 ].
 	self
 		item: (HIDShortItem
-					rawData: {(self headerWithSize: byteArraySize)} asByteArray , byteArray)
+					rawData: {(self shortItemHeaderWithSize: byteArraySize)} asByteArray , byteArray)
 	
 	
