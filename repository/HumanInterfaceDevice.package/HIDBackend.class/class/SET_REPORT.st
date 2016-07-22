@@ -1,3 +1,3 @@
 hid request types
 SET_REPORT
-	^ 16r0B
+	^ 16r09
