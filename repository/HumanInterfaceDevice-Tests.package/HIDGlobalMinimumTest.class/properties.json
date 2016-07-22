@@ -1,0 +1,14 @@
+{
+	"category" : "HumanInterfaceDevice-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "HIDGlobalMinimumTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
