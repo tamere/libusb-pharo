@@ -3,4 +3,6 @@
 		 },
 	"instance" : {
 		"testBytesFromIntegerWithSize" : "JulienDelplanque 7/22/2016 10:52",
-		"testMinimalArraySizeFor" : "JulienDelplanque 7/22/2016 10:11" } }
+		"testBytesFromUnsignedIntegerWithSize" : "JulienDelplanque 7/22/2016 15:58",
+		"testMinimalArraySizeForInteger" : "JulienDelplanque 7/22/2016 16:01",
+		"testMinimalArraySizeForUnsignedInteger" : "JulienDelplanque 7/22/2016 16:07" } }
