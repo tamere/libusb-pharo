@@ -1,0 +1,1 @@
+A HIDGlobalMaximumTest is a test class for testing the behavior of HIDGlobalMaximum

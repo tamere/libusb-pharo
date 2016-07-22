@@ -1,0 +1,3 @@
+accessing
+concreteClassesToTest
+	^ HIDGlobalMaximum subclasses
