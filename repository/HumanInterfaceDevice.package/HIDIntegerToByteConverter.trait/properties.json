@@ -1,0 +1,4 @@
+{
+	"category" : "HumanInterfaceDevice-Traits",
+	"commentStamp" : "JulienDelplanque 7/20/2016 16:42",
+	"name" : "HIDIntegerToByteConverter" }

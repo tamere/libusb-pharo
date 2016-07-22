@@ -1,7 +1,8 @@
 {
 	"class" : {
 		"expectedBSize" : "JulienDelplanque 7/13/2016 12:09",
-		"expectedBTag" : "JulienDelplanque 7/13/2016 12:09" },
+		"expectedBTag" : "JulienDelplanque 7/13/2016 12:09",
+		"maxDataSize" : "JulienDelplanque 7/20/2016 16:04" },
 	"instance" : {
 		"bDataSize" : "JulienDelplanque 7/13/2016 12:16",
 		"bLongItemTag" : "JulienDelplanque 7/13/2016 12:16",
