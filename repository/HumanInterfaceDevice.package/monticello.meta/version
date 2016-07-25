@@ -1,2 +1,2 @@
-(name 'HumanInterfaceDevice-JulienDelplanque.73' message 'Added mutators for HIDDataMain.' id 'dfd77f14-c34e-4a0f-bf7c-00264f61bbdc' date '25 July 2016' time '10:42:42.284069 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.72' message 'Added mutator for #id.
-' id '7bec4870-16fc-5a01-8fb2-e1f57ba37cc2' date '25 July 2016' time '9:41:01 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
+(name 'HumanInterfaceDevice-JulienDelplanque.74' message 'Added mutators for HIDVolatileData.' id '1e7d4109-d203-43cf-89c0-8c25e6cc2f61' date '25 July 2016' time '10:50:11.049711 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.73' message 'Added mutators for HIDDataMain.
+' id '415be7c1-0345-5801-aeab-768f00ca3625' date '25 July 2016' time '10:43:02 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
