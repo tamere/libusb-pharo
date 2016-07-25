@@ -52,13 +52,28 @@ LUContext withAllDevicesDo: [ :context :devices |
 This repository also holds an implementation of the Human Interface Device protocol with a driver to be used with libusb binding.
 
 ## Install
+This project uses gitfiletree's metadataless mode. This extension is not supported
+by the version of metacello available in image yet. So you need to execute the
+following code before actually loading this proejct:
+```
+Metacello new 
+    baseline: 'Metacello'; 
+    repository: 'github://dalehenrich/metacello-work:master/repository'; 
+    get. 
+Metacello new 
+    baseline: 'Metacello'; 
+    repository: 'github://dalehenrich/metacello-work:master/repository'; 
+    onConflict: [:ex | ex allow]; 
+    load 
+```
+Then, you can execute the following code:
 ```
 Metacello new
     repository: 'github://tamerescrl/libusb-pharo/repository';
     baseline: 'HumanInterfaceDevice';
     load
-
 ```
+You are now ready to use this project!
 
 ## Quick start
 The following code gives you hints on how to use the HID layer.
