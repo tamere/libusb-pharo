@@ -1,2 +1,2 @@
-(name 'HumanInterfaceDevice-JulienDelplanque.79' message 'Added mutators for HIDCollection.' id 'b0317331-528e-4999-be42-58fcf02a4f78' date '25 July 2016' time '1:13:55.529239 pm' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.78' message 'Added some of the methods to add main items to a report descriptor.
-' id '30eade53-192c-5161-9718-c08c8fbdd792' date '25 July 2016' time '12:42:45 pm' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
+(name 'HumanInterfaceDevice-JulienDelplanque.80' message 'Added #collectionType:with message.' id 'a3854aef-d5d1-4260-9bb0-8a0575f04238' date '25 July 2016' time '1:26:51.212088 pm' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.79' message 'Added mutators for HIDCollection.
+' id 'e528f07f-744c-5d94-a92b-f986e1780604' date '25 July 2016' time '1:14:23 pm' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
