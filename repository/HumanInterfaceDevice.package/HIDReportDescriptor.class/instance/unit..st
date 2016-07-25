@@ -1,4 +1,4 @@
-building
+building - global
 unit: anInteger
 	"Adds an HIDUnit object with the value in parameter to
 	 the objects list."

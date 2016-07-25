@@ -1,4 +1,4 @@
-building
+building - global
 physicalMinimum: anInteger
 	"Adds an HIDPhysicalMinimum object with the value in parameter to
 	 the objects list."

@@ -1,4 +1,4 @@
-building
+building - global
 reportSize: anInteger
 	"Adds an HIDReportSize object with the value in parameter to
 	 the objects list."
