@@ -1,2 +1,2 @@
-(name 'HumanInterfaceDevice-JulienDelplanque.83' message 'Removed unused methods.' id '79e006f4-a819-4b1d-b6ca-11e77cb8b304' date '25 July 2016' time '2:07:16.651283 pm' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.82' message 'Added #initialize method to HIDEndCollection. Also fixed HIDReportDescriptor>>#exampleFromHIDSpec.
-' id 'cd340cdd-0414-5ed5-a4f0-33e5da260691' date '25 July 2016' time '1:52:47 pm' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
+(name 'HumanInterfaceDevice-JulienDelplanque.84' message 'Added accessors.' id '80152ec7-1eda-40e0-9856-d12f9223b5ed' date '25 July 2016' time '3:55:22.885587 pm' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.83' message 'Removed unused methods.
+' id 'e1bc6188-6da7-51cb-8ea6-148d4d26dfa5' date '25 July 2016' time '2:07:39 pm' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
