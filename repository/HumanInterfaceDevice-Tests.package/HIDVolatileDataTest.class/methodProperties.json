@@ -2,5 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
+		"concreteClassesToTest" : "JulienDelplanque 7/25/2016 10:47",
 		"testIsNonVolatile" : "JulienDelplanque 7/25/2016 10:41",
-		"testIsVolatile" : "JulienDelplanque 7/25/2016 10:41" } }
+		"testIsVolatile" : "JulienDelplanque 7/25/2016 10:41",
+		"testNonVolatile" : "JulienDelplanque 7/25/2016 10:48",
+		"testVolatile" : "JulienDelplanque 7/25/2016 10:48" } }
