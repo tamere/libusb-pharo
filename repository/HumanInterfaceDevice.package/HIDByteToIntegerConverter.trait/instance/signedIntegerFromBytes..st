@@ -1,6 +1,8 @@
 converting
 signedIntegerFromBytes: aByteArray
 	| unsignedInteger signedInteger power |
+	(aByteArray isNotEmpty and: [aByteArray noneSatisfy: [ :byte | byte ~= 255 ]])
+		ifTrue: [ ^ 0 ].
 	unsignedInteger := self unsignedIntegerFromBytes: aByteArray.
 	power := 1.
 	signedInteger := 0.

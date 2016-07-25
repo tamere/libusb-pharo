@@ -1,2 +1,2 @@
-(name 'HumanInterfaceDevice-JulienDelplanque.69' message 'Added #index: mutator.' id 'bf4f0a30-ff49-484e-9cc2-8c8e7e2db969' date '25 July 2016' time '9:14:13.473555 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.68' message 'Added methods to change value of HIDDelimiter.
-' id '2dd37001-0546-5458-bbf4-a2d334d40e4b' date '25 July 2016' time '8:52:09 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
+(name 'HumanInterfaceDevice-JulienDelplanque.70' message 'Fixed #signedIntegerFromBytes: and added mutator for HIDLocalMaximum.' id '435c744b-8290-4f3b-8bf1-2ea1bccfe171' date '25 July 2016' time '9:26:51.091494 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.69' message 'Added #index: mutator.
+' id '5eea912c-7bb7-56ca-9537-0eb09c61d6d9' date '25 July 2016' time '9:14:34 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
