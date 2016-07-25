@@ -1,2 +1,2 @@
-(name 'HumanInterfaceDevice-Tests-JulienDelplanque.33' message 'Added test for HIDUsage.' id '12921c2c-f70f-4a2b-813e-4370aea4fa69' date '25 July 2016' time '9:41:16.116895 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-Tests-JulienDelplanque.32' message 'Added tests for HIDLocalMinimum.
-' id 'c15aed64-c4b9-5372-9fef-cc75c56f3105' date '25 July 2016' time '9:36:33 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
+(name 'HumanInterfaceDevice-Tests-JulienDelplanque.34' message 'Added unit tests for HIDDataMain and adapted some to work with modifications.' id '046b8c1a-fdff-45cd-9894-c778f1d94c94' date '25 July 2016' time '10:43:30.647536 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-Tests-JulienDelplanque.33' message 'Added test for HIDUsage.
+' id '26ead187-3ff7-59ff-88c2-51a4fd83342f' date '25 July 2016' time '9:41:35 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())

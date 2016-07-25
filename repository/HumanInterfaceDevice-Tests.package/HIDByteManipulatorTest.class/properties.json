@@ -1,0 +1,16 @@
+{
+	"category" : "HumanInterfaceDevice-Tests",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "HIDByteManipulator classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HIDByteManipulatorTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"traitcomposition" : "HIDByteManipulator",
+	"type" : "normal" }
