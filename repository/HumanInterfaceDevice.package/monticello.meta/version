@@ -1,2 +1,2 @@
-(name 'HumanInterfaceDevice-JulienDelplanque.72' message 'Added mutator for #id.' id 'f5c548af-2a34-4b55-8c5b-7e46b37c9169' date '25 July 2016' time '9:40:41.03435 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.71' message 'Added mutator for #minimum.
-' id '50ee6e17-df51-5ac2-9bc3-806b8aec958b' date '25 July 2016' time '9:35:51 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
+(name 'HumanInterfaceDevice-JulienDelplanque.73' message 'Added mutators for HIDDataMain.' id 'dfd77f14-c34e-4a0f-bf7c-00264f61bbdc' date '25 July 2016' time '10:42:42.284069 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.72' message 'Added mutator for #id.
+' id '7bec4870-16fc-5a01-8fb2-e1f57ba37cc2' date '25 July 2016' time '9:41:01 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())

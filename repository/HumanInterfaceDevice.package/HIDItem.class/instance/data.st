@@ -1,4 +1,4 @@
 accessing
 data
-	"Returns the data only i.e. the #rawData without the prefix."
+	"Returns a copy of the data only i.e. the #rawData without the prefix."
 	^ self subclassResponsibility
