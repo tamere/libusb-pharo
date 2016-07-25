@@ -17,5 +17,9 @@ testSignedIntegerFromBytes
 		equals: -42.
 	
 	self
+		assert: (self signedIntegerFromBytes: #[255 255])
+		equals: 0.
+	
+	self
 		should: [ self signedIntegerFromBytes: #[] ]
 		raise: CollectionIsEmpty
