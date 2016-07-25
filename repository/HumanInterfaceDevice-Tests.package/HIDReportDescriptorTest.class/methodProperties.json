@@ -3,5 +3,18 @@
 		 },
 	"instance" : {
 		"sampleRawReportDescriptor" : " 7/25/2016 08:27:14",
+		"testAddHIDObject" : "JulienDelplanque 7/25/2016 11:31",
 		"testHexString" : " 7/25/2016 08:27:14",
-		"testPrintHexOn" : " 7/25/2016 08:27:14" } }
+		"testLogicalMaximum" : "JulienDelplanque 7/25/2016 11:33",
+		"testLogicalMinimum" : "JulienDelplanque 7/25/2016 11:34",
+		"testPhysicalMaximum" : "JulienDelplanque 7/25/2016 11:36",
+		"testPhysicalMinimum" : "JulienDelplanque 7/25/2016 11:35",
+		"testPop" : "JulienDelplanque 7/25/2016 11:36",
+		"testPrintHexOn" : " 7/25/2016 08:27:14",
+		"testPush" : "JulienDelplanque 7/25/2016 11:36",
+		"testReportCount" : "JulienDelplanque 7/25/2016 11:37",
+		"testReportId" : "JulienDelplanque 7/25/2016 11:38",
+		"testReportSize" : "JulienDelplanque 7/25/2016 11:38",
+		"testUnit" : "JulienDelplanque 7/25/2016 11:39",
+		"testUnitExponent" : "JulienDelplanque 7/25/2016 11:40",
+		"testUsagePageId" : "JulienDelplanque 7/25/2016 11:40" } }
