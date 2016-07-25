@@ -1,4 +1,4 @@
-tests-building
+tests-building - global
 testPop
 	| hidReportDescriptor |
 	hidReportDescriptor := HIDReportDescriptor new.

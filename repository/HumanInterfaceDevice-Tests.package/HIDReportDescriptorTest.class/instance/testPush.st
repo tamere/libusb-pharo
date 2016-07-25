@@ -1,4 +1,4 @@
-tests-building
+tests-building - global
 testPush
 	| hidReportDescriptor |
 	hidReportDescriptor := HIDReportDescriptor new.

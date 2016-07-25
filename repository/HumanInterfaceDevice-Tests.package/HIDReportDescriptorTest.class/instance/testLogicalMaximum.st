@@ -1,4 +1,4 @@
-tests-building
+tests-building - global
 testLogicalMaximum
 	| hidReportDescriptor |
 	hidReportDescriptor := HIDReportDescriptor new.

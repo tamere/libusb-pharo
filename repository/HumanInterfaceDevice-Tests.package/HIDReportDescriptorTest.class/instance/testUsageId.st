@@ -1,9 +1,9 @@
-tests-building - global
-testReportId
+tests-building - local
+testUsageId
 	| hidReportDescriptor |
 	hidReportDescriptor := HIDReportDescriptor new.
-	hidReportDescriptor reportId: 2.
+	hidReportDescriptor usageId: 2.
 	
 	self assert: hidReportDescriptor hidObjects size equals: 1.
-	self assert: hidReportDescriptor hidObjects first class equals: HIDReportId.
+	self assert: hidReportDescriptor hidObjects first class equals: HIDUsage.
 	self assert: hidReportDescriptor hidObjects first id equals: 2

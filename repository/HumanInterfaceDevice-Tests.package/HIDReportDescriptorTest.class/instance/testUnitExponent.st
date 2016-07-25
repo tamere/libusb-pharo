@@ -1,4 +1,4 @@
-tests-building
+tests-building - global
 testUnitExponent
 	| hidReportDescriptor |
 	hidReportDescriptor := HIDReportDescriptor new.

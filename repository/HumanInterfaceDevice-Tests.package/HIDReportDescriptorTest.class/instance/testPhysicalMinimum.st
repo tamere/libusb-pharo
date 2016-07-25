@@ -1,4 +1,4 @@
-tests-building
+tests-building - global
 testPhysicalMinimum
 	| hidReportDescriptor |
 	hidReportDescriptor := HIDReportDescriptor new.

@@ -1,4 +1,4 @@
-tests-building
+tests-building - global
 testLogicalMinimum
 	| hidReportDescriptor |
 	hidReportDescriptor := HIDReportDescriptor new.

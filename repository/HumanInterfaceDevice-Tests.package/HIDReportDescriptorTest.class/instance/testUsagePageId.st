@@ -1,4 +1,4 @@
-tests-building
+tests-building - global
 testUsagePageId
 	| hidReportDescriptor |
 	hidReportDescriptor := HIDReportDescriptor new.

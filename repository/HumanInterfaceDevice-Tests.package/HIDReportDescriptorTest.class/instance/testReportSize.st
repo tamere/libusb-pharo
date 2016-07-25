@@ -1,4 +1,4 @@
-tests-building
+tests-building - global
 testReportSize
 	| hidReportDescriptor |
 	hidReportDescriptor := HIDReportDescriptor new.
