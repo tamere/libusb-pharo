@@ -1,3 +1,3 @@
 testing
-isClosed
+isClose
 	^ self isOpen not

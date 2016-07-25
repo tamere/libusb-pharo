@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"interpret:" : " 7/25/2016 08:27:14" },
+	"instance" : {
+		"addMainItemToItemStateTable:" : " 7/25/2016 08:27:14",
+		"addObjectToItemStateTable:" : " 7/25/2016 08:27:14",
+		"addObjectToItemStateTableEvenIfDuplicated:" : " 7/25/2016 08:27:14",
+		"allocateNewItemStateTable" : " 7/25/2016 08:27:14",
+		"generateReportStructuresFrom:" : " 7/25/2016 08:27:14",
+		"initialize" : " 7/25/2016 08:27:14",
+		"pop" : " 7/25/2016 08:27:14",
+		"popItemStateTable" : " 7/25/2016 08:27:14",
+		"push:" : " 7/25/2016 08:27:14",
+		"pushItemStateTable" : " 7/25/2016 08:27:14",
+		"removeLocalItemsFromItemStateTable" : " 7/25/2016 08:27:14",
+		"top" : " 7/25/2016 08:27:14" } }

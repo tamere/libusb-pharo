@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"doesNotHaveNullState" : " 7/25/2016 08:27:14",
+		"doesNotHavePreferredState" : " 7/25/2016 08:27:14",
+		"hasBitField" : " 7/25/2016 08:27:14",
+		"hasBufferedBytes" : " 7/25/2016 08:27:14",
+		"hasNullState" : " 7/25/2016 08:27:14",
+		"hasPreferredState" : " 7/25/2016 08:27:14",
+		"isAbsolute" : " 7/25/2016 08:27:14",
+		"isArray" : " 7/25/2016 08:27:14",
+		"isConstant" : " 7/25/2016 08:27:14",
+		"isData" : " 7/25/2016 08:27:14",
+		"isLinear" : " 7/25/2016 08:27:14",
+		"isNonLinear" : " 7/25/2016 08:27:14",
+		"isNotWrapped" : " 7/25/2016 08:27:14",
+		"isRelative" : " 7/25/2016 08:27:14",
+		"isVariable" : " 7/25/2016 08:27:14",
+		"isWrapped" : " 7/25/2016 08:27:14",
+		"reportDescriptorInterpreterAction:" : " 7/25/2016 08:27:14" } }
