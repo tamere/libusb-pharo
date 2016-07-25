@@ -1,2 +1,2 @@
-(name 'HumanInterfaceDevice-Tests-JulienDelplanque.39' message 'Added tests for mutators of HIDCollection.' id 'bb9f9be1-1653-4a2c-b118-82009445dc98' date '25 July 2016' time '1:14:41.885011 pm' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-Tests-JulienDelplanque.38' message 'Added test for main item adding.
-' id '0c7a54a2-df1d-5782-9e0c-698e304e7469' date '25 July 2016' time '12:45:45 pm' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
+(name 'HumanInterfaceDevice-Tests-JulienDelplanque.40' message 'Added test for #collectionType:with.' id '30416020-3b1a-4356-9373-8a4adecd56c6' date '25 July 2016' time '1:27:31.01941 pm' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-Tests-JulienDelplanque.39' message 'Added tests for mutators of HIDCollection.
+' id 'af8dfb07-beed-51e8-a2bf-d64a79cef4b0' date '25 July 2016' time '1:15:03 pm' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
