@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testDoesNotHaveNullState" : " 7/25/2016 08:27:14",
+		"testDoesNotHavePreferredState" : " 7/25/2016 08:27:14",
+		"testHasBitField" : " 7/25/2016 08:27:14",
+		"testHasBufferedBytes" : " 7/25/2016 08:27:14",
+		"testHasNullState" : " 7/25/2016 08:27:14",
+		"testHasPreferredState" : " 7/25/2016 08:27:14",
+		"testIsAbsolute" : " 7/25/2016 08:27:14",
+		"testIsArray" : " 7/25/2016 08:27:14",
+		"testIsConstant" : " 7/25/2016 08:27:14",
+		"testIsData" : " 7/25/2016 08:27:14",
+		"testIsLinear" : " 7/25/2016 08:27:14",
+		"testIsNonLinear" : " 7/25/2016 08:27:14",
+		"testIsNotWrapped" : " 7/25/2016 08:27:14",
+		"testIsRelative" : " 7/25/2016 08:27:14",
+		"testIsVariable" : " 7/25/2016 08:27:14",
+		"testIsWrapped" : " 7/25/2016 08:27:14" } }
