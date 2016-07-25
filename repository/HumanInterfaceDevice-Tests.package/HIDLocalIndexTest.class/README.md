@@ -1,0 +1,1 @@
+A HIDLocalIndexTest is a test class for testing the behavior of HIDLocalIndex
