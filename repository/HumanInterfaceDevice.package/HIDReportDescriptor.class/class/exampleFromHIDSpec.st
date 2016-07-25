@@ -27,7 +27,7 @@ End Collection
 | reportDescriptor |
 reportDescriptor := HIDReportDescriptor new.
 
-reportDescriptor
+^ reportDescriptor
 	usagePageId: (HIDUsagePage idToNameDict keyAtValue: #'Generic Desktop Controls');
 	usageId: (HIDUsage genericDesktopControlsUsageIds keyAtValue: #Mouse);
 	collectionType: #Application with: [ 
