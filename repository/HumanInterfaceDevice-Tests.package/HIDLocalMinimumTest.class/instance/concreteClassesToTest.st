@@ -1,0 +1,3 @@
+accessing
+concreteClassesToTest
+	^ HIDLocalMinimum subclasses
