@@ -1,2 +1,2 @@
-(name 'HumanInterfaceDevice-JulienDelplanque.74' message 'Added mutators for HIDVolatileData.' id '1e7d4109-d203-43cf-89c0-8c25e6cc2f61' date '25 July 2016' time '10:50:11.049711 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.73' message 'Added mutators for HIDDataMain.
-' id '415be7c1-0345-5801-aeab-768f00ca3625' date '25 July 2016' time '10:43:02 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
+(name 'HumanInterfaceDevice-JulienDelplanque.75' message 'Added building methods to HIDReportDescriptor.' id '83d3dce2-b5aa-41b5-869e-08a499ebba03' date '25 July 2016' time '11:41:34.253386 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.74' message 'Added mutators for HIDVolatileData.
+' id '486abea8-2ea3-550b-802f-55f479b808a6' date '25 July 2016' time '10:50:31 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
