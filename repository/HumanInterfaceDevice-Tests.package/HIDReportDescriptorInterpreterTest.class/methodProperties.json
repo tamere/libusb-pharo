@@ -3,5 +3,11 @@
 		 },
 	"instance" : {
 		"setUp" : " 7/25/2016 08:27:14",
+		"testAddMainItemToItemStateTable" : "JulienDelplanque 7/25/2016 15:54",
+		"testAddObjectToItemStateTable" : "JulienDelplanque 7/25/2016 15:36",
+		"testAddObjectToItemStateTableEvenIfDuplicated" : "JulienDelplanque 7/25/2016 15:37",
+		"testAllocateNewItemStateTable" : "JulienDelplanque 7/25/2016 15:51",
 		"testPopPush" : " 7/25/2016 08:27:14",
+		"testPushPopItemStateTable" : "JulienDelplanque 7/25/2016 15:47",
+		"testRemoveLocalItemsFromItemStateTable" : "JulienDelplanque 7/25/2016 15:23",
 		"testTop" : " 7/25/2016 08:27:14" } }
