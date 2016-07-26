@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testBytesFromIntegerWithSize" : " 7/25/2016 08:27:14",
-		"testBytesFromUnsignedIntegerWithSize" : " 7/25/2016 08:27:14",
-		"testMinimalArraySizeForInteger" : " 7/25/2016 08:27:14",
-		"testMinimalArraySizeForUnsignedInteger" : " 7/25/2016 08:27:14" } }
+		"testBytesFromIntegerWithSize" : "7/25/2016 08:27:14",
+		"testBytesFromUnsignedIntegerWithSize" : "7/25/2016 08:27:14",
+		"testMinimalArraySizeForInteger" : "7/25/2016 08:27:14",
+		"testMinimalArraySizeForUnsignedInteger" : "7/25/2016 08:27:14" } }
