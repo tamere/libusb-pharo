@@ -4,16 +4,16 @@ parse: aByteArray
 	| reportAsInteger bitIndex |
 	bitIndex := 1.
 	reportAsInteger := self unsignedIntegerFromBytes: aByteArray.
-	^ (self itemStateTables collect: [ :itemStateTable | |count bitMask|
+	^ (self itemStateTables collect: [ :itemStateTable |
+			|count bitMask bitsPerReport|
 			count := itemStateTable reportCount.
-			bitMask := 0.
-			1 to: itemStateTable bitSize / count do: [ :i |
-				bitMask := bitMask bitAt: i put: 1 ].
+			bitsPerReport := itemStateTable bitSize / count.
+			bitMask := self allOneMaskBitLength: bitsPerReport.
 			(1 to: count) collect: [ :i | |extracted|
 				extracted := reportAsInteger
 									bitAnd: (bitMask << (bitIndex - 1)).
 				extracted := extracted >> (bitIndex -1).
-				bitIndex := bitIndex + (itemStateTable bitSize / count).
+				bitIndex := bitIndex + bitsPerReport.
 				itemStateTable isPositiveValue
 					ifTrue: [ self unsignedIntegerFromBytes: extracted asLittleEndianByteArray ]
 					ifFalse: [ self signedIntegerFromBytes: extracted asLittleEndianByteArray ] ] ])

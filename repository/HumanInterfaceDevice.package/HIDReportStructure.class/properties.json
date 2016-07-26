@@ -2,7 +2,7 @@
 	"category" : "HumanInterfaceDevice-Datastructures",
 	"classinstvars" : [
 		 ],
-	"classtraitcomposition" : "HIDByteToIntegerConverter classTrait",
+	"classtraitcomposition" : "HIDByteToIntegerConverter classTrait + HIDBitMasks classTrait",
 	"classvars" : [
 		 ],
 	"commentStamp" : "JulienDelplanque 7/20/2016 09:10",
@@ -12,5 +12,5 @@
 	"pools" : [
 		 ],
 	"super" : "Object",
-	"traitcomposition" : "HIDByteToIntegerConverter",
+	"traitcomposition" : "HIDByteToIntegerConverter + HIDBitMasks",
 	"type" : "normal" }
