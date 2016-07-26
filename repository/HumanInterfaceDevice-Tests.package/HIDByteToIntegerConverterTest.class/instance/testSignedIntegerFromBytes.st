@@ -18,6 +18,10 @@ testSignedIntegerFromBytes
 	
 	self
 		assert: (self signedIntegerFromBytes: #[255 255])
+		equals: -1.
+	
+	self
+		assert: (self signedIntegerFromBytes: #[0 0])
 		equals: 0.
 	
 	self

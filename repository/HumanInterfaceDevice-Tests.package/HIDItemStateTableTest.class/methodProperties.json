@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "JulienDelplanque 7/26/2016 11:42",
+		"testAdd" : "JulienDelplanque 7/26/2016 11:45",
+		"testAddEvenIfDuplicated" : "JulienDelplanque 7/26/2016 11:46",
+		"testAddMainItem" : "JulienDelplanque 7/26/2016 11:47",
+		"testBitSize" : "JulienDelplanque 7/26/2016 11:50",
+		"testByteSize" : "JulienDelplanque 7/26/2016 11:51",
+		"testCopyWithoutLocalItems" : "JulienDelplanque 7/26/2016 13:03",
+		"testHasMainItems" : "JulienDelplanque 7/26/2016 13:08",
+		"testHasReportId" : "JulienDelplanque 7/26/2016 13:13",
+		"testIsPositiveValue" : "JulienDelplanque 7/26/2016 13:25",
+		"testLogicalMaximumItem" : "JulienDelplanque 7/26/2016 14:06",
+		"testLogicalMinimumItem" : "JulienDelplanque 7/26/2016 14:07",
+		"testReportCount" : "JulienDelplanque 7/26/2016 14:09",
+		"testReportCountItem" : "JulienDelplanque 7/26/2016 14:09",
+		"testReportId" : "JulienDelplanque 7/26/2016 14:10",
+		"testReportIdItem" : "JulienDelplanque 7/26/2016 14:10",
+		"testReportSizeItem" : "JulienDelplanque 7/26/2016 14:11",
+		"testSize" : "JulienDelplanque 7/26/2016 11:51",
+		"testUsageItems" : "JulienDelplanque 7/26/2016 14:19" } }
