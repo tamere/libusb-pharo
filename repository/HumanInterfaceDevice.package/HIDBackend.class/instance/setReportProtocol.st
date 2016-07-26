@@ -1,0 +1,3 @@
+hid requests
+setReportProtocol
+	self subclassResponsibility
