@@ -1,15 +1,15 @@
 {
 	"class" : {
-		"initialize" : " 7/25/2016 08:27:14",
-		"initializeKnownCollectionTypesDict" : " 7/25/2016 08:27:14",
-		"itemTagCode" : " 7/25/2016 08:27:14",
-		"itemTagDescription" : " 7/25/2016 08:27:14",
-		"knownCollectionTypesDict" : " 7/25/2016 08:27:14" },
+		"initialize" : "7/25/2016 08:27:14",
+		"initializeKnownCollectionTypesDict" : "7/25/2016 08:27:14",
+		"itemTagCode" : "7/25/2016 08:27:14",
+		"itemTagDescription" : "7/25/2016 08:27:14",
+		"knownCollectionTypesDict" : "7/25/2016 08:27:14" },
 	"instance" : {
 		"initialize" : "JulienDelplanque 7/25/2016 13:12",
-		"knownCollectionTypesDict" : " 7/25/2016 08:27:14",
-		"shortPrintOn:" : " 7/25/2016 08:27:14",
-		"typeOfCollection" : " 7/25/2016 08:27:14",
+		"knownCollectionTypesDict" : "7/25/2016 08:27:14",
+		"shortPrintOn:" : "7/25/2016 08:27:14",
+		"typeOfCollection" : "7/25/2016 08:27:14",
 		"typeOfCollection:" : "JulienDelplanque 7/25/2016 13:02",
-		"typeOfCollectionCode" : " 7/25/2016 08:27:14",
+		"typeOfCollectionCode" : "7/25/2016 08:27:14",
 		"typeOfCollectionCode:" : "JulienDelplanque 7/25/2016 12:52" } }

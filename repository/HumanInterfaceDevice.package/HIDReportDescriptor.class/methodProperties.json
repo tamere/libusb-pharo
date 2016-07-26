@@ -1,10 +1,10 @@
 {
 	"class" : {
 		"exampleFromHIDSpec" : "JulienDelplanque 7/25/2016 13:51",
-		"fromByteArray:" : " 7/25/2016 08:27:14",
-		"fromByteStream:" : " 7/25/2016 08:27:14",
-		"fromFile:" : " 7/25/2016 08:27:14",
-		"fromHexStringStream:" : " 7/25/2016 08:27:14" },
+		"fromByteArray:" : "7/25/2016 08:27:14",
+		"fromByteStream:" : "7/25/2016 08:27:14",
+		"fromFile:" : "7/25/2016 08:27:14",
+		"fromHexStringStream:" : "7/25/2016 08:27:14" },
 	"instance" : {
 		"addFeatureConfiguredBy:" : "JulienDelplanque 7/25/2016 12:26",
 		"addHIDObject:" : "JulienDelplanque 7/25/2016 10:58",
@@ -16,10 +16,10 @@
 		"designatorIndex:" : "JulienDelplanque 7/25/2016 11:48",
 		"designatorMaximum:" : "JulienDelplanque 7/25/2016 11:49",
 		"designatorMinimum:" : "JulienDelplanque 7/25/2016 11:50",
-		"generateReportStructures" : " 7/25/2016 08:27:14",
-		"hexString" : " 7/25/2016 08:27:14",
-		"hidObjects" : " 7/25/2016 08:27:14",
-		"hidObjects:" : " 7/25/2016 08:27:14",
+		"generateReportStructures" : "7/25/2016 08:27:14",
+		"hexString" : "7/25/2016 08:27:14",
+		"hidObjects" : "7/25/2016 08:27:14",
+		"hidObjects:" : "7/25/2016 08:27:14",
 		"initialize" : "JulienDelplanque 7/25/2016 10:57",
 		"logicalMaximum:" : "JulienDelplanque 7/25/2016 11:33",
 		"logicalMinimum:" : "JulienDelplanque 7/25/2016 11:00",
@@ -27,7 +27,7 @@
 		"physicalMaximum:" : "JulienDelplanque 7/25/2016 11:00",
 		"physicalMinimum:" : "JulienDelplanque 7/25/2016 11:00",
 		"pop" : "JulienDelplanque 7/25/2016 11:01",
-		"printHexOn:" : " 7/25/2016 08:27:14",
+		"printHexOn:" : "7/25/2016 08:27:14",
 		"push" : "JulienDelplanque 7/25/2016 11:01",
 		"reportCount:" : "JulienDelplanque 7/25/2016 11:02",
 		"reportId:" : "JulienDelplanque 7/25/2016 11:02",
@@ -41,4 +41,4 @@
 		"usageMaximum:" : "JulienDelplanque 7/25/2016 11:51",
 		"usageMinimum:" : "JulienDelplanque 7/25/2016 11:50",
 		"usagePageId:" : "JulienDelplanque 7/25/2016 11:05",
-		"writeInFile:" : " 7/25/2016 08:27:14" } }
+		"writeInFile:" : "7/25/2016 08:27:14" } }

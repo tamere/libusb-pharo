@@ -7,15 +7,18 @@ generateReportStructuresFrom: aCollectionOfHIDObjects
 			objectsStream next
 				reportDescriptorInterpreterAction: self ].
 	
-	coherentItemStateTables := itemStateTables select: [ :stateTable | stateTable mainItems isNotEmpty ].
+	coherentItemStateTables := itemStateTables select: #hasMainItems.
 	hasIds := coherentItemStateTables
-					inject: true
+					inject: false
 					into: [ :boolean :currentItemStateTable |
-						boolean and: [ currentItemStateTable items anySatisfy: #isReportId ] ].
+						boolean or: [ currentItemStateTable hasReportId ] ].
+
 	hasIds
 		ifFalse: [ ^ { HIDReportStructure itemStateTables: coherentItemStateTables } ].
 	
-	idToItemStateTable := (coherentItemStateTables groupedBy: #reportId).
+	idToItemStateTable := ((coherentItemStateTables select: #hasReportId)
+									groupedBy: #reportId).
 	^ idToItemStateTable keys sorted
-		collect: [ :id | HIDReportStructure itemStateTables: (idToItemStateTable at: id) ]
+		collect: [ :id |
+			HIDReportStructure itemStateTables: (idToItemStateTable at: id) ]
 	

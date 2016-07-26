@@ -2,9 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"bytesFromInteger:withSize:" : " 7/25/2016 08:27:14",
-		"bytesFromUnsignedInteger:withSize:" : " 7/25/2016 08:27:14",
-		"bytesWithMinimalSizeFromInteger:" : " 7/25/2016 08:27:14",
-		"bytesWithMinimalSizeFromUnsignedInteger:" : " 7/25/2016 08:27:14",
-		"minimalArraySizeForInteger:" : " 7/25/2016 08:27:14",
-		"minimalArraySizeForUnsignedInteger:" : " 7/25/2016 08:27:14" } }
+		"bytesFromInteger:withSize:" : "7/25/2016 08:27:14",
+		"bytesFromUnsignedInteger:withSize:" : "7/25/2016 08:27:14",
+		"bytesWithMinimalSizeFromInteger:" : "7/25/2016 08:27:14",
+		"bytesWithMinimalSizeFromUnsignedInteger:" : "7/25/2016 08:27:14",
+		"minimalArraySizeForInteger:" : "7/25/2016 08:27:14",
+		"minimalArraySizeForUnsignedInteger:" : "7/25/2016 08:27:14" } }
