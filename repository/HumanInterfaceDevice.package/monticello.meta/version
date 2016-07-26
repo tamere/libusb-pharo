@@ -1,2 +1,2 @@
-(name 'HumanInterfaceDevice-JulienDelplanque.87' message 'Refactored #parse: method of HIDReportStructure.' id '1af91a01-1d5b-4d45-9d68-7a46c584a929' date '26 July 2016' time '11:34:44.37292 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.86' message 'Fixed #generateReportStructuresFrom:.
-' id '7ebface7-0d27-5191-a17f-8b1734681134' date '26 July 2016' time '10:51:25 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
+(name 'HumanInterfaceDevice-JulienDelplanque.88' message 'Fixed methods for encoding int in bytes.' id 'fdd91caf-446c-4aaa-a1eb-625569a4ad7a' date '26 July 2016' time '2:01:55.921763 pm' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.87' message 'Refactored #parse: method of HIDReportStructure.
+' id '541aa676-4a48-5a2b-9c86-8a12f2ca4bb1' date '26 July 2016' time '11:35:08 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())

@@ -7,7 +7,7 @@ bytesFromInteger: anInteger withSize: numberOfBytes
 			self error: ('Can not represent {1} on {2} bytes.' format: {anInteger . numberOfBytes}) ].
 	anInteger = 0
 		ifTrue: [ 
-			^ (1 to: numberOfBytes) collect: [ :i | 255 ] as: ByteArray ].
+			^ (1 to: numberOfBytes) collect: [ :i | 0 ] as: ByteArray ].
 	anInteger > 0
 		ifTrue: [ ^ (anInteger asByteArrayOfSize: numberOfBytes) reversed ].
 	
