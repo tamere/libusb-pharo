@@ -1,3 +1,3 @@
 hid requests
 setIdle: idle forId: reportId
-	^ self subclassResponsibility
+	self subclassResponsibility

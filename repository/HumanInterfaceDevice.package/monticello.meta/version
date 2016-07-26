@@ -1,2 +1,2 @@
-(name 'HumanInterfaceDevice-JulienDelplanque.89' message 'Added idle methods to HIDBackend.' id 'c8ab8eba-9fa4-493e-bf86-a16d2a6fe88e' date '26 July 2016' time '3:26:49.002754 pm' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.88' message 'Fixed methods for encoding int in bytes.
-' id 'eff1e142-0b97-56a8-91d3-fcf61ee42c13' date '26 July 2016' time '2:02:19 pm' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
+(name 'HumanInterfaceDevice-JulienDelplanque.90' message 'Removed return of a method that should return nothing.' id 'ef009372-a934-4c00-9604-bd6d4e0f375b' date '26 July 2016' time '3:31:50.652456 pm' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.89' message 'Added idle methods to HIDBackend.
+' id '9cd0819a-e464-5611-bd6a-c0584eba5c5b' date '26 July 2016' time '3:27:12 pm' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
