@@ -8,6 +8,8 @@
 		"externalCharArrayOfSize:" : "JulienDelplanque 7/18/2016 15:48",
 		"fetchReportDescriptor" : "JulienDelplanque 7/19/2016 11:36",
 		"getDescriptorWithType:index:" : "JulienDelplanque 7/18/2016 15:49",
+		"getIdleForId:" : "JulienDelplanque 7/26/2016 15:52",
+		"getProtocol" : "JulienDelplanque 7/26/2016 15:38",
 		"getReportFromControlPipeWithType:id:" : "JulienDelplanque 7/20/2016 14:45",
 		"getReportFromInterruptInPipeWithType:id:" : "JulienDelplanque 7/20/2016 14:45",
 		"getReportFromInterruptOutPipeWithType:id:" : "JulienDelplanque 7/20/2016 14:45",
@@ -16,5 +18,8 @@
 		"open" : "JulienDelplanque 7/15/2016 14:56",
 		"releaseDeviceControl" : "JulienDelplanque 7/15/2016 13:50",
 		"releaseInterfaces" : "JulienDelplanque 7/15/2016 13:49",
+		"setBootProtocol" : "JulienDelplanque 7/26/2016 15:43",
+		"setIdle:forId:" : "JulienDelplanque 7/26/2016 15:52",
 		"setReport:withType:id:" : "JulienDelplanque 7/18/2016 15:49",
+		"setReportProtocol" : "JulienDelplanque 7/26/2016 15:43",
 		"takeDeviceControl" : "JulienDelplanque 7/15/2016 13:50" } }
