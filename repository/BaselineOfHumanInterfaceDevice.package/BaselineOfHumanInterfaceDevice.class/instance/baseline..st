@@ -8,6 +8,7 @@ baseline: spec
 				package: 'HumanInterfaceDevice';
 				package: 'HumanInterfaceDevice-Tests' with: [ spec requires: 'HumanInterfaceDevice' ];
 				package: 'HumanInterfaceDevice-GT' with: [ spec requires: 'HumanInterfaceDevice' ];
+				package: 'HumanInterfaceDevice-SimulatedBackends' with: [ spec requires: 'HumanInterfaceDevice' ];
 				package: 'HumanInterfaceDevice-Libusb' with: [ 
 					spec
 						requires: 'HumanInterfaceDevice';
