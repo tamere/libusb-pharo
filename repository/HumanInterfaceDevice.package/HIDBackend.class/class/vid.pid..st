@@ -1,6 +1,6 @@
 instance creation
 vid: aVendorId pid: aProductId
-	^ HIDLibusbBackend new
+	^ self new
 			vid: aVendorId; 
 			pid: aProductId;
 			yourself

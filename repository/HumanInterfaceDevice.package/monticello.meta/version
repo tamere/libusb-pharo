@@ -1,2 +1,2 @@
-(name 'HumanInterfaceDevice-JulienDelplanque.94' message 'Added #asByteArray method.' id '7f69f028-ff63-4333-a072-48d59f96d95f' date '27 July 2016' time '11:01:12.189306 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.93' message 'Added #writeBytesOn: method.
-' id '78f8801e-cbb3-5116-a348-730398727b2a' date '27 July 2016' time '10:55:36 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
+(name 'HumanInterfaceDevice-JulienDelplanque.95' message 'Fixed instance creation method.' id '5211c350-7c4d-46ec-843d-ed58c54c08f1' date '27 July 2016' time '11:10:41.028866 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.94' message 'Added #asByteArray method.
+' id '28df12d6-fecc-59bf-808e-53716127a98c' date '27 July 2016' time '11:01:49 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
