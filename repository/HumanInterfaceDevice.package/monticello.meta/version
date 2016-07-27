@@ -1,2 +1,2 @@
-(name 'HumanInterfaceDevice-JulienDelplanque.93' message 'Added #writeBytesOn: method.' id 'f64a9acb-f1e9-463a-a7cb-e1434c859386' date '27 July 2016' time '10:55:12.449371 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.92' message 'Removed methods that should not be in abstract backend.
-' id '4e53507e-86be-5226-b657-b2c33ea7aac3' date '27 July 2016' time '10:30:02 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
+(name 'HumanInterfaceDevice-JulienDelplanque.94' message 'Added #asByteArray method.' id '7f69f028-ff63-4333-a072-48d59f96d95f' date '27 July 2016' time '11:01:12.189306 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.93' message 'Added #writeBytesOn: method.
+' id '78f8801e-cbb3-5116-a348-730398727b2a' date '27 July 2016' time '10:55:36 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
