@@ -1,0 +1,1 @@
+I represent a fake mouse for the simulated backend.

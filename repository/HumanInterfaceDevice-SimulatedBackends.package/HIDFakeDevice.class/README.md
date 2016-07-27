@@ -1,0 +1,1 @@
+I represent a fake device for the simulated backend.

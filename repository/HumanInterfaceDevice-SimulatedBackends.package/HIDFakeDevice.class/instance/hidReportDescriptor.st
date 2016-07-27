@@ -1,0 +1,3 @@
+accessing
+hidReportDescriptor
+	^ self subclassResponsibility

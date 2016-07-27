@@ -1,0 +1,14 @@
+{
+	"category" : "HumanInterfaceDevice-SimulatedBackends",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/27/2016 09:58",
+	"instvars" : [
+		 ],
+	"name" : "HIDFakeMouse",
+	"pools" : [
+		 ],
+	"super" : "HIDFakeDevice",
+	"type" : "normal" }

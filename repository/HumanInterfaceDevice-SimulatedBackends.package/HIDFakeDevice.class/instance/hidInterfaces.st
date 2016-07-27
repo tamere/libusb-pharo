@@ -1,0 +1,3 @@
+accessing
+hidInterfaces
+	^ self subclassResponsibility

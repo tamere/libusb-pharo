@@ -1,0 +1,3 @@
+accessing
+getReport
+	^ self subclassResponsibility

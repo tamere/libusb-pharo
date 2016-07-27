@@ -1,0 +1,17 @@
+{
+	"category" : "HumanInterfaceDevice-SimulatedBackends",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "HIDIntegerToByteConverter classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/26/2016 16:21",
+	"instvars" : [
+		"vid",
+		"pid" ],
+	"name" : "HIDFakeDevice",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "HIDIntegerToByteConverter",
+	"type" : "normal" }

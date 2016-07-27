@@ -1,0 +1,3 @@
+hid requests
+getProtocol
+	^ reportProtocol
