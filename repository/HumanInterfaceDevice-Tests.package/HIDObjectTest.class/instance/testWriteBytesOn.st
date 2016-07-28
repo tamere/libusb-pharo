@@ -2,7 +2,7 @@ tests-writing
 testWriteBytesOn
 | hidObject stream |
 	hidObject := HIDObject new
-						item: (HIDItem rawData: #[16r81 16r03]).
+						item: (HIDShortItem rawData: #[16r81 16r03]).
 	stream := WriteStream on: ByteArray new.
 	hidObject writeBytesOn: stream.
 	

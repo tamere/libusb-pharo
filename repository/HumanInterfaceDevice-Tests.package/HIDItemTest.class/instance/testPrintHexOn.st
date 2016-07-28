@@ -1,7 +1,7 @@
 tests-printing
 testPrintHexOn
 	| hidItem stream |
-	hidItem := HIDItem rawData: #[16r81 16r03].
+	hidItem := HIDShortItem rawData: #[16r81 16r03].
 	stream := WriteStream on: String new.
 	
 	hidItem printHexOn: stream.
