@@ -1,2 +1,2 @@
-(name 'HumanInterfaceDevice-JulienDelplanque.98' message 'Renamed #writeInFile: to #writeHexTextInFile:.' id '61cad7fc-2ff7-4ef0-a666-f63e83f63436' date '28 July 2016' time '9:45:52.77628 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.97' message 'Renamed method to make more sense.
-' id '6586b04c-b014-5230-a58c-a4647b877ffe' date '28 July 2016' time '9:07:55 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
+(name 'HumanInterfaceDevice-JulienDelplanque.99' message 'Added instance-creation method.' id 'ab714caa-db73-4561-a380-ac5758459973' date '28 July 2016' time '10:40:00.950391 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.98' message 'Renamed #writeInFile: to #writeHexTextInFile:.
+' id '8614814f-33e7-5f22-99bf-07e1edcf5f0e' date '28 July 2016' time '9:46:43 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
