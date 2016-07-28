@@ -1,2 +1,2 @@
-(name 'HumanInterfaceDevice-JulienDelplanque.97' message 'Renamed method to make more sense.' id '6e0858d1-e474-447b-8f0d-5770473ed6ea' date '28 July 2016' time '9:07:43.27888 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.96' message 'Added another example of HIDReportDescriptor.
-' id 'daf4d6d7-89ea-50b5-892d-b10183397e30' date '27 July 2016' time '2:50:35 pm' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
+(name 'HumanInterfaceDevice-JulienDelplanque.98' message 'Renamed #writeInFile: to #writeHexTextInFile:.' id '61cad7fc-2ff7-4ef0-a666-f63e83f63436' date '28 July 2016' time '9:45:52.77628 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.97' message 'Renamed method to make more sense.
+' id '6586b04c-b014-5230-a58c-a4647b877ffe' date '28 July 2016' time '9:07:55 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())

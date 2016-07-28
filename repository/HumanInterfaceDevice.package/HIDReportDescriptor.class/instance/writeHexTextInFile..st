@@ -1,5 +1,5 @@
 writing
-writeInFile: aFileReference
+writeHexTextInFile: aFileReference
 	| writeStream |
 	writeStream := aFileReference writeStream.
 	[ self printHexOn: writeStream ]
