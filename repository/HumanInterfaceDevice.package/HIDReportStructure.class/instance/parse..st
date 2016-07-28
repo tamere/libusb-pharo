@@ -16,4 +16,4 @@ parse: aByteArray
 				bitIndex := bitIndex + bitsPerReport.
 				itemStateTable isPositiveValue
 					ifTrue: [ self unsignedIntegerFromBytes: extracted asLittleEndianByteArray ]
-					ifFalse: [ self signedIntegerFromBytes: extracted asLittleEndianByteArray ] ] ])
+					ifFalse: [ self signedIntegerFromBytes: extracted asLittleEndianByteArray ] ] ]) asArray

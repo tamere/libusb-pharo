@@ -1,2 +1,2 @@
-(name 'HumanInterfaceDevice-JulienDelplanque.99' message 'Added instance-creation method.' id 'ab714caa-db73-4561-a380-ac5758459973' date '28 July 2016' time '10:40:00.950391 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.98' message 'Renamed #writeInFile: to #writeHexTextInFile:.
-' id '8614814f-33e7-5f22-99bf-07e1edcf5f0e' date '28 July 2016' time '9:46:43 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
+(name 'HumanInterfaceDevice-JulienDelplanque.100' message 'Now returns parsed report as array not OrderedCollection.' id 'd6322565-8464-4c66-8e58-d101f9fdc358' date '28 July 2016' time '2:25:00.352526 pm' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.99' message 'Added instance-creation method.
+' id '2c914e24-4be3-5e59-bbb1-6bfee73edfba' date '28 July 2016' time '10:40:23 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
