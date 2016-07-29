@@ -1,5 +1,5 @@
 {
-	"category" : "HumanInterfaceDevice-SimulatedBackends",
+	"category" : "HumanInterfaceDevice-SimulatedBackends-Core",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
