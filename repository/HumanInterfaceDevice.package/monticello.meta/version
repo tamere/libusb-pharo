@@ -1,2 +1,2 @@
-(name 'HumanInterfaceDevice-JulienDelplanque.103' message 'Fixed bug in testing method.' id 'b480ebee-2c3a-4638-bb47-8622e69fdda2' date '29 July 2016' time '2:01:36.225703 pm' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.102' message 'Moved trait use to superclass.
-' id 'b88d76f3-82b4-5a6c-bbf9-28db341ba6ff' date '29 July 2016' time '11:57:39 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
+(name 'HumanInterfaceDevice-JulienDelplanque.104' message 'Removed unused method.' id '61450f73-56a3-4ad7-a140-f3a2e23c0b92' date '29 July 2016' time '2:04:58.638251 pm' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.103' message 'Fixed bug in testing method.
+' id '382fe734-a156-565e-a1d9-8c002026e1ed' date '29 July 2016' time '2:02:13 pm' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
