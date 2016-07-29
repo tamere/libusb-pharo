@@ -1,3 +1,3 @@
 hid requests
 setReportProtocol
-	reportProtocol = 1
+	reportProtocol := 1
