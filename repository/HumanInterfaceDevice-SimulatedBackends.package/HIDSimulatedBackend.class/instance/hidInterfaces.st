@@ -1,3 +1,3 @@
 accessing
 hidInterfaces
-	fakeDevice hidInterfaces
+	^ fakeDevice hidInterfaces
