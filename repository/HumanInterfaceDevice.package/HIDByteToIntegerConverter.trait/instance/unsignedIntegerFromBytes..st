@@ -1,7 +1,7 @@
-converting
+as yet unclassified
 unsignedIntegerFromBytes: aByteArray
 	| unsignedInteger |
-	aByteArray size = 0
+	aByteArray isEmpty
 		ifTrue: [ CollectionIsEmpty signalWith: aByteArray ].
 	unsignedInteger := 0.
 	aByteArray reverseWithIndexDo: [ :byte :i |
