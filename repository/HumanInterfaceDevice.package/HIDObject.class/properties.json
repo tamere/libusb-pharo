@@ -2,6 +2,7 @@
 	"category" : "HumanInterfaceDevice-Objects",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "HIDIntegerToByteConverter classTrait",
 	"classvars" : [
 		 ],
 	"commentStamp" : "JulienDelplanque 7/13/2016 14:59",
@@ -11,4 +12,5 @@
 	"pools" : [
 		 ],
 	"super" : "Object",
+	"traitcomposition" : "HIDIntegerToByteConverter",
 	"type" : "normal" }
