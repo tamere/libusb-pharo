@@ -3,9 +3,9 @@
 This project provides binding to the libusb library for Pharo. We currently target Pharo 5 with the latest UFFI. There are no stable version yet.
 
 ## Install
+The version of UFFI used is the latest to integrate latest fixes needed by this project. So there are dialogs asking you if you want to merge the new version of UFFI loaded with the one currently installed in your image that you have to accept.
 
 Execute the following code snippet to install the package:
-The version of UFFI used is the latest to integrate latest fixes needed by this project. So there are dialogs asking you if you want to merge the new version of UFFI loaded with the one currently installed in your image that you have to accept.
 
 ~~~
 Metacello new
