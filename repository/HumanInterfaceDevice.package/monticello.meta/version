@@ -1,2 +1,2 @@
-(name 'HumanInterfaceDevice-JulienDelplanque.104' message 'Removed unused method.' id '61450f73-56a3-4ad7-a140-f3a2e23c0b92' date '29 July 2016' time '2:04:58.638251 pm' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.103' message 'Fixed bug in testing method.
-' id '382fe734-a156-565e-a1d9-8c002026e1ed' date '29 July 2016' time '2:02:13 pm' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
+(name 'HumanInterfaceDevice-JulienDelplanque.105' message 'Implemented #reportDescriptorInterpreterAction: of HIDReserved.' id 'c702970a-f019-4822-ae1e-da45c5a0b5d6' date '29 July 2016' time '2:09:01.889368 pm' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-JulienDelplanque.104' message 'Removed unused method.
+' id '7a6a3f7c-3881-5cc1-9424-537285c9952a' date '29 July 2016' time '2:05:43 pm' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
