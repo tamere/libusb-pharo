@@ -13,4 +13,5 @@ getIdleForId: reportId
 					data: data getHandle
 					setupPacketFieldLength: data size
 					timeout: self requestsTimeout.
+	self assert: byteSent = data size description: 'Ensure there is as much sent byte(s) as required.'.
 	^ data first

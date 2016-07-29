@@ -13,4 +13,5 @@ getProtocol
 					data: data getHandle
 					setupPacketFieldLength: data size
 					timeout: self requestsTimeout.
+	self assert: byteSent = data size description: 'Ensure there are as much byte(s) sent as required.'.
 	^ data first
