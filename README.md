@@ -22,10 +22,6 @@ Metacello new
 LUContext withAllDevicesDo: [ :context :devices | "Play with devices..." ]
 ```
 
-### Get more info about about a specific device
-
-`TODO`
-
 ### Get a lsusb like output for a device printed in Transcript
 ```
 LUContext withAllDevicesDo: [ :context :devices |
