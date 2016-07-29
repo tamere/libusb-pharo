@@ -76,6 +76,24 @@ Metacello new
 ```
 You are now ready to use this project!
 
+### Only install the packages you need
+It is also possible to install only the packages you need. For example, you may want to use the libusb-backend with the core package only. To be able to do that, the baseline defines groups:
+
+- `'core'`: contains only the HumanDeviceInterface package, nothing else.
+- `'libusb-backend'`: contains the core package and the libusb backend.
+- `'simulated-backend'`: contains the core package and the simulated backend (for learning/testing purpose).
+
+If you do not specify a particular group, all packages are loaded including tests packages (this is useful for development).
+
+To load a group (for example `'core'`), simply pass the string representing the package name to `#load:` message as follow:
+
+```
+Metacello new
+    repository: 'github://tamerescrl/libusb-pharo/repository';
+    baseline: 'HumanInterfaceDevice';
+    load: 'core'.
+```
+
 ## Quick start
 The following code gives you hints on how to use the HID layer.
 
