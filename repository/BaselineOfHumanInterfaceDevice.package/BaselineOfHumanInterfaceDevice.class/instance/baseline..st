@@ -14,4 +14,8 @@ baseline: spec
 						requires: 'HumanInterfaceDevice';
 						requires: 'LibUsb' ].
 			spec baseline: 'LibUsb' with: [
-    				spec repository: 'github://tamerescrl/libusb-pharo/repository' ] ]
+    				spec repository: 'github://tamerescrl/libusb-pharo/repository' ].
+			spec
+				group: 'core' with: #('HumanInterfaceDevice' 'HumanInterfaceDevice-GT');
+				group: 'simulated-backend' with: #('core' 'HumanInterfaceDevice-SimulatedBackends');
+				group: 'libusb-backend' with: #('core' 'HumanInterfaceDevice-Libusb') ]
