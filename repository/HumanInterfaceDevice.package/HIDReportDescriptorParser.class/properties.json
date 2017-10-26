@@ -1,14 +1,11 @@
 {
-	"category" : "HumanInterfaceDevice-Parser",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 7/14/2016 11:27",
-	"instvars" : [
-		 ],
-	"name" : "HIDReportDescriptorParser",
-	"pools" : [
-		 ],
 	"super" : "HIDReportDescriptorItemsParser",
-	"type" : "normal" }
+	"category" : "HumanInterfaceDevice-Parser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HIDReportDescriptorParser",
+	"type" : "normal"
+}

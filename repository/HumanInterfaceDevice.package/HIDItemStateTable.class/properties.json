@@ -1,15 +1,14 @@
 {
-	"category" : "HumanInterfaceDevice-Datastructures",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 7/19/2016 16:04",
+	"super" : "Object",
+	"category" : "HumanInterfaceDevice-Datastructures",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"items",
-		"mainItems" ],
+		"mainItems"
+	],
 	"name" : "HIDItemStateTable",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,14 +1,11 @@
 {
-	"category" : "HumanInterfaceDevice-Objects",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 7/13/2016 15:05",
-	"instvars" : [
-		 ],
-	"name" : "HIDMain",
-	"pools" : [
-		 ],
 	"super" : "HIDObject",
-	"type" : "normal" }
+	"category" : "HumanInterfaceDevice-Objects",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HIDMain",
+	"type" : "normal"
+}

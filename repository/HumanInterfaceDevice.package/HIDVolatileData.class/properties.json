@@ -1,16 +1,13 @@
 {
-	"category" : "HumanInterfaceDevice-Objects",
-	"classinstvars" : [
-		 ],
 	"classtraitcomposition" : "HIDByteManipulator classTrait",
-	"classvars" : [
-		 ],
-	"commentStamp" : "JulienDelplanque 7/14/2016 09:01",
-	"instvars" : [
-		 ],
+	"classvars" : [ ],
+	"instvars" : [ ],
 	"name" : "HIDVolatileData",
-	"pools" : [
-		 ],
+	"commentStamp" : "JulienDelplanque 7/14/2016 09:01",
 	"super" : "HIDDataMain",
 	"traitcomposition" : "HIDByteManipulator",
-	"type" : "normal" }
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "HumanInterfaceDevice-Objects"
+}

@@ -1,10 +1,13 @@
 {
-	"class" : {
-		"itemStateTables:" : "7/25/2016 08:27:14" },
 	"instance" : {
-		"bitSize" : "JulienDelplanque 7/26/2016 10:27",
-		"byteSize" : "7/25/2016 08:27:14",
-		"itemStateTables" : "7/25/2016 08:27:14",
-		"itemStateTables:" : "7/25/2016 08:27:14",
-		"parse:" : "JulienDelplanque 7/28/2016 14:20",
-		"size" : "JulienDelplanque 7/26/2016 10:27" } }
+		"itemStateTables" : "JulienDelplanque 7/29/2016 14:17:38",
+		"bitSize" : "JulienDelplanque 7/29/2016 14:17:38",
+		"byteSize" : "JulienDelplanque 7/29/2016 14:17:38",
+		"itemStateTables:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"parse:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"size" : "JulienDelplanque 7/29/2016 14:17:38"
+	},
+	"class" : {
+		"itemStateTables:" : "JulienDelplanque 7/29/2016 14:17:38"
+	}
+}

@@ -1,8 +1,9 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"isNonVolatile" : "7/25/2016 08:27:14",
-		"isVolatile" : "7/25/2016 08:27:14",
-		"nonVolatile" : "JulienDelplanque 7/25/2016 10:46",
-		"volatile" : "JulienDelplanque 7/25/2016 10:45" } }
+		"nonVolatile" : "JulienDelplanque 7/29/2016 14:17:38",
+		"isNonVolatile" : "JulienDelplanque 7/29/2016 14:17:38",
+		"isVolatile" : "JulienDelplanque 7/29/2016 14:17:38",
+		"volatile" : "JulienDelplanque 7/29/2016 14:17:38"
+	},
+	"class" : { }
+}

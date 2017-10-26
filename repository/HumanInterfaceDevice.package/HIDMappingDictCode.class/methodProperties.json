@@ -1,8 +1,9 @@
 {
+	"instance" : { },
 	"class" : {
-		"fromDescription:" : "7/25/2016 08:27:14",
-		"fromInteger:" : "7/25/2016 08:27:14",
-		"initializeMappingDict" : "7/25/2016 08:27:14",
-		"mappingDict" : "7/25/2016 08:27:14" },
-	"instance" : {
-		 } }
+		"fromInteger:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"fromDescription:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"mappingDict" : "JulienDelplanque 7/29/2016 14:17:38",
+		"initializeMappingDict" : "JulienDelplanque 7/29/2016 14:17:38"
+	}
+}

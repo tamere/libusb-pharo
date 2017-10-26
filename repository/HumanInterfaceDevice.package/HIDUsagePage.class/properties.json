@@ -1,14 +1,13 @@
 {
-	"category" : "HumanInterfaceDevice-Objects",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		"IdToNameDict" ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		 ],
-	"name" : "HIDUsagePage",
-	"pools" : [
-		 ],
 	"super" : "HIDGlobal",
-	"type" : "normal" }
+	"category" : "HumanInterfaceDevice-Objects",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"IdToNameDict"
+	],
+	"instvars" : [ ],
+	"name" : "HIDUsagePage",
+	"type" : "normal"
+}

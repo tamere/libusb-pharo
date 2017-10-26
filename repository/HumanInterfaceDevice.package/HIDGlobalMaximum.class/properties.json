@@ -1,14 +1,11 @@
 {
-	"category" : "HumanInterfaceDevice-Objects",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 7/15/2016 10:11",
-	"instvars" : [
-		 ],
-	"name" : "HIDGlobalMaximum",
-	"pools" : [
-		 ],
 	"super" : "HIDGlobal",
-	"type" : "normal" }
+	"category" : "HumanInterfaceDevice-Objects",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HIDGlobalMaximum",
+	"type" : "normal"
+}

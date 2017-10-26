@@ -1,16 +1,15 @@
 {
-	"category" : "HumanInterfaceDevice-Datastructures",
-	"classinstvars" : [
-		 ],
 	"classtraitcomposition" : "HIDByteToIntegerConverter classTrait + HIDBitMasks classTrait",
-	"classvars" : [
-		 ],
-	"commentStamp" : "JulienDelplanque 7/20/2016 09:10",
+	"classvars" : [ ],
 	"instvars" : [
-		"itemStateTables" ],
+		"itemStateTables"
+	],
 	"name" : "HIDReportStructure",
-	"pools" : [
-		 ],
+	"commentStamp" : "JulienDelplanque 7/20/2016 09:10",
 	"super" : "Object",
 	"traitcomposition" : "HIDByteToIntegerConverter + HIDBitMasks",
-	"type" : "normal" }
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "HumanInterfaceDevice-Datastructures"
+}

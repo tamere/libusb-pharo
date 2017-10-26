@@ -1,14 +1,11 @@
 {
-	"category" : "HumanInterfaceDevice-Objects",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		 ],
-	"name" : "HIDReportCount",
-	"pools" : [
-		 ],
 	"super" : "HIDGlobal",
-	"type" : "normal" }
+	"category" : "HumanInterfaceDevice-Objects",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HIDReportCount",
+	"type" : "normal"
+}

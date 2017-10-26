@@ -1,16 +1,15 @@
 {
-	"category" : "HumanInterfaceDevice-Objects",
-	"classinstvars" : [
-		 ],
 	"classtraitcomposition" : "HIDIntegerToByteConverter classTrait",
-	"classvars" : [
-		 ],
-	"commentStamp" : "JulienDelplanque 7/13/2016 14:59",
+	"classvars" : [ ],
 	"instvars" : [
-		"item" ],
+		"item"
+	],
 	"name" : "HIDObject",
-	"pools" : [
-		 ],
+	"commentStamp" : "JulienDelplanque 7/13/2016 14:59",
 	"super" : "Object",
 	"traitcomposition" : "HIDIntegerToByteConverter",
-	"type" : "normal" }
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "HumanInterfaceDevice-Objects"
+}

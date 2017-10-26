@@ -1,9 +1,10 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"extractBSizeFrom:" : "7/25/2016 08:27:14",
-		"extractBTagFrom:" : "7/25/2016 08:27:14",
-		"extractBTypeFrom:" : "7/25/2016 08:27:14",
-		"extractRealSizeFrom:" : "7/25/2016 08:27:14",
-		"isLongItemPrefix:" : "7/25/2016 08:27:14" } }
+		"extractBSizeFrom:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"extractRealSizeFrom:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"extractBTagFrom:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"isLongItemPrefix:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"extractBTypeFrom:" : "JulienDelplanque 7/29/2016 14:17:38"
+	},
+	"class" : { }
+}

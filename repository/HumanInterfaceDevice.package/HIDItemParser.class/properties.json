@@ -1,16 +1,13 @@
 {
-	"category" : "HumanInterfaceDevice-Parser",
-	"classinstvars" : [
-		 ],
 	"classtraitcomposition" : "HIDPrefixReader classTrait",
-	"classvars" : [
-		 ],
-	"commentStamp" : "JulienDelplanque 7/13/2016 14:16",
-	"instvars" : [
-		 ],
+	"classvars" : [ ],
+	"instvars" : [ ],
 	"name" : "HIDItemParser",
-	"pools" : [
-		 ],
+	"commentStamp" : "JulienDelplanque 7/13/2016 14:16",
 	"super" : "HIDParser",
 	"traitcomposition" : "HIDPrefixReader",
-	"type" : "normal" }
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "HumanInterfaceDevice-Parser"
+}

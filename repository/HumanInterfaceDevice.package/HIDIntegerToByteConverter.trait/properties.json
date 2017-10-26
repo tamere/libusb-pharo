@@ -1,6 +1,7 @@
 {
-	"category" : "HumanInterfaceDevice-Traits",
-	"classtraitcomposition" : "HIDBitMasks classTrait",
 	"commentStamp" : "JulienDelplanque 7/20/2016 16:42",
-	"name" : "HIDIntegerToByteConverter",
-	"traitcomposition" : "HIDBitMasks" }
+	"traitcomposition" : "HIDBitMasks",
+	"classtraitcomposition" : "HIDBitMasks classTrait",
+	"category" : "HumanInterfaceDevice-Traits",
+	"name" : "HIDIntegerToByteConverter"
+}

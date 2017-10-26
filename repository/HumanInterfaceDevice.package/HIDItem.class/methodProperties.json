@@ -1,26 +1,29 @@
 {
-	"class" : {
-		"initialize" : "7/25/2016 08:27:14",
-		"initializeItemTypesDict" : "7/25/2016 08:27:14",
-		"itemTypesDict" : "7/25/2016 08:27:14",
-		"maxDataSize" : "7/25/2016 08:27:14",
-		"rawData:" : "JulienDelplanque 7/28/2016 15:48" },
 	"instance" : {
-		"bSize" : "7/25/2016 08:27:14",
-		"bTag" : "7/25/2016 08:27:14",
-		"bType" : "7/25/2016 08:27:14",
-		"data" : "JulienDelplanque 7/25/2016 10:10",
-		"dataAt:put:" : "JulienDelplanque 7/25/2016 10:09",
-		"hexString" : "7/25/2016 08:27:14",
-		"hidObject" : "7/25/2016 08:27:14",
-		"hidObjectClass" : "7/25/2016 08:27:14",
-		"prefix" : "7/25/2016 08:27:14",
-		"printHexOn:" : "7/25/2016 08:27:14",
-		"printOn:" : "7/25/2016 08:27:14",
-		"rawData" : "7/25/2016 08:27:14",
-		"rawData:" : "7/25/2016 08:27:14",
-		"size" : "7/25/2016 08:27:14",
-		"storeOn:" : "7/25/2016 08:27:14",
-		"tag" : "7/25/2016 08:27:14",
-		"type" : "7/25/2016 08:27:14",
-		"writeBytesOn:" : "JulienDelplanque 7/27/2016 10:46" } }
+		"printHexOn:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"data" : "JulienDelplanque 7/29/2016 14:17:38",
+		"tag" : "JulienDelplanque 7/29/2016 14:17:38",
+		"bSize" : "JulienDelplanque 7/29/2016 14:17:38",
+		"rawData:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"storeOn:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"hidObjectClass" : "JulienDelplanque 7/29/2016 14:17:38",
+		"rawData" : "JulienDelplanque 7/29/2016 14:17:38",
+		"bType" : "JulienDelplanque 7/29/2016 14:17:38",
+		"dataAt:put:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"hidObject" : "JulienDelplanque 7/29/2016 14:17:38",
+		"printOn:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"size" : "JulienDelplanque 7/29/2016 14:17:38",
+		"bTag" : "JulienDelplanque 7/29/2016 14:17:38",
+		"type" : "JulienDelplanque 7/29/2016 14:17:38",
+		"prefix" : "JulienDelplanque 7/29/2016 14:17:38",
+		"writeBytesOn:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"hexString" : "JulienDelplanque 7/29/2016 14:17:38"
+	},
+	"class" : {
+		"initialize" : "JulienDelplanque 7/29/2016 14:17:38",
+		"rawData:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"initializeItemTypesDict" : "JulienDelplanque 7/29/2016 14:17:38",
+		"itemTypesDict" : "JulienDelplanque 7/29/2016 14:17:38",
+		"maxDataSize" : "JulienDelplanque 7/29/2016 14:17:38"
+	}
+}

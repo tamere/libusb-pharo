@@ -1,8 +1,11 @@
 {
-	"class" : {
-		"maxDataSize" : "7/25/2016 08:27:14" },
 	"instance" : {
-		"data" : "7/25/2016 08:27:14",
-		"dataAt:put:" : "JulienDelplanque 7/25/2016 10:12",
-		"size" : "7/25/2016 08:27:14",
-		"tag" : "7/25/2016 08:27:14" } }
+		"data" : "JulienDelplanque 7/29/2016 14:17:38",
+		"dataAt:put:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"size" : "JulienDelplanque 7/29/2016 14:17:38",
+		"tag" : "JulienDelplanque 7/29/2016 14:17:38"
+	},
+	"class" : {
+		"maxDataSize" : "JulienDelplanque 7/29/2016 14:17:38"
+	}
+}

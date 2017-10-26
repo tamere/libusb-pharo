@@ -1,11 +1,14 @@
 {
-	"class" : {
-		"fromDescription:" : "7/25/2016 08:27:14",
-		"fromInteger:" : "7/25/2016 08:27:14",
-		"new" : "7/25/2016 08:27:14" },
 	"instance" : {
-		"codeOrRange" : "7/25/2016 08:27:14",
-		"codeOrRange:" : "7/25/2016 08:27:14",
-		"description" : "7/25/2016 08:27:14",
-		"description:" : "7/25/2016 08:27:14",
-		"printOn:" : "7/25/2016 08:27:14" } }
+		"description" : "JulienDelplanque 7/29/2016 14:17:38",
+		"printOn:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"description:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"codeOrRange" : "JulienDelplanque 7/29/2016 14:17:38",
+		"codeOrRange:" : "JulienDelplanque 7/29/2016 14:17:38"
+	},
+	"class" : {
+		"fromInteger:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"fromDescription:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"new" : "JulienDelplanque 7/29/2016 14:17:38"
+	}
+}

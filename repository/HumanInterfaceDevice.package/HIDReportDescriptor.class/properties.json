@@ -1,14 +1,13 @@
 {
-	"category" : "HumanInterfaceDevice-Descriptors",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 7/18/2016 11:03",
-	"instvars" : [
-		"hidObjects" ],
-	"name" : "HIDReportDescriptor",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "HumanInterfaceDevice-Descriptors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"hidObjects"
+	],
+	"name" : "HIDReportDescriptor",
+	"type" : "normal"
+}

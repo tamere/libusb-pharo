@@ -1,14 +1,11 @@
 {
-	"category" : "HumanInterfaceDevice-Objects",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		 ],
-	"name" : "HIDDesignatorMaximum",
-	"pools" : [
-		 ],
 	"super" : "HIDLocalMaximum",
-	"type" : "normal" }
+	"category" : "HumanInterfaceDevice-Objects",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HIDDesignatorMaximum",
+	"type" : "normal"
+}

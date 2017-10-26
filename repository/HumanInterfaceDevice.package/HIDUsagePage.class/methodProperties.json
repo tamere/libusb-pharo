@@ -1,14 +1,17 @@
 {
-	"class" : {
-		"idToNameDict" : "7/25/2016 08:27:14",
-		"initialize" : "7/25/2016 08:27:14",
-		"initializeIdToNameDict" : "7/25/2016 08:27:14",
-		"itemTagCode" : "7/25/2016 08:27:14",
-		"itemTagDescription" : "7/25/2016 08:27:14",
-		"reservedIds" : "7/25/2016 08:27:14",
-		"vendorDefinedIds" : "7/25/2016 08:27:14" },
 	"instance" : {
-		"id" : "7/25/2016 08:27:14",
-		"id:" : "7/25/2016 08:27:14",
-		"pageName" : "7/25/2016 08:27:14",
-		"shortPrintOn:" : "7/25/2016 08:27:14" } }
+		"id:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"pageName" : "JulienDelplanque 7/29/2016 14:17:38",
+		"id" : "JulienDelplanque 7/29/2016 14:17:38",
+		"shortPrintOn:" : "JulienDelplanque 7/29/2016 14:17:38"
+	},
+	"class" : {
+		"itemTagDescription" : "JulienDelplanque 7/29/2016 14:17:38",
+		"itemTagCode" : "JulienDelplanque 7/29/2016 14:17:38",
+		"initialize" : "JulienDelplanque 7/29/2016 14:17:38",
+		"initializeIdToNameDict" : "JulienDelplanque 7/29/2016 14:17:38",
+		"vendorDefinedIds" : "JulienDelplanque 7/29/2016 14:17:38",
+		"reservedIds" : "JulienDelplanque 7/29/2016 14:17:38",
+		"idToNameDict" : "JulienDelplanque 7/29/2016 14:17:38"
+	}
+}

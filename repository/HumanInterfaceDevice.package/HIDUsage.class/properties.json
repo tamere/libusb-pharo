@@ -1,7 +1,9 @@
 {
+	"commentStamp" : "<historical>",
+	"super" : "HIDLocal",
 	"category" : "HumanInterfaceDevice-Objects",
-	"classinstvars" : [
-		 ],
+	"classinstvars" : [ ],
+	"pools" : [ ],
 	"classvars" : [
 		"AlphanumericDisplayUsageIds",
 		"AlphanumericDisplayUsageReservedIds",
@@ -28,12 +30,11 @@
 		"TelephonyDevicesUsageIds",
 		"TelephonyDevicesUsageReservedIds",
 		"VendorDefinedUsageIds",
-		"VendorDefinedUsageReservedIds" ],
-	"commentStamp" : "<historical>",
+		"VendorDefinedUsageReservedIds"
+	],
 	"instvars" : [
-		"usagePage" ],
+		"usagePage"
+	],
 	"name" : "HIDUsage",
-	"pools" : [
-		 ],
-	"super" : "HIDLocal",
-	"type" : "normal" }
+	"type" : "normal"
+}

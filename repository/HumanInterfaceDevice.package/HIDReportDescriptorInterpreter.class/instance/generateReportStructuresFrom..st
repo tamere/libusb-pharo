@@ -18,7 +18,8 @@ generateReportStructuresFrom: aCollectionOfHIDObjects
 	
 	idToItemStateTable := ((coherentItemStateTables select: #hasReportId)
 									groupedBy: #reportId).
-	^ idToItemStateTable keys sorted
-		collect: [ :id |
-			HIDReportStructure itemStateTables: (idToItemStateTable at: id) ]
+	^ HIDReportStructureCollection new
+			reportStructures: (idToItemStateTable keys sorted
+										collect: [ :id | HIDReportStructure itemStateTables: (idToItemStateTable at: id) ]);
+			yourself
 	

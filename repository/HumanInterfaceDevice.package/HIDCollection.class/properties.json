@@ -1,14 +1,13 @@
 {
-	"category" : "HumanInterfaceDevice-Objects",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		"KnownCollectionTypesDict" ],
 	"commentStamp" : "JulienDelplanque 7/14/2016 09:37",
-	"instvars" : [
-		 ],
-	"name" : "HIDCollection",
-	"pools" : [
-		 ],
 	"super" : "HIDNonDataMain",
-	"type" : "normal" }
+	"category" : "HumanInterfaceDevice-Objects",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"KnownCollectionTypesDict"
+	],
+	"instvars" : [ ],
+	"name" : "HIDCollection",
+	"type" : "normal"
+}

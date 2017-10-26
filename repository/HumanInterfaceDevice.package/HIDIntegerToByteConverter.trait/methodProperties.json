@@ -1,10 +1,11 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"bytesFromInteger:withSize:" : "JulienDelplanque 7/26/2016 13:55",
-		"bytesFromUnsignedInteger:withSize:" : "7/25/2016 08:27:14",
-		"bytesWithMinimalSizeFromInteger:" : "7/25/2016 08:27:14",
-		"bytesWithMinimalSizeFromUnsignedInteger:" : "7/25/2016 08:27:14",
-		"minimalArraySizeForInteger:" : "7/25/2016 08:27:14",
-		"minimalArraySizeForUnsignedInteger:" : "7/25/2016 08:27:14" } }
+		"bytesWithMinimalSizeFromUnsignedInteger:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"minimalArraySizeForInteger:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"bytesWithMinimalSizeFromInteger:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"minimalArraySizeForUnsignedInteger:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"bytesFromInteger:withSize:" : "JulienDelplanque 7/29/2016 14:17:38",
+		"bytesFromUnsignedInteger:withSize:" : "JulienDelplanque 7/29/2016 14:17:38"
+	},
+	"class" : { }
+}

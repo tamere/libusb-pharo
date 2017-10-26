@@ -1,18 +1,17 @@
 {
-	"category" : "HumanInterfaceDevice-Backends",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 7/15/2016 15:13",
+	"super" : "Object",
+	"category" : "HumanInterfaceDevice-Backends",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"pid",
 		"vid",
 		"hidInterfaceForRequests",
 		"requestsTimeout",
-		"reportDescriptor" ],
+		"reportDescriptor"
+	],
 	"name" : "HIDBackend",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

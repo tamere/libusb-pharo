@@ -1,14 +1,11 @@
 {
-	"category" : "HumanInterfaceDevice-Objects",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 7/14/2016 09:33",
-	"instvars" : [
-		 ],
-	"name" : "HIDFeature",
-	"pools" : [
-		 ],
 	"super" : "HIDVolatileData",
-	"type" : "normal" }
+	"category" : "HumanInterfaceDevice-Objects",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HIDFeature",
+	"type" : "normal"
+}

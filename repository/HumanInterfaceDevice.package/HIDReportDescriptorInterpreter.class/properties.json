@@ -1,17 +1,16 @@
 {
-	"category" : "HumanInterfaceDevice-Interpreter",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 7/20/2016 13:50",
+	"super" : "Object",
+	"category" : "HumanInterfaceDevice-Interpreter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"stack",
 		"itemStateTable",
 		"objectsStream",
-		"itemStateTables" ],
+		"itemStateTables"
+	],
 	"name" : "HIDReportDescriptorInterpreter",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}
