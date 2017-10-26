@@ -1,7 +1,8 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"gtChildren" : "JulienDelplanque 7/18/2016 13:07",
-		"gtInspectorItemDataIn:" : "JulienDelplanque 7/14/2016 09:57",
-		"gtInspectorItemMetadataIn:" : "JulienDelplanque 7/13/2016 16:15" } }
+		"gtInspectorItemDataIn:" : "JulienDelplanque 7/29/2016 11:22:40",
+		"gtChildren" : "JulienDelplanque 7/29/2016 11:22:40",
+		"gtInspectorItemMetadataIn:" : "JulienDelplanque 7/29/2016 11:22:40"
+	},
+	"class" : { }
+}

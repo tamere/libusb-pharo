@@ -1,7 +1,7 @@
 *HumanInterfaceDevice-GT
-gtStateTablesIn: composite
+gtReportStructuresIn: composite
 	<gtInspectorPresentationOrder: 0>
 	composite tree
-		title: 'State tables';
-		display: [ self itemStateTables ];
+		title: 'Report structures';
+		display: [ self reportStructures ];
 		children: [ :each | each gtChildren ]

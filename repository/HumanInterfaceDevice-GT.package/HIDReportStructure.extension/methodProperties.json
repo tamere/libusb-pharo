@@ -1,5 +1,7 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"gtStateTablesIn:" : "JulienDelplanque 7/20/2016 09:14" } }
+		"gtStateTablesIn:" : "JulienDelplanque 10/25/2017 16:29",
+		"gtChildren" : "JulienDelplanque 10/25/2017 16:29"
+	},
+	"class" : { }
+}

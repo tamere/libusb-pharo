@@ -1,10 +1,11 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"gtInspectorDataIn:" : "JulienDelplanque 7/14/2016 09:51",
-		"gtInspectorFirstByteIn:" : "JulienDelplanque 7/13/2016 16:15",
-		"gtInspectorMetadataIn:" : "JulienDelplanque 7/13/2016 16:15",
-		"gtInspectorRawDataIn:" : "JulienDelplanque 7/14/2016 09:51",
-		"gtInspectorRawMetadataIn:" : "JulienDelplanque 7/13/2016 16:15",
-		"metadata" : "JulienDelplanque 7/13/2016 13:58" } }
+		"gtInspectorRawMetadataIn:" : "JulienDelplanque 7/29/2016 11:22:40",
+		"gtInspectorRawDataIn:" : "JulienDelplanque 7/29/2016 11:22:40",
+		"gtInspectorDataIn:" : "JulienDelplanque 7/29/2016 11:22:40",
+		"gtInspectorFirstByteIn:" : "JulienDelplanque 7/29/2016 11:22:40",
+		"metadata" : "JulienDelplanque 7/29/2016 11:22:40",
+		"gtInspectorMetadataIn:" : "JulienDelplanque 7/29/2016 11:22:40"
+	},
+	"class" : { }
+}

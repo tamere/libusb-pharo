@@ -1,2 +1,2 @@
-(name 'HumanInterfaceDevice-GT-JulienDelplanque.14' message 'Enhanced inspector panel.' id '7470c68c-792c-4eed-a77e-dbc717f52853' date '29 July 2016' time '11:22:18.65081 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-GT-JulienDelplanque.13' message 'Enhanced inspector panel.
-' id '0d29681f-8b04-5755-ab97-b45e0aa6bb52' date '29 July 2016' time '10:43:27 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
+(name 'HumanInterfaceDevice-GT-JulienDelplanque.15' message 'Added/fixed extensions in the GT-inspector.' id 'e02c151c-cf18-0d00-9fb4-9eda0eb3760b' date '26 October 2017' time '8:35:05.685601 am' author 'JulienDelplanque' ancestors ((name 'HumanInterfaceDevice-GT-JulienDelplanque.14' message 'Enhanced inspector panel.
+' id '40789542-df69-544d-903d-bcfdb5b29e20' date '29 July 2016' time '11:22:40 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
