@@ -10,12 +10,12 @@ baseline: spec
 				package: 'LibUsb-UFFI'
 					with: [ 
 						spec
-							requires: 'UFFI-dev';
+							requires: 'UFFI';
 							requires: 'LibUsb' ].
 			spec
-				project: 'UFFI-dev' with: [ "Switch back to stable when the changes have been merged."
+				project: 'UFFI' with: [
 					spec
 						className: 'ConfigurationOfUnifiedFFI';
-						version: #development;
+						version: #stable;
 						repository: 'http://smalltalkhub.com/mc/Pharo/FFI-NB/main'
 					 ] ]
