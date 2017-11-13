@@ -1,7 +1,9 @@
 {
+	"commentStamp" : "JulienDelplanque 7/4/2016 11:33",
+	"super" : "FFIExternalEnumeration",
 	"category" : "LibUsb-Enumerations",
-	"classinstvars" : [
-		 ],
+	"classinstvars" : [ ],
+	"pools" : [ ],
 	"classvars" : [
 		"LIBUSB_REQUEST_CLEAR_FEATURE",
 		"LIBUSB_REQUEST_GET_CONFIGURATION",
@@ -15,12 +17,9 @@
 		"LIBUSB_REQUEST_SET_INTERFACE",
 		"LIBUSB_REQUEST_SET_SEL",
 		"LIBUSB_REQUEST_SYNCH_FRAME",
-		"LIBUSB_SET_ISOCH_DELAY" ],
-	"commentStamp" : "JulienDelplanque 7/4/2016 11:33",
-	"instvars" : [
-		 ],
+		"LIBUSB_SET_ISOCH_DELAY"
+	],
+	"instvars" : [ ],
 	"name" : "LUStandardRequestEnumeration",
-	"pools" : [
-		 ],
-	"super" : "FFIExternalEnumeration",
-	"type" : "normal" }
+	"type" : "normal"
+}

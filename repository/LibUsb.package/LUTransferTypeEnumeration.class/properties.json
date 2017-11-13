@@ -1,18 +1,17 @@
 {
+	"commentStamp" : "JulienDelplanque 7/5/2016 15:15",
+	"super" : "FFIExternalEnumeration",
 	"category" : "LibUsb-Enumerations",
-	"classinstvars" : [
-		 ],
+	"classinstvars" : [ ],
+	"pools" : [ ],
 	"classvars" : [
 		"LIBUSB_TRANSFER_TYPE_BULK",
 		"LIBUSB_TRANSFER_TYPE_BULK_STREAM",
 		"LIBUSB_TRANSFER_TYPE_CONTROL",
 		"LIBUSB_TRANSFER_TYPE_INTERRUPT",
-		"LIBUSB_TRANSFER_TYPE_ISOCHRONOUS" ],
-	"commentStamp" : "JulienDelplanque 7/5/2016 15:15",
-	"instvars" : [
-		 ],
+		"LIBUSB_TRANSFER_TYPE_ISOCHRONOUS"
+	],
+	"instvars" : [ ],
 	"name" : "LUTransferTypeEnumeration",
-	"pools" : [
-		 ],
-	"super" : "FFIExternalEnumeration",
-	"type" : "normal" }
+	"type" : "normal"
+}

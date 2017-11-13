@@ -1,14 +1,13 @@
 {
-	"category" : "LibUsb-Enumerations",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		"LIBUSB_BM_LPM_SUPPORT" ],
 	"commentStamp" : "JulienDelplanque 7/1/2016 16:27",
-	"instvars" : [
-		 ],
-	"name" : "LUUsb20ExtensionAttributes",
-	"pools" : [
-		 ],
 	"super" : "FFIExternalEnumeration",
-	"type" : "normal" }
+	"category" : "LibUsb-Enumerations",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"LIBUSB_BM_LPM_SUPPORT"
+	],
+	"instvars" : [ ],
+	"name" : "LUUsb20ExtensionAttributes",
+	"type" : "normal"
+}

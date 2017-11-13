@@ -1,7 +1,9 @@
 {
+	"commentStamp" : "JulienDelplanque 7/4/2016 11:42",
+	"super" : "FFIExternalEnumeration",
 	"category" : "LibUsb-Enumerations",
-	"classinstvars" : [
-		 ],
+	"classinstvars" : [ ],
+	"pools" : [ ],
 	"classvars" : [
 		"LIBUSB_ERROR_ACCESS",
 		"LIBUSB_ERROR_BUSY",
@@ -16,12 +18,9 @@
 		"LIBUSB_ERROR_OVERFLOW",
 		"LIBUSB_ERROR_PIPE",
 		"LIBUSB_ERROR_TIMEOUT",
-		"LIBUSB_SUCCESS" ],
-	"commentStamp" : "JulienDelplanque 7/4/2016 11:42",
-	"instvars" : [
-		 ],
+		"LIBUSB_SUCCESS"
+	],
+	"instvars" : [ ],
 	"name" : "LUErrorEnumeration",
-	"pools" : [
-		 ],
-	"super" : "FFIExternalEnumeration",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,14 +1,13 @@
 {
-	"category" : "LibUsb-Enumerations",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		"LIBUSB_BM_LTM_SUPPORT" ],
 	"commentStamp" : "JulienDelplanque 7/1/2016 16:28",
-	"instvars" : [
-		 ],
-	"name" : "LUSSUsbDeviceCapabilityAttributes",
-	"pools" : [
-		 ],
 	"super" : "FFIExternalEnumeration",
-	"type" : "normal" }
+	"category" : "LibUsb-Enumerations",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"LIBUSB_BM_LTM_SUPPORT"
+	],
+	"instvars" : [ ],
+	"name" : "LUSSUsbDeviceCapabilityAttributes",
+	"type" : "normal"
+}

@@ -1,14 +1,18 @@
 {
-	"category" : "LibUsb-Structures",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 7/1/2016 13:34",
-	"instvars" : [
-		 ],
-	"name" : "LUVersion",
-	"pools" : [
-		 ],
 	"super" : "FFIExternalStructure",
-	"type" : "normal" }
+	"category" : "LibUsb-Structures",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"OFFSET_DESCRIBE",
+		"OFFSET_MAJOR",
+		"OFFSET_MICRO",
+		"OFFSET_MINOR",
+		"OFFSET_NANO",
+		"OFFSET_RC"
+	],
+	"instvars" : [ ],
+	"name" : "LUVersion",
+	"type" : "normal"
+}

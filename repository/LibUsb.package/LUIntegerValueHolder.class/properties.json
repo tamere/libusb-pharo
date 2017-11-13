@@ -1,14 +1,11 @@
 {
-	"category" : "LibUsb-Kernel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 7/5/2016 11:39",
-	"instvars" : [
-		 ],
-	"name" : "LUIntegerValueHolder",
-	"pools" : [
-		 ],
 	"super" : "FFIExternalValueHolder",
-	"type" : "normal" }
+	"category" : "LibUsb-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LUIntegerValueHolder",
+	"type" : "normal"
+}

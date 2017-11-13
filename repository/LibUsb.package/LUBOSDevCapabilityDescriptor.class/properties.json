@@ -1,16 +1,13 @@
 {
-	"category" : "LibUsb-Structures",
-	"classinstvars" : [
-		 ],
 	"classtraitcomposition" : "LULibusbUser classTrait + LUErrorUser classTrait",
-	"classvars" : [
-		 ],
-	"commentStamp" : "JulienDelplanque 7/6/2016 15:11",
-	"instvars" : [
-		 ],
+	"classvars" : [ ],
+	"instvars" : [ ],
 	"name" : "LUBOSDevCapabilityDescriptor",
-	"pools" : [
-		 ],
+	"commentStamp" : "JulienDelplanque 7/6/2016 15:11",
 	"super" : "FFIExternalStructure",
 	"traitcomposition" : "LULibusbUser + LUErrorUser",
-	"type" : "normal" }
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "LibUsb-Structures"
+}

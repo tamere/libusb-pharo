@@ -1,17 +1,16 @@
 {
+	"commentStamp" : "JulienDelplanque 7/1/2016 14:07",
+	"super" : "FFIExternalEnumeration",
 	"category" : "LibUsb-Enumerations",
-	"classinstvars" : [
-		 ],
+	"classinstvars" : [ ],
+	"pools" : [ ],
 	"classvars" : [
 		"LIBUSB_CAP_HAS_CAPABILITY",
 		"LIBUSB_CAP_HAS_HID_ACCESS",
 		"LIBUSB_CAP_HAS_HOTPLUG",
-		"LIBUSB_CAP_SUPPORTS_DETACH_KERNEL_DRIVER" ],
-	"commentStamp" : "JulienDelplanque 7/1/2016 14:07",
-	"instvars" : [
-		 ],
+		"LIBUSB_CAP_SUPPORTS_DETACH_KERNEL_DRIVER"
+	],
+	"instvars" : [ ],
 	"name" : "LUCapabilityEnumeration",
-	"pools" : [
-		 ],
-	"super" : "FFIExternalEnumeration",
-	"type" : "normal" }
+	"type" : "normal"
+}

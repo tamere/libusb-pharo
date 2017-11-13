@@ -1,9 +1,0 @@
-{
-	"class" : {
-		"LIBUSB_ISO_USAGE_TYPE_DATA" : "JulienDelplanque 7/5/2016 15:17",
-		"LIBUSB_ISO_USAGE_TYPE_FEEDBACK" : "JulienDelplanque 7/5/2016 15:17",
-		"LIBUSB_ISO_USAGE_TYPE_IMPLICIT" : "JulienDelplanque 7/5/2016 15:17",
-		"enumDecl" : "JulienDelplanque 7/5/2016 15:17",
-		"initialize" : "JulienDelplanque 7/5/2016 15:17" },
-	"instance" : {
-		 } }

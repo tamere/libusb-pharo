@@ -1,7 +1,9 @@
 {
+	"commentStamp" : "JulienDelplanque 7/5/2016 14:53",
+	"super" : "FFIExternalEnumeration",
 	"category" : "LibUsb-Enumerations",
-	"classinstvars" : [
-		 ],
+	"classinstvars" : [ ],
+	"pools" : [ ],
 	"classvars" : [
 		"LIBUSB_CLASS_APPLICATION",
 		"LIBUSB_CLASS_AUDIO",
@@ -21,12 +23,9 @@
 		"LIBUSB_CLASS_SMART_CARD",
 		"LIBUSB_CLASS_VENDOR_SPEC",
 		"LIBUSB_CLASS_VIDEO",
-		"LIBUSB_CLASS_WIRELESS" ],
-	"commentStamp" : "JulienDelplanque 7/5/2016 14:53",
-	"instvars" : [
-		 ],
+		"LIBUSB_CLASS_WIRELESS"
+	],
+	"instvars" : [ ],
 	"name" : "LUClassCodeEnumeration",
-	"pools" : [
-		 ],
-	"super" : "FFIExternalEnumeration",
-	"type" : "normal" }
+	"type" : "normal"
+}

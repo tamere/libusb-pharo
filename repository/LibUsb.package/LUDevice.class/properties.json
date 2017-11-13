@@ -1,16 +1,13 @@
 {
-	"category" : "LibUsb-Objects",
-	"classinstvars" : [
-		 ],
 	"classtraitcomposition" : "LULibusbUser classTrait + LUErrorUser classTrait",
-	"classvars" : [
-		 ],
-	"commentStamp" : "JulienDelplanque 7/1/2016 13:35",
-	"instvars" : [
-		 ],
+	"classvars" : [ ],
+	"instvars" : [ ],
 	"name" : "LUDevice",
-	"pools" : [
-		 ],
+	"commentStamp" : "JulienDelplanque 7/1/2016 13:35",
 	"super" : "FFIOpaqueObject",
 	"traitcomposition" : "LULibusbUser + LUErrorUser",
-	"type" : "normal" }
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "LibUsb-Objects"
+}

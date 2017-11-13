@@ -1,16 +1,15 @@
 {
+	"commentStamp" : "JulienDelplanque 7/11/2016 14:23",
+	"super" : "FFIExternalEnumeration",
 	"category" : "LibUsb-Enumerations",
-	"classinstvars" : [
-		 ],
+	"classinstvars" : [ ],
+	"pools" : [ ],
 	"classvars" : [
 		"LIBUSB_HOTPLUG_EVENT_DEVICE_ARRIVED",
 		"LIBUSB_HOTPLUG_EVENT_DEVICE_LEFT",
-		"LIBUSB_HOTPLUG_MATCH_ANY" ],
-	"commentStamp" : "JulienDelplanque 7/11/2016 14:23",
-	"instvars" : [
-		 ],
+		"LIBUSB_HOTPLUG_MATCH_ANY"
+	],
+	"instvars" : [ ],
 	"name" : "LUHotplugEventEnumeration",
-	"pools" : [
-		 ],
-	"super" : "FFIExternalEnumeration",
-	"type" : "normal" }
+	"type" : "normal"
+}

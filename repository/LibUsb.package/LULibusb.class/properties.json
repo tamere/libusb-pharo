@@ -1,14 +1,13 @@
 {
-	"category" : "LibUsb-Kernel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		"TypeMap" ],
 	"commentStamp" : "JulienDelplanque 7/1/2016 09:19",
-	"instvars" : [
-		 ],
-	"name" : "LULibusb",
-	"pools" : [
-		 ],
 	"super" : "FFILibrary",
-	"type" : "normal" }
+	"category" : "LibUsb-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"TypeMap"
+	],
+	"instvars" : [ ],
+	"name" : "LULibusb",
+	"type" : "normal"
+}

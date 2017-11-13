@@ -1,18 +1,17 @@
 {
+	"commentStamp" : "JulienDelplanque 7/1/2016 16:14",
+	"super" : "FFIExternalEnumeration",
 	"category" : "LibUsb-Enumerations",
-	"classinstvars" : [
-		 ],
+	"classinstvars" : [ ],
+	"pools" : [ ],
 	"classvars" : [
 		"LIBUSB_LOG_LEVEL_DEBUG",
 		"LIBUSB_LOG_LEVEL_ERROR",
 		"LIBUSB_LOG_LEVEL_INFO",
 		"LIBUSB_LOG_LEVEL_NONE",
-		"LIBUSB_LOG_LEVEL_WARNING" ],
-	"commentStamp" : "JulienDelplanque 7/1/2016 16:14",
-	"instvars" : [
-		 ],
+		"LIBUSB_LOG_LEVEL_WARNING"
+	],
+	"instvars" : [ ],
 	"name" : "LULogLevelEnumeration",
-	"pools" : [
-		 ],
-	"super" : "FFIExternalEnumeration",
-	"type" : "normal" }
+	"type" : "normal"
+}

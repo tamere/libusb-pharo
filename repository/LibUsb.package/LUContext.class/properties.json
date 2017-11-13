@@ -1,16 +1,13 @@
 {
-	"category" : "LibUsb-Objects",
-	"classinstvars" : [
-		 ],
 	"classtraitcomposition" : "LULibusbUser classTrait + LUErrorUser classTrait",
-	"classvars" : [
-		 ],
-	"commentStamp" : "JulienDelplanque 7/1/2016 09:25",
-	"instvars" : [
-		 ],
+	"classvars" : [ ],
+	"instvars" : [ ],
 	"name" : "LUContext",
-	"pools" : [
-		 ],
+	"commentStamp" : "JulienDelplanque 7/1/2016 09:25",
 	"super" : "FFIExternalObject",
 	"traitcomposition" : "LULibusbUser + LUErrorUser",
-	"type" : "normal" }
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "LibUsb-Objects"
+}

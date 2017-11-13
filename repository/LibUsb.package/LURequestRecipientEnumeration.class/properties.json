@@ -1,17 +1,16 @@
 {
+	"commentStamp" : "JulienDelplanque 7/4/2016 11:40",
+	"super" : "FFIExternalEnumeration",
 	"category" : "LibUsb-Enumerations",
-	"classinstvars" : [
-		 ],
+	"classinstvars" : [ ],
+	"pools" : [ ],
 	"classvars" : [
 		"LIBUSB_RECIPIENT_DEVICE",
 		"LIBUSB_RECIPIENT_ENDPOINT",
 		"LIBUSB_RECIPIENT_INTERFACE",
-		"LIBUSB_RECIPIENT_OTHER" ],
-	"commentStamp" : "JulienDelplanque 7/4/2016 11:40",
-	"instvars" : [
-		 ],
+		"LIBUSB_RECIPIENT_OTHER"
+	],
+	"instvars" : [ ],
 	"name" : "LURequestRecipientEnumeration",
-	"pools" : [
-		 ],
-	"super" : "FFIExternalEnumeration",
-	"type" : "normal" }
+	"type" : "normal"
+}

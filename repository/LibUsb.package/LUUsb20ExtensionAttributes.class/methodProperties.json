@@ -1,7 +1,0 @@
-{
-	"class" : {
-		"LIBUSB_BM_LPM_SUPPORT" : "JulienDelplanque 7/4/2016 10:11",
-		"enumDecl" : "JulienDelplanque 7/1/2016 16:27",
-		"initialize" : "JulienDelplanque 7/5/2016 10:08" },
-	"instance" : {
-		 } }

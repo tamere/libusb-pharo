@@ -1,16 +1,25 @@
 {
-	"category" : "LibUsb-Structures",
-	"classinstvars" : [
-		 ],
 	"classtraitcomposition" : "LULibusbUser classTrait",
 	"classvars" : [
-		 ],
-	"commentStamp" : "JulienDelplanque 7/6/2016 14:32",
-	"instvars" : [
-		 ],
+		"OFFSET_BCONFIGURATIONVALUE",
+		"OFFSET_BDESCRIPTORTYPE",
+		"OFFSET_BLENGTH",
+		"OFFSET_BMATTRIBUTES",
+		"OFFSET_BNUMINTERFACES",
+		"OFFSET_EXTRA",
+		"OFFSET_EXTRA_LENGTH",
+		"OFFSET_ICONFIGURATION",
+		"OFFSET_INTERFACE",
+		"OFFSET_MAXPOWER",
+		"OFFSET_WTOTALLENGTH"
+	],
+	"instvars" : [ ],
 	"name" : "LUConfigDescriptor",
-	"pools" : [
-		 ],
+	"commentStamp" : "JulienDelplanque 7/6/2016 14:32",
 	"super" : "FFIExternalStructure",
 	"traitcomposition" : "LULibusbUser",
-	"type" : "normal" }
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "LibUsb-Structures"
+}

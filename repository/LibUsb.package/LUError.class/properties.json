@@ -1,16 +1,15 @@
 {
-	"category" : "LibUsb-Errors",
-	"classinstvars" : [
-		 ],
 	"classtraitcomposition" : "LULibusbUser classTrait",
-	"classvars" : [
-		 ],
-	"commentStamp" : "JulienDelplanque 7/5/2016 09:56",
+	"classvars" : [ ],
 	"instvars" : [
-		"code" ],
+		"code"
+	],
 	"name" : "LUError",
-	"pools" : [
-		 ],
+	"commentStamp" : "JulienDelplanque 7/5/2016 09:56",
 	"super" : "Error",
 	"traitcomposition" : "LULibusbUser",
-	"type" : "normal" }
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "LibUsb-Errors"
+}

@@ -1,17 +1,16 @@
 {
+	"commentStamp" : "JulienDelplanque 7/1/2016 16:30",
+	"super" : "FFIExternalEnumeration",
 	"category" : "LibUsb-Enumerations",
-	"classinstvars" : [
-		 ],
+	"classinstvars" : [ ],
+	"pools" : [ ],
 	"classvars" : [
 		"LIBUSB_BT_CONTAINER_ID",
 		"LIBUSB_BT_SS_USB_DEVICE_CAPABILITY",
 		"LIBUSB_BT_USB_2_0_EXTENSION",
-		"LIBUSB_BT_WIRELESS_USB_DEVICE_CAPABILITY" ],
-	"commentStamp" : "JulienDelplanque 7/1/2016 16:30",
-	"instvars" : [
-		 ],
+		"LIBUSB_BT_WIRELESS_USB_DEVICE_CAPABILITY"
+	],
+	"instvars" : [ ],
 	"name" : "LUBosType",
-	"pools" : [
-		 ],
-	"super" : "FFIExternalEnumeration",
-	"type" : "normal" }
+	"type" : "normal"
+}

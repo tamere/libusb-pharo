@@ -1,14 +1,14 @@
 {
-	"category" : "LibUsb-Structures",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 7/6/2016 10:51",
-	"instvars" : [
-		 ],
-	"name" : "LUInterface",
-	"pools" : [
-		 ],
 	"super" : "FFIExternalStructure",
-	"type" : "normal" }
+	"category" : "LibUsb-Structures",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"OFFSET_ALTSETTING",
+		"OFFSET_NUM_ALTSETTING"
+	],
+	"instvars" : [ ],
+	"name" : "LUInterface",
+	"type" : "normal"
+}

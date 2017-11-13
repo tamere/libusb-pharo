@@ -1,16 +1,13 @@
 {
-	"category" : "LibUsb-Kernel",
-	"classinstvars" : [
-		 ],
 	"classtraitcomposition" : "LULibusbUser classTrait",
-	"classvars" : [
-		 ],
-	"commentStamp" : "JulienDelplanque 7/5/2016 09:35",
-	"instvars" : [
-		 ],
+	"classvars" : [ ],
+	"instvars" : [ ],
 	"name" : "LUDevicesExternalArray",
-	"pools" : [
-		 ],
+	"commentStamp" : "JulienDelplanque 7/5/2016 09:35",
 	"super" : "FFIExternalArray",
 	"traitcomposition" : "LULibusbUser",
-	"type" : "normal" }
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "LibUsb-Kernel"
+}

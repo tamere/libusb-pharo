@@ -1,15 +1,14 @@
 {
+	"commentStamp" : "JulienDelplanque 7/11/2016 14:22",
+	"super" : "FFIExternalEnumeration",
 	"category" : "LibUsb-Enumerations",
-	"classinstvars" : [
-		 ],
+	"classinstvars" : [ ],
+	"pools" : [ ],
 	"classvars" : [
 		"LIBUSB_HOTPLUG_ENUMERATE",
-		"LIBUSB_HOTPLUG_NO_FLAGS" ],
-	"commentStamp" : "JulienDelplanque 7/11/2016 14:22",
-	"instvars" : [
-		 ],
+		"LIBUSB_HOTPLUG_NO_FLAGS"
+	],
+	"instvars" : [ ],
 	"name" : "LUHotplugFlagEnumeration",
-	"pools" : [
-		 ],
-	"super" : "FFIExternalEnumeration",
-	"type" : "normal" }
+	"type" : "normal"
+}
