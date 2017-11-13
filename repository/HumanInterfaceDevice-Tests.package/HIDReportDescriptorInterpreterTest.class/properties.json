@@ -1,14 +1,13 @@
 {
-	"category" : "HumanInterfaceDevice-Tests",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		"hidReportDescriptorInterpreter" ],
-	"name" : "HIDReportDescriptorInterpreterTest",
-	"pools" : [
-		 ],
 	"super" : "TestCase",
-	"type" : "normal" }
+	"category" : "HumanInterfaceDevice-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"hidReportDescriptorInterpreter"
+	],
+	"name" : "HIDReportDescriptorInterpreterTest",
+	"type" : "normal"
+}

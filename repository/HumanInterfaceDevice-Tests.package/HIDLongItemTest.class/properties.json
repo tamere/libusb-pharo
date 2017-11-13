@@ -1,15 +1,14 @@
 {
-	"category" : "HumanInterfaceDevice-Tests",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "HumanInterfaceDevice-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"rawData",
-		"hidLongItem" ],
+		"hidLongItem"
+	],
 	"name" : "HIDLongItemTest",
-	"pools" : [
-		 ],
-	"super" : "TestCase",
-	"type" : "normal" }
+	"type" : "normal"
+}

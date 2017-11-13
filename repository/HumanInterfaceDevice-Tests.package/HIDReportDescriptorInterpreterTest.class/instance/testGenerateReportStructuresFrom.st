@@ -5,8 +5,8 @@ testGenerateReportStructuresFrom
 									generateReportStructuresFrom: self hidObjects.
 	self assert: reportStructures size equals: 1.
 	
-	self assert: reportStructures first itemStateTables size equals: 1.
-	self assert: reportStructures first bitSize equals: 8.
+	self assert: reportStructures reportStructures first itemStateTables size equals: 1.
+	self assert: reportStructures reportStructures first bitSize equals: 8.
 	
 	reportStructures := hidReportDescriptorInterpreter
 									generateReportStructuresFrom: self hidObjects2.

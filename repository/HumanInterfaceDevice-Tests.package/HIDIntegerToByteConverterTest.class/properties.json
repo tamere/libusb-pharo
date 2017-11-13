@@ -1,16 +1,13 @@
 {
-	"category" : "HumanInterfaceDevice-Tests",
-	"classinstvars" : [
-		 ],
 	"classtraitcomposition" : "HIDIntegerToByteConverter classTrait",
-	"classvars" : [
-		 ],
-	"commentStamp" : "",
-	"instvars" : [
-		 ],
+	"classvars" : [ ],
+	"instvars" : [ ],
 	"name" : "HIDIntegerToByteConverterTest",
-	"pools" : [
-		 ],
+	"commentStamp" : "",
 	"super" : "TestCase",
 	"traitcomposition" : "HIDIntegerToByteConverter",
-	"type" : "normal" }
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "HumanInterfaceDevice-Tests"
+}

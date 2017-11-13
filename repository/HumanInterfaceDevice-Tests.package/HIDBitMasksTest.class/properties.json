@@ -1,16 +1,13 @@
 {
-	"category" : "HumanInterfaceDevice-Tests",
-	"classinstvars" : [
-		 ],
 	"classtraitcomposition" : "HIDBitMasks classTrait",
-	"classvars" : [
-		 ],
-	"commentStamp" : "",
-	"instvars" : [
-		 ],
+	"classvars" : [ ],
+	"instvars" : [ ],
 	"name" : "HIDBitMasksTest",
-	"pools" : [
-		 ],
+	"commentStamp" : "",
 	"super" : "TestCase",
 	"traitcomposition" : "HIDBitMasks",
-	"type" : "normal" }
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "HumanInterfaceDevice-Tests"
+}

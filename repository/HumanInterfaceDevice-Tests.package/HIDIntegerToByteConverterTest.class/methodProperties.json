@@ -1,8 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"testBytesFromIntegerWithSize" : "JulienDelplanque 7/26/2016 14:00",
-		"testBytesFromUnsignedIntegerWithSize" : "7/25/2016 08:27:14",
-		"testMinimalArraySizeForInteger" : "7/25/2016 08:27:14",
-		"testMinimalArraySizeForUnsignedInteger" : "7/25/2016 08:27:14" } }
