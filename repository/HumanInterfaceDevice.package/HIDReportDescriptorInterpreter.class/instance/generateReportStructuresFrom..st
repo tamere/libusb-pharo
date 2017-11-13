@@ -14,7 +14,10 @@ generateReportStructuresFrom: aCollectionOfHIDObjects
 						boolean or: [ currentItemStateTable hasReportId ] ].
 
 	hasIds
-		ifFalse: [ ^ { HIDReportStructure itemStateTables: coherentItemStateTables } ].
+		ifFalse: [ 
+			^ HIDReportStructureCollection new
+				reportStructures: { HIDReportStructure itemStateTables: coherentItemStateTables };
+				yourself ].
 	
 	idToItemStateTable := ((coherentItemStateTables select: #hasReportId)
 									groupedBy: #reportId).
