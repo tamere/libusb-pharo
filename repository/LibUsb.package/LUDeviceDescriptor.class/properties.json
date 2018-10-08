@@ -4,7 +4,22 @@
 	"category" : "LibUsb-Structures",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [ ],
+	"classvars" : [
+		"OFFSET_BCDDEVICE",
+		"OFFSET_BCDUSB",
+		"OFFSET_BDESCRIPTORTYPE",
+		"OFFSET_BDEVICECLASS",
+		"OFFSET_BDEVICEPROTOCOL",
+		"OFFSET_BDEVICESUBCLASS",
+		"OFFSET_BLENGTH",
+		"OFFSET_BMAXPACKETSIZE0",
+		"OFFSET_BNUMCONFIGURATIONS",
+		"OFFSET_IDPRODUCT",
+		"OFFSET_IDVENDOR",
+		"OFFSET_IMANUFACTURER",
+		"OFFSET_IPRODUCT",
+		"OFFSET_ISERIALNUMBER"
+	],
 	"instvars" : [ ],
 	"name" : "LUDeviceDescriptor",
 	"type" : "normal"
